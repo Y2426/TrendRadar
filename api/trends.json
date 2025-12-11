@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-11T19:59:31.565389+08:00",
+  "generated_at": "2025-12-11T20:05:07.033213+08:00",
   "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
@@ -32,6 +32,17 @@
           "time_info": "[04时32分 ~ 10时08分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 20时05分]"
+        },
+        {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
           "url": "https://www.cls.cn/detail/2225986",
           "source": "财联社热门",
@@ -57,17 +68,6 @@
           "time_info": "[00时47分 ~ 07时40分]"
         },
         {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时59分]"
-        },
-        {
           "title": "特朗普：被扣押油轮上的石油归美国了",
           "url": "https://www.toutiao.com/trending/7581744403334086710/",
           "source": "今日头条",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时38分 ~ 17时33分]"
+        },
+        {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 20时05分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -101,17 +112,6 @@
           "time_info": "01时29分"
         },
         {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时59分]"
-        },
-        {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
           "url": "https://flash.jin10.com/detail/20251211040650470800",
           "source": "金十数据",
@@ -121,6 +121,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 20时05分]"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -159,6 +171,18 @@
           "time_info": "[00时48分 ~ 01时29分]"
         },
         {
+          "title": "博主：特朗普金卡收割富人的智商税",
+          "url": "https://www.toutiao.com/trending/7582469315815804457/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时26分 ~ 20时05分]"
+        },
+        {
           "title": "美威胁国际刑事法院：不要调查特朗普",
           "url": "https://www.toutiao.com/trending/7582367829178269750/",
           "source": "今日头条",
@@ -169,18 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时30分 ~ 16时38分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 19时59分]"
         },
         {
           "title": "“特朗普黄金卡”开始接受申请",
@@ -251,18 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "博主：特朗普金卡收割富人的智商税",
-          "url": "https://www.toutiao.com/trending/7582469315815804457/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时59分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -664,8 +664,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时40分 ~ 19时59分]"
+          "appearance_count": 19,
+          "time_info": "[07时40分 ~ 20时05分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -900,8 +900,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时33分 ~ 19时59分]"
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 20时05分]"
         },
         {
           "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
