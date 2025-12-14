@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:20:23.528929+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-14T15:14:29.963379+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 15时14分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 14时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 15时14分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -122,11 +122,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时14分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -192,8 +193,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 15时14分]"
         }
       ]
     },
