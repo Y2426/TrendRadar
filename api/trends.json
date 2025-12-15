@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T19:14:22.846059+08:00",
-  "total_titles_processed": 1517,
+  "generated_at": "2025-12-15T20:31:11.820023+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -54,7 +54,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -80,6 +80,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时24分 ~ 13时20分]"
+        },
+        {
+          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
+          "url": "https://www.cls.cn/detail/2229902",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时18分 ~ 20时31分]"
         },
         {
           "title": "蚂蚁集团推出AI健康应用阿福",
@@ -116,18 +129,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时19分]"
-        },
-        {
-          "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
-          "url": "https://www.cls.cn/detail/2229902",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
         },
         {
           "title": "短剧女演员都快美成AI了",
