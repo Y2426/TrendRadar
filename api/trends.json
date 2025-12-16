@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:19:51.993177+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2025-12-16T16:21:31.608621+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时21分]"
         },
         {
           "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
@@ -53,22 +53,12 @@
             17,
             11,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时19分 ~ 15时19分]"
-        },
-        {
-          "title": "韦氏词典将表示AI劣质内容的“slop”评为年度热词",
-          "url": "https://wallstreetcn.com/livenews/3021457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 16时21分]"
         },
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -80,8 +70,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 16时21分]"
+        },
+        {
+          "title": "韦氏词典将表示AI劣质内容的“slop”评为年度热词",
+          "url": "https://wallstreetcn.com/livenews/3021457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "意大利企业AI技术使用率翻倍",
@@ -300,8 +301,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时19分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 16时21分]"
         },
         {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
