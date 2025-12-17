@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T11:52:02.427760+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-12-17T12:27:56.188115+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时25分 ~ 11时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时25分 ~ 12时27分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -38,11 +38,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 11时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时50分 ~ 12时27分]"
         },
         {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
@@ -241,7 +242,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         },
