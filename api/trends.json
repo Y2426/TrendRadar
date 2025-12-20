@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:23:08.236467+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2025-12-20T22:12:43.266204+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时13分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时13分 ~ 22时12分]"
         },
         {
           "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
@@ -32,8 +32,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时17分 ~ 21时23分]"
+          "appearance_count": 10,
+          "time_info": "[16时17分 ~ 22时12分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -61,6 +61,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[07时13分 ~ 12时20分]"
+        },
+        {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时13分 ~ 22时12分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
@@ -97,19 +110,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时14分 ~ 20时25分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时13分 ~ 21时23分]"
         },
         {
           "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
@@ -245,6 +245,21 @@
           "time_info": "[13时14分 ~ 17时14分]"
         },
         {
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            16,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
           "url": "https://wallstreetcn.com/livenews/3024191",
           "source": "华尔街见闻-快讯",
@@ -256,20 +271,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 10时45分]"
-        },
-        {
-          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
-          "url": "https://wallstreetcn.com/livenews/3024264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时23分]"
         },
         {
           "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
@@ -298,6 +299,18 @@
           "time_info": "[01时13分 ~ 02时20分]"
         },
         {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 22时12分]"
+        },
+        {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
           "url": "https://wallstreetcn.com/livenews/3024138",
           "source": "华尔街见闻-快讯",
@@ -319,17 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时13分 ~ 17时14分]"
-        },
-        {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 21时23分]"
         },
         {
           "title": "AI大神：AI大模型正演变成新型智能",
@@ -377,6 +379,31 @@
           "time_info": "[01时13分 ~ 11时45分]"
         },
         {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时23分 ~ 22时12分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时13分 ~ 22时12分]"
+        },
+        {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
           "url": "https://wallstreetcn.com/livenews/3024206",
           "source": "华尔街见闻-快讯",
@@ -391,39 +418,16 @@
           "time_info": "[09时01分 ~ 12时20分]"
         },
         {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时23分 ~ 21时23分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时13分 ~ 21时23分]"
-        },
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 21时23分]"
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 22时12分]"
         }
       ]
     },
@@ -454,11 +458,12 @@
           "ranks": [
             6,
             7,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
