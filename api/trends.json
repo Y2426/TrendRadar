@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-20T19:11:29.233133+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-12-20T20:25:04.576794+08:00",
+  "total_titles_processed": 1435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 23,
       "titles": [
+        {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时13分 ~ 20时25分]"
+        },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
@@ -45,25 +60,12 @@
             12,
             17,
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 19时11分]"
-        },
-        {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时13分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 20时25分]"
         },
         {
           "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
@@ -76,11 +78,25 @@
             13,
             18,
             19,
-            20
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 20时25分]"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            2
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时14分 ~ 19时11分]"
+          "time_info": "[16时17分 ~ 20时25分]"
         },
         {
           "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
@@ -112,17 +128,46 @@
           "time_info": "[13时14分 ~ 18时13分]"
         },
         {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            2
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 20时25分]"
+        },
+        {
+          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
+          "url": "https://wallstreetcn.com/livenews/3024251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            18,
+            27,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时17分 ~ 19时11分]"
+          "time_info": "[16时17分 ~ 20时25分]"
+        },
+        {
+          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
+          "url": "https://wallstreetcn.com/livenews/3024250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            19,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 20时25分]"
         },
         {
           "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
@@ -139,32 +184,32 @@
           "time_info": "[15时13分 ~ 18时13分]"
         },
         {
-          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
-          "url": "https://wallstreetcn.com/livenews/3024251",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时25分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8,
-            18,
-            27
+            13,
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时11分]"
-        },
-        {
-          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
-          "url": "https://wallstreetcn.com/livenews/3024250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时11分]"
+          "time_info": "[17时14分 ~ 20时25分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
@@ -182,6 +227,20 @@
           "time_info": "[13时14分 ~ 17时14分]"
         },
         {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时25分]"
+        },
+        {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
           "url": "https://wallstreetcn.com/livenews/3024191",
           "source": "华尔街见闻-快讯",
@@ -195,55 +254,30 @@
           "time_info": "[07时14分 ~ 10时45分]"
         },
         {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
-          "url": "https://wallstreetcn.com/livenews/3024259",
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11,
-            20
+            6,
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
+          "time_info": "[18时13分 ~ 20时25分]"
         },
         {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
-          "url": "https://wallstreetcn.com/livenews/3024257",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
+          "url": "https://wallstreetcn.com/livenews/3024262",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            13,
-            22
+            8,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
-          "url": "https://wallstreetcn.com/livenews/3024256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时11分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 19时11分]"
+          "time_info": "[18时13分 ~ 20时25分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -258,18 +292,6 @@
           "time_info": "[01时13分 ~ 02时20分]"
         },
         {
-          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
-          "url": "https://wallstreetcn.com/livenews/3024264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
-        },
-        {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
           "url": "https://wallstreetcn.com/livenews/3024138",
           "source": "华尔街见闻-快讯",
@@ -280,18 +302,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时15分 ~ 05时13分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
-          "url": "https://wallstreetcn.com/livenews/3024262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时11分]"
         },
         {
           "title": "UP主AI制作科学家传记电影",
@@ -318,64 +328,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            13,
-            16,
-            18,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 16时17分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3024168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时14分 ~ 07时14分]"
-        },
-        {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
-          "url": "https://wallstreetcn.com/livenews/3024048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -429,6 +383,74 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时13分 ~ 19时11分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时23分 ~ 20时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13,
+            16,
+            18,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 16时17分]"
+        },
+        {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时25分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3024168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时14分 ~ 07时14分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
