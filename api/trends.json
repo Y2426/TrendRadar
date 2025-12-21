@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T17:14:20.108688+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2025-12-21T18:14:08.133011+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 18时14分]"
         },
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 18时14分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -71,11 +71,12 @@
             2,
             5,
             20,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 17时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 18时14分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -124,8 +125,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时17分 ~ 17时14分]"
+          "appearance_count": 22,
+          "time_info": "[02时17分 ~ 18时14分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣系AI生成",
@@ -135,8 +136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 18时14分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -146,8 +147,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 18时14分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -159,8 +160,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[09时07分 ~ 18时14分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -171,8 +172,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时20分 ~ 17时14分]"
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 18时14分]"
+        },
+        {
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 18时14分]"
         },
         {
           "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
@@ -222,16 +235,15 @@
           "time_info": "[12时31分 ~ 13时15分]"
         },
         {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
+          "title": "哈尔滨大雪人穿雨衣系AI生成",
+          "url": "https://www.douyin.com/hot/2343306",
           "source": "抖音",
           "ranks": [
-            14,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时17分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "豆包狂飙，字节AI再亮剑",
@@ -276,17 +288,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "哈尔滨大雪人穿雨衣系AI生成",
-          "url": "https://www.douyin.com/hot/2343306",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         }
       ]
     },
@@ -371,8 +372,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 18时14分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
