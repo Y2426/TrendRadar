@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T21:23:36.133884+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2025-12-21T22:13:09.949589+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时24分 ~ 21时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时24分 ~ 22时13分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
@@ -74,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时20分 ~ 21时23分]"
+          "appearance_count": 13,
+          "time_info": "[14时20分 ~ 22时13分]"
         },
         {
           "title": "中信建投：继续看好AI算力板块",
@@ -89,11 +89,12 @@
             16,
             21,
             23,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 21时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 22时13分]"
         },
         {
           "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
@@ -143,8 +144,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[02时17分 ~ 19时11分]"
+          "appearance_count": 25,
+          "time_info": "[02时17分 ~ 22时13分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣系AI生成",
@@ -165,8 +166,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时07分 ~ 21时23分]"
+          "appearance_count": 19,
+          "time_info": "[09时07分 ~ 22时13分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年12月20日",
@@ -189,8 +190,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 21时23分]"
+          "appearance_count": 8,
+          "time_info": "[17时14分 ~ 22时13分]"
         },
         {
           "title": "挑战复刻AI可食用岩浆",
@@ -299,7 +300,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -360,13 +361,24 @@
           "time_info": "[00时15分 ~ 09时08分]"
         },
         {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
+        },
+        {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
           "url": "https://www.zhihu.com/question/1985011347914774514",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时23分"
         }
@@ -374,7 +386,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -424,8 +436,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 22时13分]"
+        },
+        {
+          "title": "Gemini数学实力测试",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时23分]"
+          "time_info": "[22时12分 ~ 22时13分]"
         }
       ]
     },
@@ -440,9 +463,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时23分 ~ 22时13分]"
         }
       ]
     },
