@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T09:06:50.918456+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2025-12-22T11:27:25.747055+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
@@ -80,30 +80,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 09时06分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 11时27分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
           "url": "https://www.cls.cn/detail/2235733",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 11时27分]"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
           "url": "https://www.zhihu.com/question/1984781101030478834",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 11时27分]"
         },
         {
           "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
@@ -112,9 +114,39 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 11时27分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
         }
       ]
     },
@@ -164,24 +196,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 09时06分]"
         }
       ]
     },
