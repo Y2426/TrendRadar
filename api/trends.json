@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T21:31:12.225398+08:00",
-  "total_titles_processed": 1731,
+  "generated_at": "2025-12-22T22:15:34.337034+08:00",
+  "total_titles_processed": 1810,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,20 @@
           "time_info": "[00时15分 ~ 09时06分]"
         },
         {
+          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
+          "url": "https://www.cls.cn/detail/2236150",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 22时15分]"
+        },
+        {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
           "url": "https://www.douyin.com/hot/2343306",
           "source": "抖音",
@@ -88,20 +102,6 @@
           "time_info": "[01时12分 ~ 18时17分]"
         },
         {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时31分]"
-        },
-        {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
           "url": "https://wallstreetcn.com/articles/3761823",
           "source": "华尔街见闻",
@@ -111,8 +111,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时15分 ~ 21时31分]"
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时15分]"
+        },
+        {
+          "title": "AI定格|2025·强国脉动",
+          "url": "https://www.toutiao.com/trending/7586532944194502707/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时15分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -125,17 +136,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时24分 ~ 19时13分]"
-        },
-        {
-          "title": "AI定格|2025·强国脉动",
-          "url": "https://www.toutiao.com/trending/7586532944194502707/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时31分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -204,6 +204,18 @@
           "time_info": "[13时19分 ~ 14时24分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2025年12月21日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225231",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 22时15分]"
+        },
+        {
           "title": "东方港湾董事长但斌：“AI泡沫论”是噪音，远离融资炒股",
           "url": "https://wallstreetcn.com/livenews/3024907",
           "source": "华尔街见闻-快讯",
@@ -240,17 +252,6 @@
           "time_info": "[09时06分 ~ 11时27分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年12月21日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225231",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时31分]"
-        },
-        {
           "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
           "url": "https://wallstreetcn.com/livenews/3024716",
           "source": "华尔街见闻-快讯",
@@ -279,7 +280,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时31分"
         },
