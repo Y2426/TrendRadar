@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T04:15:18.707590+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-12-24T05:13:54.966947+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             20,
             23,
             9,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时17分 ~ 04时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 05时13分]"
         },
         {
           "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
@@ -57,11 +58,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时13分]"
         }
       ]
     }
