@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T15:19:11.924807+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2025-12-23T16:20:47.433523+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             13,
             20,
             25,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 15时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 16时20分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -70,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 16时20分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -81,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 16时20分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -92,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时03分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时03分 ~ 16时20分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -277,8 +278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时13分 ~ 15时19分]"
+          "appearance_count": 18,
+          "time_info": "[01时13分 ~ 16时20分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
