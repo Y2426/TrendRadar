@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T22:14:03.877594+08:00",
-  "total_titles_processed": 1799,
+  "generated_at": "2025-12-25T23:14:35.839827+08:00",
+  "total_titles_processed": 1867,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时19分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[16时19分 ~ 23时14分]"
         },
         {
           "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
@@ -93,6 +93,17 @@
           "time_info": "[06时14分 ~ 07时13分]"
         },
         {
+          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
+          "url": "https://wallstreetcn.com/articles/3762031",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
           "title": "报道：三星电子计划在2027年前自主研发用于端侧AI产品的GPU",
           "url": "https://wallstreetcn.com/livenews/3026750",
           "source": "华尔街见闻-快讯",
@@ -103,17 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时28分 ~ 22时14分]"
-        },
-        {
-          "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
-          "url": "https://wallstreetcn.com/articles/3762031",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "中欧基金罗佳明：AI产业中，明年更看好国产半导体与制造领域",
@@ -262,7 +262,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
@@ -282,8 +282,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时27分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时27分 ~ 23时14分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
