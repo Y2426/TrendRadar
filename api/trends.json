@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T16:20:12.293025+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2025-12-25T17:17:28.907824+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时21分 ~ 16时20分]"
-        },
-        {
-          "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "appearance_count": 9,
+          "time_info": "[11时21分 ~ 17时17分]"
         },
         {
           "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
@@ -39,8 +28,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时17分]"
+        },
+        {
+          "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -83,11 +83,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 17时17分]"
         },
         {
           "title": "中欧基金罗佳明：AI产业中，明年更看好国产半导体与制造领域",
