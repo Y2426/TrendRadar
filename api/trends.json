@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T19:13:20.059328+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-12-26T20:27:15.570210+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -98,11 +98,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时13分]"
+          "appearance_count": 5,
+          "time_info": "[17时16分 ~ 20时27分]"
         },
         {
           "title": "UP主用AI挑战肉鸽游戏",
@@ -115,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 18时15分]"
+        },
+        {
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
