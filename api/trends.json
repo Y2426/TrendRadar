@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T21:28:55.037887+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2025-12-26T22:14:33.651414+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -111,11 +111,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时14分]"
         },
         {
           "title": "UP主用AI挑战肉鸽游戏",
@@ -151,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
@@ -189,7 +201,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
@@ -203,6 +215,17 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时17分 ~ 18时15分]"
+        },
+        {
+          "title": "谷歌将允许用户更改Gmail邮箱地址",
+          "url": "https://flash.jin10.com/detail/20251226220031392800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         }
       ]
     },
