@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:14:55.888993+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2025-12-27T18:14:06.043573+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 17时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时14分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -35,11 +35,12 @@
             10,
             26,
             15,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 17时14分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时14分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -68,11 +69,12 @@
             15,
             18,
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 17时14分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 18时14分]"
         },
         {
           "title": "科研创新 idea 要不要告诉 AI?",
@@ -90,6 +92,19 @@
           "time_info": "[03时11分 ~ 07时14分]"
         },
         {
+          "title": "如何看待李蒙疑似在围棋杀猪大会使用 ai 眼镜作弊?",
+          "url": "https://www.zhihu.com/question/1987661697423517255",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时14分]"
+        },
+        {
           "title": "2025年度AI好用工具",
           "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
           "source": "bilibili 热搜",
@@ -102,18 +117,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 11时17分]"
-        },
-        {
-          "title": "如何看待李蒙疑似在围棋杀猪大会使用 ai 眼镜作弊?",
-          "url": "https://www.zhihu.com/question/1987661697423517255",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时14分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
