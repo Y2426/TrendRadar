@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T00:16:12.266712+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-29T01:12:28.357110+08:00",
+  "total_titles_processed": 350,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -37,8 +37,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 00时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 01时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当豆包教我打扮",
+          "url": "https://www.douyin.com/hot/2349059",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时12分"
         }
       ]
     }
