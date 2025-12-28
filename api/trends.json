@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T14:21:22.585145+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2025-12-28T15:15:35.754095+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
@@ -52,11 +52,12 @@
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 15时15分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -90,11 +91,12 @@
             15,
             18,
             19,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 14时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 15时15分]"
         },
         {
           "title": "豆包的朋友又多了一个？",
@@ -105,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 15时15分]"
         }
       ]
     }
