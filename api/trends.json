@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:19:09.574998+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2025-12-28T14:21:22.585145+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时13分 ~ 14时21分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 14时21分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -59,17 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时42分 ~ 13时19分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 13时19分]"
         }
       ]
     },
@@ -89,11 +89,12 @@
             14,
             15,
             18,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 13时19分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 14时21分]"
         },
         {
           "title": "豆包的朋友又多了一个？",
@@ -104,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 14时21分]"
         }
       ]
     }
