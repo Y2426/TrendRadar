@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T18:14:27.409848+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-28T19:12:28.205019+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时11分 ~ 13时19分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时18分 ~ 19时12分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -48,30 +61,18 @@
           "time_info": "[07时13分 ~ 14时21分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 18时14分]"
-        },
-        {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
           "url": "https://wallstreetcn.com/livenews/3027613",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 18时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 19时12分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -103,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时41分 ~ 19时12分]"
         },
         {
           "title": "当豆包教我打扮",
@@ -123,8 +124,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时15分 ~ 18时14分]"
+          "appearance_count": 25,
+          "time_info": "[00时15分 ~ 19时12分]"
         }
       ]
     }
