@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T17:14:15.850229+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2025-12-28T18:14:27.409848+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 17时14分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时14分]"
         },
         {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
@@ -65,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 17时14分]"
+          "appearance_count": 3,
+          "time_info": "[16时18分 ~ 18时14分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -97,11 +99,12 @@
           "ranks": [
             8,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 18时14分]"
         },
         {
           "title": "当豆包教我打扮",
@@ -120,8 +123,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 17时14分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 18时14分]"
         }
       ]
     }
