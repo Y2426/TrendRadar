@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:20:31.288360+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-12-31T17:19:22.246023+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -80,6 +80,21 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时21分 ~ 17时19分]"
+        },
+        {
           "title": "AI造假当庭露馅,法官严斥伪造者",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
           "source": "贴吧",
@@ -92,21 +107,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时18分 ~ 14时23分]"
-        },
-        {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时21分 ~ 16时20分]"
         },
         {
           "title": "国家广播电视总局部署开展“AI魔改”视频专项治理。",
@@ -155,6 +155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
@@ -215,18 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时13分]"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时20分]"
         },
         {
           "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
