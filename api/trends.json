@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:20:53.489656+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-02T03:12:19.071874+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -37,8 +37,22 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
+        },
+        {
+          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
+          "url": "https://wallstreetcn.com/livenews/3029625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15,
+            20,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -51,19 +65,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 01时14分]"
-        },
-        {
-          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
-          "url": "https://wallstreetcn.com/livenews/3029625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
         }
       ]
     },
@@ -79,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -91,8 +92,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -101,11 +102,12 @@
           "ranks": [
             20,
             17,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 02时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 03时12分]"
         }
       ]
     },
@@ -120,11 +122,12 @@
           "ranks": [
             8,
             14,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -133,11 +136,12 @@
           "ranks": [
             8,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -146,11 +150,12 @@
           "ranks": [
             9,
             15,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时18分 ~ 02时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 03时12分]"
         }
       ]
     }
