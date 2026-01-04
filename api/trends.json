@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T19:12:07.725276+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-04T20:25:51.527627+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时44分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[11时44分 ~ 20时25分]"
         },
         {
           "title": "美食博主手搓对抗AI的一年",
@@ -81,11 +81,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时14分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时14分 ~ 20时25分]"
         },
         {
           "title": "国行版AI上线了？苹果回应",
@@ -111,6 +112,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 11时44分]"
+        },
+        {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时25分]"
         },
         {
           "title": "iPhone国行版AI疑似灰度测试",
@@ -156,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 03时11分]"
-        },
-        {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
         },
         {
           "title": "几毛钱学的AI魔改1条能赚上千",
