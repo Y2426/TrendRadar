@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-05T05:13:07.290854+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-01-05T06:14:15.774514+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 05时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 06时14分]"
         },
         {
           "title": "腾讯回应用户被元宝AI辱骂",
@@ -25,11 +25,12 @@
           "ranks": [
             29,
             18,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 05时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 06时14分]"
         },
         {
           "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
@@ -39,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[03时10分 ~ 06时14分]"
         },
         {
           "title": "央视点名AI魔改乱象",
