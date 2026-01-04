@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T20:25:51.527627+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-04T21:26:19.102395+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
@@ -102,6 +102,19 @@
           "time_info": "[17时14分 ~ 19时12分]"
         },
         {
+          "title": "腾讯回应元宝AI辱骂用户",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 21时26分]"
+        },
+        {
           "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
           "url": "https://wallstreetcn.com/articles/3762476",
           "source": "华尔街见闻",
@@ -112,18 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 11时44分]"
-        },
-        {
-          "title": "腾讯回应元宝AI辱骂用户",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82%E7%94%A8%E6%88%B7%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时11分 ~ 20时25分]"
         },
         {
           "title": "iPhone国行版AI疑似灰度测试",
@@ -180,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "腾讯回应用户被元宝AI辱骂",
+          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时26分"
         }
       ]
     },
