@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T19:13:56.462229+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-01-06T20:29:31.034099+08:00",
+  "total_titles_processed": 1850,
   "failed_sources": [],
   "trends": [
     {
@@ -456,11 +456,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 19时13分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 20时29分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
