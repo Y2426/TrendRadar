@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:33:45.192993+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-01-08T13:19:19.059716+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时19分]"
         },
         {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
@@ -158,7 +158,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
