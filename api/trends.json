@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T21:36:41.822906+08:00",
-  "total_titles_processed": 1992,
+  "generated_at": "2026-01-08T22:19:28.211409+08:00",
+  "total_titles_processed": 2079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -71,6 +71,20 @@
           "time_info": "[00时20分 ~ 07时14分]"
         },
         {
+          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
+          "url": "https://www.cls.cn/detail/2251902",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 22时19分]"
+        },
+        {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
           "url": "https://wallstreetcn.com/livenews/3032745",
           "source": "华尔街见闻-快讯",
@@ -82,17 +96,15 @@
           "time_info": "07时14分"
         },
         {
-          "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
-          "url": "https://www.cls.cn/detail/2251902",
-          "source": "财联社热门",
+          "title": "CrowdStrike按7.4亿美元收购AI安全初创公司SGNL。",
+          "url": "https://wallstreetcn.com/livenews/3033383",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
@@ -131,6 +143,19 @@
           "time_info": "[04时17分 ~ 05时14分]"
         },
         {
+          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
+          "url": "https://www.cls.cn/detail/2251790",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时19分]"
+        },
+        {
           "title": "智谱预计全球AI公司将陷入价格战",
           "url": "https://wallstreetcn.com/livenews/3032893",
           "source": "华尔街见闻-快讯",
@@ -141,18 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时33分]"
-        },
-        {
-          "title": "电力成AI竞赛关键！马斯克：中国AI算力将“远超世界他国”",
-          "url": "https://www.cls.cn/detail/2251790",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时36分]"
         },
         {
           "title": "马斯克：中国AI算力领先世界",
@@ -371,7 +384,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -382,7 +395,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
         },
@@ -422,8 +435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 21时36分]"
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 22时19分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus：企业从事对外投资等活动须符合中国法律法规",
@@ -477,8 +490,22 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时36分]"
+          "appearance_count": 6,
+          "time_info": "[18时17分 ~ 22时19分]"
+        },
+        {
+          "title": "商务部回应审查 Meta 收购 Manus，企业从事对外投资等活动须符合中国法律法规，有何警示？",
+          "url": "https://www.zhihu.com/question/1992618601656639872",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 22时19分]"
         },
         {
           "title": "商务部回应审查Meta收购Manus",
@@ -491,19 +518,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时20分 ~ 18时18分]"
-        },
-        {
-          "title": "商务部回应审查 Meta 收购 Manus，企业从事对外投资等活动须符合中国法律法规，有何警示？",
-          "url": "https://www.zhihu.com/question/1992618601656639872",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时36分]"
         },
         {
           "title": "商务部将对Meta收购Manus开展调查",
@@ -562,8 +576,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "20页→86页！DeepSeek“爆更”论文",
+          "url": "https://wallstreetcn.com/livenews/3033376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
         {
           "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
           "url": "https://wallstreetcn.com/livenews/3033026",
