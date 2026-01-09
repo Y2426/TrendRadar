@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T19:14:16.157906+08:00",
-  "total_titles_processed": 1810,
+  "generated_at": "2026-01-09T20:29:00.714594+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时29分]"
+        },
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时13分 ~ 20时29分]"
+        },
+        {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 20时29分]"
         },
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -61,29 +87,30 @@
           "time_info": "[09时05分 ~ 15时20分]"
         },
         {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
           "ranks": [
-            13,
+            12,
+            8,
             9,
-            6,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "time_info": "[17时21分 ~ 20时29分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时29分]"
         },
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
@@ -107,31 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时20分 ~ 17时21分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 19时14分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
