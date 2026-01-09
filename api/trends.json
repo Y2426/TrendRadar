@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T14:23:27.805978+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-01-09T15:20:54.555626+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             24,
             29,
             5,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 14时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 15时20分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -43,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时23分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时20分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
@@ -388,7 +389,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时23分"
         }
