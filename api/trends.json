@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:14:11.250998+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-01-10T19:12:45.549167+08:00",
+  "total_titles_processed": 1419,
   "failed_sources": [],
   "trends": [
     {
@@ -129,6 +129,18 @@
           "time_info": "[07时14分 ~ 11时18分]"
         },
         {
+          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 19时12分]"
+        },
+        {
           "title": "AI怕你在婚礼上冷",
           "url": "https://www.douyin.com/hot/2363223",
           "source": "抖音",
@@ -139,17 +151,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时14分 ~ 18时14分]"
-        },
-        {
-          "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -201,8 +202,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时18分 ~ 18时14分]"
+          "appearance_count": 11,
+          "time_info": "[11时18分 ~ 19时12分]"
         },
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -232,8 +233,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时13分 ~ 18时14分]"
+          "appearance_count": 14,
+          "time_info": "[07时13分 ~ 19时12分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -242,11 +243,12 @@
           "ranks": [
             9,
             4,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时20分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[14时20分 ~ 19时12分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -255,11 +257,12 @@
           "ranks": [
             4,
             15,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 19时12分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
