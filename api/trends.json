@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T13:21:17.827764+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-01-15T14:23:12.184182+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -43,8 +43,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -60,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时23分 ~ 13时21分]"
+          "appearance_count": 15,
+          "time_info": "[02时23分 ~ 14时23分]"
         },
         {
           "title": "AI查贪官准确率相当高",
@@ -79,6 +79,18 @@
           "time_info": "[01时22分 ~ 09时04分]"
         },
         {
+          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
+          "url": "https://www.cls.cn/detail/2258255",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 14时23分]"
+        },
+        {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
@@ -89,8 +101,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时23分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -108,8 +120,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 14时23分]"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 14时23分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -127,18 +151,6 @@
           "time_info": "[00时21分 ~ 07时13分]"
         },
         {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 13时21分]"
-        },
-        {
           "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
           "url": "https://www.cls.cn/detail/2257499",
           "source": "财联社热门",
@@ -149,18 +161,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 07时13分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时21分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -184,8 +184,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 14时23分]"
+        },
+        {
+          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
+          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 14时23分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -193,17 +204,6 @@
           "source": "微博",
           "ranks": [
             13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时21分]"
-        },
-        {
-          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
-          "url": "https://www.zhihu.com/question/1994356851211515794",
-          "source": "知乎",
-          "ranks": [
             12
           ],
           "is_new": false,
@@ -233,6 +233,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
+        },
+        {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
@@ -291,6 +302,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "聂卫平曾谈AI对围棋的影响",
+          "url": "https://www.toutiao.com/trending/7595183245084835903/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "从“读懂中国”到“算力解码”，外资巨头加码中国市场AI投研",
@@ -563,11 +585,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 14时23分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -600,8 +623,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 13时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 14时23分]"
         }
       ]
     }
