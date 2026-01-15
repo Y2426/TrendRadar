@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T15:21:04.030793+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-01-15T16:21:53.816797+08:00",
+  "total_titles_processed": 1545,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 16时21分]"
+        },
+        {
+          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
+          "url": "https://www.cls.cn/detail/2258421",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时25分 ~ 15时21分]"
+          "time_info": "[12时34分 ~ 16时21分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -55,20 +69,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时21分]"
-        },
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时21分]"
         },
         {
           "title": "巴菲特再发警示：AI的危险不亚于核武器",
@@ -111,11 +113,12 @@
             14,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时21分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -134,8 +137,22 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 16时21分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时34分 ~ 16时21分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -165,19 +182,6 @@
           "time_info": "[01时22分 ~ 07时13分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 15时21分]"
-        },
-        {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -191,6 +195,19 @@
           "time_info": "[01时22分 ~ 07时13分]"
         },
         {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 16时21分]"
+        },
+        {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
           "url": "https://www.zhihu.com/question/1994356851211515794",
           "source": "知乎",
@@ -200,18 +217,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时34分 ~ 14时23分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 15时21分]"
         },
         {
           "title": "于正秀腹肌被判定AI",
@@ -594,8 +599,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时34分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[12时34分 ~ 16时21分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
