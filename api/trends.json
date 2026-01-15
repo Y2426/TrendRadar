@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T16:21:53.816797+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-01-15T17:22:20.753766+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 16时21分]"
+          "appearance_count": 10,
+          "time_info": "[11时25分 ~ 17时22分]"
         },
         {
           "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时34分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时34分 ~ 17时22分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -105,6 +105,21 @@
           "time_info": "[01时22分 ~ 09时04分]"
         },
         {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时34分 ~ 17时22分]"
+        },
+        {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
@@ -117,8 +132,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 16时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 17时22分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -134,25 +149,12 @@
             27,
             15,
             17,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 16时21分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时34分 ~ 16时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 17时22分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -182,6 +184,19 @@
           "time_info": "[01时22分 ~ 07时13分]"
         },
         {
+          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
+          "url": "https://www.cls.cn/detail/2258599",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 17时22分]"
+        },
+        {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -193,19 +208,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 07时13分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 16时21分]"
         },
         {
           "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
@@ -596,11 +598,12 @@
             12,
             10,
             14,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时34分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时34分 ~ 17时22分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
