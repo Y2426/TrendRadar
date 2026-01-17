@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T22:13:44.406078+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-01-17T23:14:03.181598+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "ranks": [
             2,
             5,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时14分]"
         },
         {
           "title": "美政府推动科技巨头为AI用电买单",
@@ -105,11 +106,12 @@
           "ranks": [
             3,
             6,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时14分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -118,11 +120,12 @@
           "ranks": [
             2,
             9,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时14分]"
         },
         {
           "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
@@ -224,8 +227,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时14分 ~ 22时13分]"
+          "appearance_count": 12,
+          "time_info": "[15时14分 ~ 23时14分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -406,6 +409,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时13分 ~ 19时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包我可没惹你",
+          "url": "https://www.douyin.com/hot/2370662",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         }
       ]
     }
