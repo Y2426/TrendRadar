@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T21:25:01.218000+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-01-17T22:13:44.406078+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时13分]"
         },
         {
           "title": "美政府推动科技巨头为AI用电买单",
@@ -103,11 +104,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时13分]"
         },
         {
           "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
@@ -115,11 +117,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 21时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 22时13分]"
         },
         {
           "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
@@ -221,8 +224,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时14分 ~ 21时25分]"
+          "appearance_count": 10,
+          "time_info": "[15时14分 ~ 22时13分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
