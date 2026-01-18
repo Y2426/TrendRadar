@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-01-18T22:13:22.451192+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2026-01-18T23:13:37.015563+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 12,
       "titles": [
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时36分 ~ 22时13分]"
-        },
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
           "url": "https://wallstreetcn.com/articles/3763530",
@@ -33,8 +19,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时14分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[17时14分 ~ 23时13分]"
+        },
+        {
+          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
+          "url": "https://wallstreetcn.com/articles/3763531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时36分 ~ 23时13分]"
         },
         {
           "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
@@ -108,11 +108,12 @@
           "ranks": [
             4,
             12,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时25分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 23时13分]"
         },
         {
           "title": "尹同跃宣告奇瑞AI进入2.0时代，要快速追赶特斯拉FSD",
@@ -177,8 +178,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时21分 ~ 22时13分]"
+          "appearance_count": 12,
+          "time_info": "[14时21分 ~ 23时13分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -255,8 +256,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 22时13分]"
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 23时13分]"
         }
       ]
     },
