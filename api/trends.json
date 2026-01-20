@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-01-20T22:25:00.956947+08:00",
-  "total_titles_processed": 2011,
-  "failed_sources": [
-    "weibo"
-  ],
+  "generated_at": "2026-01-20T23:23:50.763938+08:00",
+  "total_titles_processed": 2106,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
@@ -287,7 +285,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -370,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
@@ -389,8 +398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 22时25分]"
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 23时23分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
