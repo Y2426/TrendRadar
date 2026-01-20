@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-01-20T21:41:29.386632+08:00",
-  "total_titles_processed": 1927,
-  "failed_sources": [],
+  "generated_at": "2026-01-20T22:25:00.956947+08:00",
+  "total_titles_processed": 2011,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "AI",
@@ -18,8 +20,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时22分 ~ 21时41分]"
+          "appearance_count": 8,
+          "time_info": "[16时22分 ~ 22时25分]"
         },
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
@@ -84,6 +86,19 @@
           "time_info": "[04时16分 ~ 06时15分]"
         },
         {
+          "title": "H200对AI产业影响如何",
+          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 22时25分]"
+        },
+        {
           "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3039928",
           "source": "华尔街见闻-快讯",
@@ -132,18 +147,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时22分 ~ 18时20分]"
-        },
-        {
-          "title": "H200对AI产业影响如何",
-          "url": "https://search.bilibili.com/all?keyword=H200%E5%AF%B9AI%E4%BA%A7%E4%B8%9A%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 20时32分]"
         },
         {
           "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
@@ -342,7 +345,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -353,7 +356,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -382,11 +385,12 @@
             13,
             4,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 21时41分]"
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 22时25分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
