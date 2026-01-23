@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T06:13:13.221953+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-01-24T07:15:26.839977+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -28,11 +28,12 @@
             5,
             6,
             12,
-            13
+            13,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -124,11 +125,12 @@
             5,
             10,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 06时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 07时15分]"
         },
         {
           "title": "美国考虑用海军实施海上封锁，从而阻挠谷歌进口石油。（Politico）",
