@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T21:38:16.007479+08:00",
-  "total_titles_processed": 2070,
+  "generated_at": "2026-01-23T22:19:26.349407+08:00",
+  "total_titles_processed": 2136,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 21时38分]"
+          "appearance_count": 17,
+          "time_info": "[09时07分 ~ 22时19分]"
         },
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -70,8 +70,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 21时38分]"
+          "appearance_count": 11,
+          "time_info": "[15时20分 ~ 22时19分]"
         },
         {
           "title": "因家长用 AI 生成练习册，小学生组团给「千问」刷差评，怎样看待这一现象？反映出了哪些问题？",
@@ -80,11 +80,12 @@
           "ranks": [
             14,
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 21时38分]"
+          "appearance_count": 9,
+          "time_info": "[16时20分 ~ 22时19分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -389,11 +390,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            16
+            16,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时17分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 22时19分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
