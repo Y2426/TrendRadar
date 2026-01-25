@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T15:17:10.969716+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-01-25T16:19:09.885612+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时16分 ~ 15时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时19分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -33,6 +33,21 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 11时48分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7,
+            2,
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 16时19分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -64,20 +79,6 @@
           "time_info": "[00时16分 ~ 09时13分]"
         },
         {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            16,
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时17分]"
-        },
-        {
           "title": "iPhone Air官方价格暴跌2000元",
           "url": "https://www.toutiao.com/trending/7598387695761588278/",
           "source": "今日头条",
@@ -101,8 +102,21 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 16时19分]"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时46分 ~ 15时17分]"
+          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -115,18 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时20分 ~ 06时14分]"
-        },
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 15时17分]"
         },
         {
           "title": "AI为何会一本正经“胡说八道”",
