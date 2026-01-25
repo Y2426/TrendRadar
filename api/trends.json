@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T11:48:31.157092+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-01-25T12:46:45.818226+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时48分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时46分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -96,11 +96,23 @@
           "url": "https://www.zhihu.com/question/1998457273891120214",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时46分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时46分"
         }
       ]
     },
@@ -126,9 +138,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时48分 ~ 12时46分]"
         }
       ]
     }
