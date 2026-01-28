@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T22:23:45.207248+08:00",
-  "total_titles_processed": 2074,
+  "generated_at": "2026-01-28T23:25:58.220727+08:00",
+  "total_titles_processed": 2182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -49,18 +49,6 @@
           "time_info": "[09时06分 ~ 14时26分]"
         },
         {
-          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
-          "url": "https://www.cls.cn/detail/2271472",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
           "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
@@ -71,8 +59,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时21分 ~ 23时25分]"
+        },
+        {
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[16时21分 ~ 22时23分]"
+          "time_info": "[00时21分 ~ 07时15分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -117,6 +117,33 @@
           "time_info": "[07时15分 ~ 14时26分]"
         },
         {
+          "title": "AI将替代9200万工作岗位",
+          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 23时25分]"
+        },
+        {
+          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
+          "url": "https://www.zhihu.com/question/1999415789258826467",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 23时25分]"
+        },
+        {
           "title": "刘强东在家乡打造了一个AI教室",
           "url": "https://www.toutiao.com/trending/7600224231955988531/",
           "source": "今日头条",
@@ -129,18 +156,18 @@
           "time_info": "[17时28分 ~ 18时21分]"
         },
         {
-          "title": "AI将替代9200万工作岗位",
-          "url": "https://www.baidu.com/s?wd=AI%E5%B0%86%E6%9B%BF%E4%BB%A39200%E4%B8%87%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D",
-          "source": "百度热搜",
+          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
+          "url": "https://www.cls.cn/detail/2272560",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            23,
-            14,
-            26
+            13,
+            11,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时21分 ~ 22时23分]"
+          "time_info": "[18时21分 ~ 23时25分]"
         },
         {
           "title": "阿斯麦(ASML.O)CEO：2026年可能有更多EUV（极紫外光刻）设备出货。对先进AI芯片的需求巨大且不断增长。",
@@ -154,17 +181,16 @@
           "time_info": "18时21分"
         },
         {
-          "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
-          "url": "https://www.cls.cn/detail/2272560",
-          "source": "财联社热门",
+          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764353",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时21分 ~ 22时23分]"
+          "time_info": "[20时32分 ~ 23时25分]"
         },
         {
           "title": "马云：孩子不应和AI比拼计算和记忆",
@@ -178,30 +204,6 @@
           "time_info": "[12时38分 ~ 15时20分]"
         },
         {
-          "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
-          "url": "https://www.zhihu.com/question/1999415789258826467",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时23分]"
-        },
-        {
-          "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时23分]"
-        },
-        {
           "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
           "url": "https://www.zhihu.com/question/1999418734398366788",
           "source": "知乎",
@@ -212,6 +214,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时29分 ~ 12时39分]"
+        },
+        {
+          "title": "刘强东给老家建了间AI教室",
+          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时25分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -236,6 +249,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "马云谈AI时代教育",
+          "url": "https://www.toutiao.com/trending/7600274916425351187/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "亚马逊将裁员1.6万人 在AI竞争中精简架构",
           "url": "https://flash.jin10.com/detail/20260128184459127800",
           "source": "金十数据",
@@ -256,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "刘强东给老家建了间AI教室",
-          "url": "https://news.ifeng.com/c/8qHvWO6SnwI",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
@@ -349,7 +362,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -361,8 +374,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 22时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时06分 ~ 23时25分]"
         },
         {
           "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
@@ -371,7 +384,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
@@ -500,6 +513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "电池回收与储能初创公司Redwood Materials Inc.按超过60亿美元的估值融资4.25亿美元，原拟募集3.5亿美元。 这家由特斯拉联合创始人JB Straubel主导的公司新增Alphabet旗下谷歌公司为投资者。",
+          "url": "https://wallstreetcn.com/livenews/3045639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     },
