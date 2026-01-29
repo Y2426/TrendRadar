@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T22:34:40.839767+08:00",
-  "total_titles_processed": 2146,
+  "generated_at": "2026-01-29T23:29:44.674105+08:00",
+  "total_titles_processed": 2240,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 23时29分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时25分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[19时25分 ~ 23时29分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时02分 ~ 22时34分]"
+          "appearance_count": 16,
+          "time_info": "[12时02分 ~ 23时29分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -191,11 +191,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时29分]"
+        },
+        {
+          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+          "url": "https://wallstreetcn.com/articles/3764497",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时34分]"
+          "time_info": "[22时34分 ~ 23时29分]"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -241,17 +253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
-          "url": "https://wallstreetcn.com/articles/3764497",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时34分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -419,22 +420,24 @@
           "source": "知乎",
           "ranks": [
             14,
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时25分 ~ 22时34分]"
+          "appearance_count": 7,
+          "time_info": "[19时25分 ~ 23时29分]"
         },
         {
           "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
           "url": "https://www.zhihu.com/question/1999888901490304692",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时55分 ~ 22时34分]"
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 23时29分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -476,8 +479,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时34分 ~ 22时34分]"
+          "appearance_count": 10,
+          "time_info": "[17时34分 ~ 23时29分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
