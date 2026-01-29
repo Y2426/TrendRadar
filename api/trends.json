@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T14:37:32.467554+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-01-29T15:35:46.238444+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -31,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 14时37分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 15时35分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -93,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时35分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -105,8 +105,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时35分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
@@ -114,11 +114,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时35分]"
         },
         {
           "title": "光明村村民领京东AI手机",
@@ -177,6 +178,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "SK海力士：Nand正在成为支持AI的存储解决方案。",
           "url": "https://wallstreetcn.com/livenews/3045947",
           "source": "华尔街见闻-快讯",
@@ -216,7 +228,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -324,8 +336,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时35分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -362,7 +374,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
