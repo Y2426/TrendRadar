@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T17:35:16.845845+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2026-01-29T18:29:48.371092+08:00",
+  "total_titles_processed": 1768,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "time_info": "[00时27分 ~ 09时16分]"
         },
         {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 18时29分]"
+        },
+        {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764353",
           "source": "华尔街见闻",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 15时35分]"
-        },
-        {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 17时35分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -75,6 +75,20 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时02分 ~ 18时29分]"
+        },
+        {
           "title": "马云谈AI时代教育",
           "url": "https://www.toutiao.com/trending/7600274916425351187/",
           "source": "今日头条",
@@ -98,18 +112,17 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
-          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764408",
-          "source": "华尔街见闻",
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
           "ranks": [
+            13,
             10,
-            9,
-            8,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时02分 ~ 17时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时35分 ~ 18时29分]"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
@@ -135,19 +148,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时35分 ~ 17时35分]"
         },
         {
           "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
@@ -374,11 +374,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 18时29分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
