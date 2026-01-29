@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T19:26:01.458274+08:00",
-  "total_titles_processed": 1865,
+  "generated_at": "2026-01-29T20:38:19.794836+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时02分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[12时02分 ~ 20时38分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -57,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时02分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[12时02分 ~ 20时38分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -75,6 +75,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 09时16分]"
+        },
+        {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时35分 ~ 20时38分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -112,20 +126,6 @@
           "time_info": "[00时27分 ~ 07时20分]"
         },
         {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时35分 ~ 19时26分]"
-        },
-        {
           "title": "够飒!AI女团跨界维修通马桶",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
           "source": "贴吧",
@@ -133,8 +133,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 20时38分]"
+        },
+        {
+          "title": "【阿里正考虑将未来三年投入到AI基建与云计算上的3800亿元提升至4800亿】一位知情人士透露，阿里正考虑将未来三年投入到AI基建与云计算上的3800亿元提升至4800亿。在国内，阿里有自研的芯片真武810E；在海外，它也在“用一辆辆卡车来运采购的GPU。”一位知情人士说。最激进的时候，“连RTX4090这类消费级显卡也大量买入，用来搭建推理集群、补充推理吞吐。”（晚点LatePost）",
+          "url": "https://wallstreetcn.com/livenews/3046477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
@@ -263,6 +274,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "德国软件公司SAP股价一度大跌16% 云业务订单积压量引发AI挑战的担忧",
+          "url": "https://wallstreetcn.com/livenews/3046450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "受资金流入与AI热潮提振 韩元有望创13年来最长连涨纪录",
           "url": "https://flash.jin10.com/detail/20260129135917654800",
           "source": "金十数据",
@@ -388,11 +410,12 @@
           "ranks": [
             27,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时34分 ~ 19时26分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 20时38分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -416,11 +439,12 @@
           "url": "https://www.zhihu.com/question/1994095464539255007",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 20时38分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
