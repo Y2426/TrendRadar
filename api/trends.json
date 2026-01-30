@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T06:17:16.461684+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-01-31T07:19:08.924401+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 07时19分]"
         },
         {
           "title": "够飒!AI女团跨界维修通马桶",
@@ -27,8 +27,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 06时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 07时19分]"
         },
         {
           "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
@@ -72,6 +72,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
+          "url": "https://flash.jin10.com/detail/20260131025828448800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时27分 ~ 07时19分]"
+        },
+        {
           "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
           "url": "https://www.zhihu.com/question/2000222256375227441",
           "source": "知乎",
@@ -83,18 +95,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时27分 ~ 06时17分]"
-        },
-        {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时27分 ~ 06时17分]"
         },
         {
           "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
