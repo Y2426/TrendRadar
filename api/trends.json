@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T17:23:56.522540+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-02-01T18:18:28.824924+08:00",
+  "total_titles_processed": 1048,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -21,6 +21,21 @@
           "time_info": "[00时19分 ~ 09时28分]"
         },
         {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 18时18分]"
+        },
+        {
           "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
           "url": "https://www.cls.cn/detail/2275533",
           "source": "财联社热门",
@@ -30,22 +45,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时19分 ~ 17时23分]"
-        },
-        {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时19分 ~ 18时18分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -83,11 +84,12 @@
           "ranks": [
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 17时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 18时18分]"
         },
         {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
@@ -128,6 +130,17 @@
           "time_info": "[05时14分 ~ 07时15分]"
         },
         {
+          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
+          "url": "https://www.zhihu.com/question/2000826715941904620",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时18分]"
+        },
+        {
           "title": "男子被AI诊断梅毒医生否认却不信",
           "url": "https://www.toutiao.com/trending/7600615536050585651/",
           "source": "今日头条",
@@ -152,15 +165,15 @@
           "time_info": "[14时40分 ~ 15时32分]"
         },
         {
-          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
-          "url": "https://www.zhihu.com/question/2000826715941904620",
-          "source": "知乎",
+          "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
+          "url": "https://wallstreetcn.com/livenews/3047799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "18时18分"
         },
         {
           "title": "沈腾 不方便的话全让AI说了",
@@ -177,7 +190,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -247,6 +260,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -284,8 +319,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 17时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 18时18分]"
         }
       ]
     }
