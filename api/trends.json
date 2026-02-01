@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T16:23:42.892774+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-02-01T17:23:56.522540+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
@@ -30,8 +30,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时19分 ~ 16时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 17时23分]"
+        },
+        {
+          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
+          "url": "https://wallstreetcn.com/articles/3764675",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时23分]"
         },
         {
           "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
@@ -63,20 +77,6 @@
           "time_info": "[01时17分 ~ 07时15分]"
         },
         {
-          "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
-          "url": "https://wallstreetcn.com/articles/3764675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时23分]"
-        },
-        {
           "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
           "url": "https://wallstreetcn.com/articles/3764665",
           "source": "华尔街见闻",
@@ -86,8 +86,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 17时23分]"
         },
         {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
@@ -150,6 +150,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时40分 ~ 15时32分]"
+        },
+        {
+          "title": "智能体社交网络 Moltbook 不可思议的发展，是否预示着 AI 发展已接近失控边缘？",
+          "url": "https://www.zhihu.com/question/2000826715941904620",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "沈腾 不方便的话全让AI说了",
@@ -273,8 +284,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 17时23分]"
         }
       ]
     }
