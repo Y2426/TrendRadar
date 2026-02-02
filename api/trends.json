@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T13:59:25.834050+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-02-02T15:03:06.809339+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时16分 ~ 15时03分]"
+        },
+        {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 15时03分]"
         },
         {
           "title": "AI投资神话遭遇信心红灯 韩国科技股遭受重创",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
-        },
-        {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
         }
       ]
     },
@@ -104,8 +104,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 13时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 15时03分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -135,8 +135,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 13时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 15时03分]"
         }
       ]
     },
