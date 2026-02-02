@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T09:20:24.255936+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-02T12:16:28.542151+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -42,6 +42,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时20分 ~ 06时16分]"
+        },
+        {
+          "title": "AI投资神话遭遇信心红灯 韩国科技股遭受重创",
+          "url": "https://flash.jin10.com/detail/20260202114011465800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
+        },
+        {
+          "title": "马化腾的AI“阳谋”：撒钱10亿、狂挖大牛......腾讯打响AI突围战",
+          "url": "https://www.cls.cn/detail/2276806",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
@@ -54,11 +87,12 @@
           "url": "https://wallstreetcn.com/articles/3764694",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时18分]"
+          "appearance_count": 10,
+          "time_info": "[00时19分 ~ 12时16分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -87,8 +121,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 09时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 12时16分]"
         }
       ]
     },
