@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T17:36:07.397134+08:00",
-  "total_titles_processed": 1576,
+  "generated_at": "2026-02-04T18:32:21.934410+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 17时36分]"
+          "appearance_count": 12,
+          "time_info": "[09时15分 ~ 18时32分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -30,6 +30,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时22分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时42分 ~ 18时32分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -54,19 +67,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时22分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 17时36分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -126,8 +126,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时40分 ~ 17时36分]"
+          "appearance_count": 7,
+          "time_info": "[14时40分 ~ 18时32分]"
         },
         {
           "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
@@ -236,6 +236,18 @@
           "time_info": "[00时43分 ~ 01时46分]"
         },
         {
+          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
+          "url": "https://www.cls.cn/detail/2280128",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时32分]"
+        },
+        {
           "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5000美元关口",
           "url": "https://wallstreetcn.com/articles/3764901",
           "source": "华尔街见闻",
@@ -248,50 +260,41 @@
           "time_info": "[12时05分 ~ 13时43分]"
         },
         {
-          "title": "美国抛完亚洲抛！AI巨浪持续掀翻软件股：这次狼真的来了？",
-          "url": "https://www.cls.cn/detail/2280128",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时36分]"
-        },
-        {
           "title": "【午报】创业板指半日跌1.74%，太空光伏概念持续活跃，AI应用方向陷入调整",
           "url": "https://www.cls.cn/detail/2280058",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时32分]"
         },
         {
           "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
           "url": "https://www.cls.cn/detail/2280373",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "私募巨头阿波罗警告：“软件已死”！AI正重塑4400亿美元估值逻辑",
           "url": "https://wallstreetcn.com/articles/3764867",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 18时32分]"
         },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
@@ -414,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "AI时代UP主如何聊动画",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3UP%E4%B8%BB%E5%A6%82%E4%BD%95%E8%81%8A%E5%8A%A8%E7%94%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "新世界发展：上海K11 ATELIER Huaihai办公楼预出租率超50%",
@@ -709,8 +723,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时43分 ~ 17时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时43分 ~ 18时32分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
