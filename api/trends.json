@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:34:05.150235+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-02-05T19:31:35.217446+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 19时31分]"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -33,17 +46,15 @@
           "time_info": "[12时07分 ~ 16时34分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时31分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 18时34分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
@@ -298,8 +298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时20分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时20分 ~ 19时31分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -354,8 +354,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时37分 ~ 18时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时37分 ~ 19时31分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -390,8 +390,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时31分]"
         },
         {
           "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
@@ -460,11 +460,12 @@
           "url": "https://www.zhihu.com/question/2002683972233159732",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时33分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 19时31分]"
         },
         {
           "title": "腾讯元宝红包微信分享遭限制，AI入口之争遇挫了吗？",
@@ -474,8 +475,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时31分]"
         },
         {
           "title": "AI竞赛打到太空了吗",
@@ -581,8 +582,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 18时34分]"
+          "appearance_count": 6,
+          "time_info": "[15时44分 ~ 19时31分]"
         }
       ]
     },
