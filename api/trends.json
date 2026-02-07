@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T15:27:16.923586+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-02-07T16:22:35.055564+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
@@ -18,8 +18,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 15时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 16时22分]"
+        },
+        {
+          "title": "UP主联合自制AI春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时36分 ~ 16时22分]"
         },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
@@ -32,11 +43,12 @@
             13,
             12,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 15时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 16时22分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -52,17 +64,6 @@
           "time_info": "[00时35分 ~ 09时15分]"
         },
         {
-          "title": "UP主联合自制AI春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时36分 ~ 15时27分]"
-        },
-        {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
@@ -72,8 +73,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 16时22分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 16时22分]"
         },
         {
           "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
@@ -98,20 +113,6 @@
           "time_info": "[04时25分 ~ 07时18分]"
         },
         {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 15时27分]"
-        },
-        {
           "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
           "url": "https://www.cls.cn/detail/2283603",
           "source": "财联社热门",
@@ -121,8 +122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时01分 ~ 16时22分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -163,15 +164,15 @@
           "time_info": "05时24分"
         },
         {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
+          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
+          "url": "https://wallstreetcn.com/livenews/3051701",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
@@ -181,11 +182,23 @@
             9,
             13,
             15,
-            18
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 16时22分]"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时02分 ~ 15时27分]"
+          "time_info": "[00时35分 ~ 03时33分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -272,6 +285,17 @@
           "time_info": "[14时32分 ~ 14时33分]"
         },
         {
+          "title": "你认为AI会替代软件开发吗",
+          "url": "https://www.toutiao.com/trending/7603910615171301402/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "阿里如何用AI重新定义自己",
           "url": "https://www.toutiao.com/trending/7603783138296204806/",
           "source": "今日头条",
@@ -306,11 +330,12 @@
           "ranks": [
             10,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 15时27分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 16时22分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -500,11 +525,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 16时22分]"
         }
       ]
     }
