@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-02-07T09:15:15.027316+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-02-07T12:02:02.504631+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
+          "url": "https://wallstreetcn.com/articles/3765130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 12时02分]"
+        },
         {
           "title": "马斯克：如果没有AI和机器人技术，美国必破产",
           "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
@@ -14,11 +28,12 @@
           "ranks": [
             17,
             19,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 12时02分]"
         },
         {
           "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
@@ -31,19 +46,6 @@
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时35分 ~ 09时15分]"
-        },
-        {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时35分 ~ 09时15分]"
         },
         {
@@ -92,17 +94,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
-          "url": "https://wallstreetcn.com/livenews/3051663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
           "url": "https://www.cls.cn/detail/2282989",
           "source": "财联社热门",
@@ -112,6 +103,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时35分 ~ 03时33分]"
+        },
+        {
+          "title": "存储芯片概念股指数收涨超6.3%，泰瑞达涨超10%，西数涨超8%，AI软件指数本周仍跌约9.4%",
+          "url": "https://wallstreetcn.com/livenews/3051663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时02分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -152,15 +166,26 @@
           "time_info": "[00时35分 ~ 02时37分]"
         },
         {
-          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
-          "url": "https://www.cls.cn/detail/2283577",
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
@@ -185,6 +210,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时18分]"
+        },
+        {
+          "title": "全新QQ用AI重塑小车之王",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0QQ%E7%94%A8AI%E9%87%8D%E5%A1%91%E5%B0%8F%E8%BD%A6%E4%B9%8B%E7%8E%8B%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "AI引发风格轮动，对冲基金遭遇数月来表现最差的一天",
+          "url": "https://wallstreetcn.com/livenews/3051672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "媒体：AI之争又打成了奶茶大战",
@@ -215,6 +262,18 @@
           "time_info": "01时36分"
         },
         {
+          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
+          "url": "https://wallstreetcn.com/articles/3765171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时02分]"
+        },
+        {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
           "url": "https://wallstreetcn.com/livenews/3051561",
           "source": "华尔街见闻-快讯",
@@ -225,17 +284,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时37分]"
-        },
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时14分 ~ 09时15分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
@@ -360,11 +408,12 @@
           "url": "https://wallstreetcn.com/livenews/3051649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 12时02分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
