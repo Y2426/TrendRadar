@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T04:37:50.840957+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-02-10T05:33:04.815398+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -82,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -92,11 +92,12 @@
           "ranks": [
             16,
             9,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -106,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时44分 ~ 04时37分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 05时33分]"
         },
         {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
@@ -196,7 +197,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -207,7 +208,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         },
@@ -218,7 +219,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
         }
