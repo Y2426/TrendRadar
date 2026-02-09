@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T17:54:56.644235+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2026-02-09T18:50:46.548995+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 17时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 18时50分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -76,6 +76,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 06时19分]"
+        },
+        {
+          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
+          "url": "https://www.cls.cn/detail/2284177",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 18时50分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -148,20 +162,6 @@
           "time_info": "[00时21分 ~ 09时22分]"
         },
         {
-          "title": "字节又一款AI产品火了！Seedance2.0海内外刷屏 哪些行业将被颠覆？",
-          "url": "https://www.cls.cn/detail/2284177",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 17时54分]"
-        },
-        {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
           "url": "https://wallstreetcn.com/articles/3765254",
           "source": "华尔街见闻",
@@ -171,8 +171,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 17时54分]"
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 18时50分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -185,8 +185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 18时50分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -198,8 +198,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时03分 ~ 17时54分]"
+          "appearance_count": 6,
+          "time_info": "[14时03分 ~ 18时50分]"
         },
         {
           "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
@@ -211,8 +211,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 18时50分]"
+        },
+        {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时50分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -224,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
-        },
-        {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -260,6 +261,18 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时50分]"
+        },
+        {
           "title": "UP主联合自制AI春晚",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%81%94%E5%90%88%E8%87%AA%E5%88%B6AI%E6%98%A5%E6%99%9A",
           "source": "bilibili 热搜",
@@ -271,6 +284,18 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时50分]"
+        },
+        {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
           "url": "https://wallstreetcn.com/articles/3765271",
           "source": "华尔街见闻",
@@ -280,6 +305,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 16时42分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
+          "url": "https://www.cls.cn/detail/2284689",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时54分 ~ 18时50分]"
         },
         {
           "title": "AI“吞噬”软件行业？分析师：市场反应过度 逢低买入良机已至",
@@ -304,17 +341,6 @@
           "time_info": "[09时21分 ~ 09时22分]"
         },
         {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
           "title": "日经指数创历史新高 AI等板块迎政策红利",
           "url": "https://flash.jin10.com/detail/20260209084607777800",
           "source": "金十数据",
@@ -326,17 +352,6 @@
           "time_info": "09时22分"
         },
         {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
           "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
           "url": "https://wallstreetcn.com/livenews/3052041",
           "source": "华尔街见闻-快讯",
@@ -346,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         },
         {
           "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
@@ -387,9 +391,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
+          "url": "https://wallstreetcn.com/livenews/3052250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
@@ -417,7 +432,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -439,7 +454,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         }
