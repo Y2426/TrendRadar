@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T09:20:10.313408+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-02-17T12:12:10.230788+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时12分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时12分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时12分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时12分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -77,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时12分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -122,6 +122,17 @@
           "time_info": "[00时34分 ~ 05时22分]"
         },
         {
+          "title": "豆包：除夕豆包AI互动总数达19亿",
+          "url": "https://flash.jin10.com/detail/20260217114541307800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
           "url": "https://flash.jin10.com/detail/20260217055715846800",
           "source": "金十数据",
@@ -145,6 +156,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 03时28分]"
+        },
+        {
+          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
+          "url": "https://wallstreetcn.com/livenews/3055850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时12分]"
         },
         {
           "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
@@ -173,16 +197,15 @@
           "time_info": "[00时34分 ~ 03时28分]"
         },
         {
-          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
-          "url": "https://wallstreetcn.com/livenews/3055850",
-          "source": "华尔街见闻-快讯",
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            15
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时20分]"
+          "time_info": "[12时11分 ~ 12时12分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -220,13 +243,24 @@
           "time_info": "[06时20分 ~ 07时22分]"
         },
         {
+          "title": "春晚AI率比我论文高",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时11分 ~ 12时12分]"
+        },
+        {
           "title": "据英国金融时报：欧盟隐私监管机构就AI生成性化图片问题对X平台展开调查。",
           "url": "https://flash.jin10.com/detail/20260217085631257800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -401,11 +435,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时12分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -418,8 +453,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 09时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时12分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
