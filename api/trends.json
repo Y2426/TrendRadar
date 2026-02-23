@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:42:18.169307+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-02-23T20:24:58.319836+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -43,6 +43,20 @@
           "time_info": "[00时20分 ~ 12时16分]"
         },
         {
+          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
+          "url": "https://www.cls.cn/detail/2292422",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 20时24分]"
+        },
+        {
           "title": "“内存荒”席卷全球，成AI竞赛关键瓶颈？又一硅谷大佬发声",
           "url": "https://www.cls.cn/detail/2292342",
           "source": "财联社热门",
@@ -52,21 +66,23 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 18时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 20时24分]"
         },
         {
-          "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
-          "url": "https://www.cls.cn/detail/2292422",
-          "source": "财联社热门",
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            13,
-            12
+            9,
+            8,
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[14时01分 ~ 20时24分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -97,18 +113,18 @@
           "time_info": "[09时20分 ~ 17时45分]"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8,
+            7,
             6,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时01分 ~ 18时42分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 20时24分]"
         },
         {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
@@ -120,19 +136,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
-        },
-        {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 18时42分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -168,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -206,8 +220,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 18时42分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 20时24分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
