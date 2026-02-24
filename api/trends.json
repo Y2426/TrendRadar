@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T23:32:08.542779+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2026-02-24T23:49:39.879043+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时36分 ~ 23时32分]"
+          "appearance_count": 15,
+          "time_info": "[12时36分 ~ 23时49分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时19分 ~ 23时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时19分 ~ 23时49分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -177,8 +177,53 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时31分 ~ 23时49分]"
+        },
+        {
+          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
+          "url": "https://wallstreetcn.com/livenews/3058228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
+          "time_info": "[23时32分 ~ 23时49分]"
+        },
+        {
+          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3058226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时49分]"
+        },
+        {
+          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
+          "url": "https://wallstreetcn.com/livenews/3058225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时49分]"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 23时49分]"
         },
         {
           "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
@@ -216,17 +261,6 @@
           "time_info": "07时30分"
         },
         {
-          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
-          "url": "https://wallstreetcn.com/livenews/3058228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
           "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
           "source": "bilibili 热搜",
@@ -262,40 +296,6 @@
           "time_info": "07时30分"
         },
         {
-          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
-          "url": "https://wallstreetcn.com/livenews/3058226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
-          "url": "https://wallstreetcn.com/livenews/3058225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
-        },
-        {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 23时32分]"
-        },
-        {
           "title": "Citrini报告作者：文章引发的AI恐慌超预期",
           "url": "https://wallstreetcn.com/livenews/3057915",
           "source": "华尔街见闻-快讯",
@@ -305,6 +305,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 23时49分]"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -367,19 +380,6 @@
           "time_info": "[15时52分 ~ 17时45分]"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 23时32分]"
-        },
-        {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
           "url": "https://wallstreetcn.com/livenews/3058012",
           "source": "华尔街见闻-快讯",
@@ -416,6 +416,28 @@
           "time_info": "[17时26分 ~ 17时45分]"
         },
         {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时31分 ~ 23时49分]"
+        },
+        {
+          "title": "普华永道（PwC）与Anthropic围绕企业AI插件构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3058221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时32分 ~ 23时49分]"
+        },
+        {
           "title": "摩根大通CFO Jeremy Barnum：在所有开支品类都存在通胀。 （本公司）对脆弱的软件公司的风险敞口“相当小”。 与多家软件公司谈及人工智能（AI）风险。",
           "url": "https://wallstreetcn.com/livenews/3057672",
           "source": "华尔街见闻-快讯",
@@ -440,17 +462,6 @@
           "time_info": "[17时26分 ~ 17时45分]"
         },
         {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        },
-        {
           "title": "电价攀升惹民怨，特朗普要求美国科技公司承诺自掏腰包建设AI数据中心",
           "url": "https://wallstreetcn.com/livenews/3057913",
           "source": "华尔街见闻-快讯",
@@ -460,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
-        },
-        {
-          "title": "普华永道（PwC）与Anthropic围绕企业AI插件构建合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3058221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时32分"
         },
         {
           "title": "AMD美股盘前涨超15%，META与AMD签署巨额协议，将购买后者AI设备。",
