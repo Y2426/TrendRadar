@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T17:41:11.715068+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-02-26T18:38:18.245832+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -33,21 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 17时41分]"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 17时41分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 18时38分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -61,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 17时41分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 18时38分]"
         },
         {
           "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
@@ -70,6 +57,19 @@
           "source": "知乎",
           "ranks": [
             7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 18时38分]"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
             2
           ],
           "is_new": false,
@@ -144,6 +144,40 @@
           "time_info": "[01时20分 ~ 07时22分]"
         },
         {
+          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
+          "url": "https://www.cls.cn/detail/2295732",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "拉加德：欧洲央行将“密切关注”AI导致的裁员迹象",
+          "url": "https://flash.jin10.com/detail/20260226182240673800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 18时38分]"
+        },
+        {
           "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
           "url": "https://www.zhihu.com/question/2009656278029456894",
           "source": "知乎",
@@ -177,17 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时25分]"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 17时41分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -226,17 +249,6 @@
           "time_info": "[09时17分 ~ 09时18分]"
         },
         {
-          "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
-          "url": "https://www.cls.cn/detail/2295732",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 17时41分]"
-        },
-        {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
           "url": "https://www.zhihu.com/question/1916645420085514580",
           "source": "知乎",
@@ -246,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时25分]"
+        },
+        {
+          "title": "AI 代替程序员已经代替到什么程度了？",
+          "url": "https://www.zhihu.com/question/1943057024997913208",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 18时38分]"
         },
         {
           "title": "AI帮你选对发型",
@@ -287,7 +310,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -298,7 +321,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         },
@@ -386,7 +409,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时41分"
         }
