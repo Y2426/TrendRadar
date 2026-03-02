@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-02T20:38:34.554796+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2026-03-02T21:55:39.167823+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 21时55分]"
+        },
         {
           "title": "AI短剧",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=17&Refer=top",
@@ -23,19 +36,6 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 20时38分]"
-        },
-        {
           "title": "剑星AI作图抄袭,反手拉黑原创",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
           "source": "贴吧",
@@ -46,8 +46,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 21时55分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 20时38分]"
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 21时55分]"
         },
         {
           "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
@@ -70,8 +70,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时39分 ~ 20时38分]"
+          "appearance_count": 7,
+          "time_info": "[17时39分 ~ 21时55分]"
         },
         {
           "title": "演员逼真到根本看不出来是AI",
@@ -84,6 +84,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时18分 ~ 12时07分]"
+        },
+        {
+          "title": "MiniMax创始人：AI办公的机会将比编程更大",
+          "url": "https://wallstreetcn.com/livenews/3061967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
+          "title": "千问AI眼镜开启预约",
+          "url": "https://www.toutiao.com/trending/7612431152581967913/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 21时55分]"
         },
         {
           "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
@@ -100,16 +123,17 @@
           "time_info": "[04时18分 ~ 07时16分]"
         },
         {
-          "title": "千问AI眼镜开启预约",
-          "url": "https://www.toutiao.com/trending/7612431152581967913/",
-          "source": "今日头条",
+          "title": "马上评｜如何看待学生作业中的“AI味儿”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            4
+            20,
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时46分 ~ 20时38分]"
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时55分]"
         },
         {
           "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
@@ -124,16 +148,16 @@
           "time_info": "[16时35分 ~ 17时40分]"
         },
         {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
+          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
+          "url": "https://www.cls.cn/detail/2300009",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            16
+            12,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时27分 ~ 20时38分]"
+          "time_info": "[20时38分 ~ 21时55分]"
         },
         {
           "title": "AI技术会如何改变现代战争形态",
@@ -164,7 +188,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -180,15 +204,15 @@
           "time_info": "16时35分"
         },
         {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
-          "source": "财联社热门",
+          "title": "美军参谋长联席会议主席Caine：三架F-15战机的损失正在调查中。",
+          "url": "https://wallstreetcn.com/livenews/3061962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时38分"
+          "time_info": "21时55分"
         },
         {
           "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
@@ -208,7 +232,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -230,7 +254,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -310,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "英伟达斥资40亿美元强化AI光学供应链 巩固算力基建",
+          "url": "https://flash.jin10.com/detail/20260302213153055800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
         }
       ]
     },
