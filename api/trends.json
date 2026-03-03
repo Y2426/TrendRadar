@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T17:34:44.161619+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-03-03T18:32:35.032484+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -63,18 +63,6 @@
           "time_info": "[00时35分 ~ 07时19分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 17时34分]"
-        },
-        {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
           "url": "https://wallstreetcn.com/articles/3766555",
           "source": "华尔街见闻",
@@ -84,8 +72,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时21分 ~ 17时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时21分 ~ 18时32分]"
+        },
+        {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时43分 ~ 18时32分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -468,6 +469,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 18时32分]"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
@@ -478,18 +491,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时20分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 17时34分]"
         },
         {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
