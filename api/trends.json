@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T18:32:35.032484+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-03-03T19:26:45.270927+08:00",
+  "total_titles_processed": 1799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -35,6 +35,19 @@
           "time_info": "[00时35分 ~ 13时43分]"
         },
         {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 19时26分]"
+        },
+        {
           "title": "剑星AI作图抄袭,反手拉黑原创",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
           "source": "贴吧",
@@ -61,19 +74,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 07时19分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 18时32分]"
         },
         {
           "title": "AI参战对伊空袭",
@@ -364,6 +364,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
+        },
+        {
           "title": "周一（3月2日），存储芯片与硬件供应链指数跌1.99%，报109.53点。 信息科技指数涨0.58%，报273.65点。 人工智能（AI）赢家指数涨0.65%，AI软件先驱指数涨1.19%。",
           "url": "https://wallstreetcn.com/livenews/3062169",
           "source": "华尔街见闻-快讯",
@@ -474,11 +485,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时31分 ~ 18时32分]"
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 19时26分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
