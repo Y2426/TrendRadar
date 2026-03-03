@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T22:39:35.206628+08:00",
-  "total_titles_processed": 2099,
+  "generated_at": "2026-03-03T23:40:39.399777+08:00",
+  "total_titles_processed": 2178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -116,8 +116,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时39分]"
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 23时40分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -189,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时37分"
+        },
+        {
+          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
+          "url": "https://wallstreetcn.com/livenews/3062863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
@@ -335,6 +346,18 @@
           "time_info": "[01时38分 ~ 02时35分]"
         },
         {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时40分]"
+        },
+        {
           "title": "从哈梅内伊遇袭看AI如何卷入真实战争｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684579",
           "source": "澎湃新闻",
@@ -396,18 +419,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
-          "url": "https://wallstreetcn.com/livenews/3062834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -473,9 +485,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
+        },
+        {
+          "title": "美联储威廉姆斯：不认为AI会造成结构性失业；新技术创造的岗位多于其摧毁的岗位。",
+          "url": "https://flash.jin10.com/detail/20260303230927875800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
@@ -568,11 +591,12 @@
           "url": "https://wallstreetcn.com/livenews/3062845",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 23时40分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -593,7 +617,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -615,7 +639,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
@@ -648,7 +672,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时39分"
         },
