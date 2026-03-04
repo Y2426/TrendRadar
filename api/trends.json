@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T14:37:54.339185+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-03-04T15:34:10.964937+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -20,6 +20,18 @@
           "time_info": "[00时37分 ~ 09时16分]"
         },
         {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时34分]"
+        },
+        {
           "title": "马云，新年现身！谈了AI",
           "url": "https://www.cls.cn/detail/2301784",
           "source": "财联社热门",
@@ -29,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时38分 ~ 14时37分]"
+          "appearance_count": 16,
+          "time_info": "[01时38分 ~ 15时34分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -45,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时38分 ~ 14时37分]"
+          "appearance_count": 15,
+          "time_info": "[01时38分 ~ 15时34分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -62,16 +74,17 @@
           "time_info": "[05时27分 ~ 12时02分]"
         },
         {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            2
+            10,
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时01分 ~ 15时34分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -123,17 +136,16 @@
           "time_info": "[13时38分 ~ 14时37分]"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
           "ranks": [
             10,
-            12,
-            15
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时37分]"
+          "time_info": "[13时38分 ~ 15时34分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -184,18 +196,6 @@
           "time_info": "[04时25分 ~ 05时27分]"
         },
         {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 14时37分]"
-        },
-        {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3063025",
           "source": "华尔街见闻-快讯",
@@ -206,6 +206,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时19分]"
+        },
+        {
+          "title": "6个AI合伙开发搞玩具",
+          "url": "https://search.bilibili.com/all?keyword=6%E4%B8%AAAI%E5%90%88%E4%BC%99%E5%BC%80%E5%8F%91%E6%90%9E%E7%8E%A9%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
+        },
+        {
+          "title": "AI的奥本海默时刻已经到来",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9A%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E6%97%B6%E5%88%BB%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 15时34分]"
         },
         {
           "title": "Claude崩了，全球AI因何“熔断”？",
@@ -272,6 +294,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "松下机电宣布投资75亿日元，在中国新建Megtron电路板材料生产线，以应对日益增长的AI服务器需求。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
@@ -414,8 +447,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 15时34分]"
         }
       ]
     }
