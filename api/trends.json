@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:43:02.706823+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-03-05T14:42:11.971042+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -71,11 +71,23 @@
             16,
             11,
             25,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 13时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 14时42分]"
+        },
+        {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 14时42分]"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -136,15 +148,16 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
           "ranks": [
-            10
+            28,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时05分 ~ 13时43分]"
+          "time_info": "[13时42分 ~ 14时42分]"
         },
         {
           "title": "委员张凯丽：短剧、AI都是我关注的",
@@ -213,17 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时18分 ~ 09时19分]"
-        },
-        {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "百度AIGC舌尖遇顺德",
@@ -309,7 +311,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -320,6 +322,17 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
+          "url": "https://www.cls.cn/detail/2303137",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 14时42分]"
+        },
+        {
           "title": "据The Information：截至上月末，OpenAI年化收入已超过250亿美元。",
           "url": "https://flash.jin10.com/detail/20260305113319043800",
           "source": "金十数据",
@@ -329,17 +342,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
-        },
-        {
-          "title": "黄仁勋：对OpenAI的300亿美元投资“可能是最后一次”",
-          "url": "https://www.cls.cn/detail/2303137",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时05分 ~ 13时43分]"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
