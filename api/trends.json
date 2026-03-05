@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T18:32:02.948591+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-03-05T19:29:00.704907+08:00",
+  "total_titles_processed": 1745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时05分 ~ 18时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时05分 ~ 19时29分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -89,11 +89,25 @@
             28,
             30,
             26,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时34分 ~ 18时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时34分 ~ 19时29分]"
+        },
+        {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 19时29分]"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -129,17 +143,15 @@
           "time_info": "07时23分"
         },
         {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时29分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -167,6 +179,17 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 19时29分]"
+        },
+        {
           "title": "一键进入AI幻想世界",
           "url": "https://www.douyin.com/hot/2419330",
           "source": "抖音",
@@ -177,17 +200,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时42分 ~ 14时42分]"
-        },
-        {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "委员张凯丽：短剧、AI都是我关注的",
@@ -213,15 +225,15 @@
           "time_info": "[16时32分 ~ 17时35分]"
         },
         {
-          "title": "比Deepfake更严重的AI出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "time_info": "[19时28分 ~ 19时29分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
