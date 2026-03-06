@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T18:27:27.520480+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-03-06T19:23:03.635936+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -71,6 +71,28 @@
           "time_info": "[01时56分 ~ 07时46分]"
         },
         {
+          "title": "真实锐评TES打野Naiyou被调查",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%94%90%E8%AF%84TES%E6%89%93%E9%87%8ENaiyou%E8%A2%AB%E8%B0%83%E6%9F%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
+        },
+        {
+          "title": "AI相关产业规模将超10万亿元",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时28分 ~ 19时23分]"
+        },
+        {
           "title": "AI相关产业规模将超10万亿元",
           "url": "https://www.baidu.com/s?wd=AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
@@ -96,15 +118,40 @@
           "time_info": "[12时02分 ~ 17时31分]"
         },
         {
-          "title": "AI相关产业规模将超10万亿元",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9B%B8%E5%85%B3%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
+          "url": "https://www.cls.cn/detail/2304614",
+          "source": "财联社热门",
           "ranks": [
-            8
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 19时23分]"
+        },
+        {
+          "title": "TES上报Naiyou不当行为",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时28分 ~ 18时27分]"
+          "time_info": "[17时31分 ~ 19时23分]"
+        },
+        {
+          "title": "TES上报Naiyou不正当行为",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -120,28 +167,15 @@
           "time_info": "[16时28分 ~ 18时27分]"
         },
         {
-          "title": "美国或将AI芯片出口管制扩展至全球 大买家将被要求投资美国",
-          "url": "https://www.cls.cn/detail/2304614",
+          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
+          "url": "https://www.cls.cn/detail/2304910",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时27分]"
-        },
-        {
-          "title": "TES上报Naiyou不当行为",
-          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E5%BD%93%E8%A1%8C%E4%B8%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时27分]"
+          "time_info": "[18时27分 ~ 19时23分]"
         },
         {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
@@ -154,18 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "TES上报Naiyou不正当行为",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E4%B8%8A%E6%8A%A5Naiyou%E4%B8%8D%E6%AD%A3%E5%BD%93%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时27分]"
         },
         {
           "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
@@ -190,6 +212,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时27分]"
+        },
+        {
+          "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2013292943084058316",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 19时23分]"
         },
         {
           "title": "天猫一场直播汇集百款AI新品",
@@ -223,17 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 13时40分]"
-        },
-        {
-          "title": "“AI颠覆”下的失业潮究竟如何？今晚美国非农揭开真相！",
-          "url": "https://www.cls.cn/detail/2304910",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
         },
         {
           "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
@@ -391,11 +413,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 18时27分]"
+          "appearance_count": 13,
+          "time_info": "[09时22分 ~ 19时23分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
