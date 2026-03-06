@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T14:37:38.624005+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-03-06T15:34:48.279539+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -59,6 +59,18 @@
           "time_info": "[01时56分 ~ 07时46分]"
         },
         {
+          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
+          "url": "https://www.cls.cn/detail/2304544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 15时34分]"
+        },
+        {
           "title": "市场消息：美国考虑制定规则，为寻求美国AI芯片的国家设立四个等级，美国考虑新的框架以监管人工智能芯片出口，出口超过20万个美国AI芯片可能需要对美国AI数据中心或安全进行投资。",
           "url": "https://flash.jin10.com/detail/20260306050651902800",
           "source": "金十数据",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时24分]"
-        },
-        {
-          "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
-          "url": "https://www.cls.cn/detail/2304544",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         },
         {
           "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
@@ -145,7 +146,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -242,8 +243,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时22分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时22分 ~ 15时34分]"
         },
         {
           "title": "详解OpenAI新模型GPT-5.4",
