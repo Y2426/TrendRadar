@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T18:16:47.229388+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-03-07T19:14:12.047558+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -31,8 +31,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时13分 ~ 19时14分]"
+        },
+        {
+          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 14,
-          "time_info": "[09时13分 ~ 18时16分]"
+          "time_info": "[11时53分 ~ 19时14分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -57,23 +70,12 @@
             4,
             6,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 18时16分]"
-        },
-        {
-          "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712738",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时53分 ~ 18时16分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 19时14分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -183,6 +185,17 @@
           "time_info": "[07时20分 ~ 09时14分]"
         },
         {
+          "title": "TES教练 Naiyou说季后赛输的都是假赛",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%95%99%E7%BB%83%20Naiyou%E8%AF%B4%E5%AD%A3%E5%90%8E%E8%B5%9B%E8%BE%93%E7%9A%84%E9%83%BD%E6%98%AF%E5%81%87%E8%B5%9B&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "AI眼镜助失明姑娘独立出行",
           "url": "https://www.toutiao.com/trending/7614054710404317238/",
           "source": "今日头条",
@@ -201,11 +214,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 19时14分]"
         },
         {
           "title": "TESnaiyou 假赛",
@@ -268,6 +282,28 @@
           "time_info": "[17时21分 ~ 17时22分]"
         },
         {
+          "title": "在AI的加速时代，我们到底在害怕错过什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
+          "title": "用AI动画片求婚谁不心动啊",
+          "url": "https://www.douyin.com/hot/2422221",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
+        },
+        {
           "title": "据英国金融时报：美国规则草案要求，民用政府合同应允许“任何合法”用途使用（AI）模型。",
           "url": "https://flash.jin10.com/detail/20260307080944483800",
           "source": "金十数据",
@@ -318,7 +354,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -337,7 +373,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
@@ -363,6 +399,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时23分]"
+        },
+        {
+          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
+          "url": "https://wallstreetcn.com/articles/3766935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
