@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T18:32:13.284448+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-03-11T19:27:59.326685+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
@@ -33,11 +33,12 @@
             13,
             14,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时49分 ~ 18时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时49分 ~ 19时27分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -76,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时03分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[12时03分 ~ 19时27分]"
         },
         {
           "title": "AI背锅,内存降价遥遥无期",
@@ -96,6 +97,19 @@
           "time_info": "[00时49分 ~ 18时32分]"
         },
         {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时41分 ~ 19时27分]"
+        },
+        {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -107,18 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时25分 ~ 09时14分]"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时41分 ~ 18时32分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -133,6 +135,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时40分 ~ 06时20分]"
+        },
+        {
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时27分]"
+        },
+        {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时35分 ~ 19时27分]"
         },
         {
           "title": "AI龙虾卸载潮,299元上门收尸",
@@ -157,31 +184,6 @@
           "time_info": "[15时38分 ~ 18时32分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时32分]"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
           "title": "代表建议破除AI教育产品算法偏见",
           "url": "https://www.toutiao.com/trending/7615779868265037862/",
           "source": "今日头条",
@@ -202,6 +204,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时27分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -254,19 +270,6 @@
           "time_info": "[06时20分 ~ 09时14分]"
         },
         {
-          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
-          "url": "https://www.toutiao.com/trending/7615866634636365339/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时32分]"
-        },
-        {
           "title": "AI短剧侵权肖战最高可判10年",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E6%9D%83%E8%82%96%E6%88%98%E6%9C%80%E9%AB%98%E5%8F%AF%E5%88%A410%E5%B9%B4%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -312,6 +315,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时25分 ~ 05时24分]"
+        },
+        {
+          "title": "Meta：宣布在先进AI领域的新投资，推出帮助用户识别和避开诈骗者的工具。 将在Facebook、Messenger和WhatsApp推出新工具，以帮助防范诈骗。",
+          "url": "https://wallstreetcn.com/livenews/3068045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
@@ -364,7 +378,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -389,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "引入AI不是开除员工的挡箭牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%85%A5AI%E4%B8%8D%E6%98%AF%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "亚马逊：今日起向客户推出健康AI助手，未来几周将继续扩大服务覆盖范围。",
