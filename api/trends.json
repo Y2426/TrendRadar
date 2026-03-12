@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T00:52:42.547626+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-13T01:43:50.142849+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
           "url": "https://wallstreetcn.com/livenews/3069055",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -37,30 +38,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         },
         {
           "title": "xAI联合创始人ZiHang Dai已于本周稍早离职。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3069051",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         },
         {
           "title": "沉迷AI的领导belike",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         }
       ]
     },
@@ -76,19 +79,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         },
         {
           "title": "豆包P图有多权威",
           "url": "https://www.douyin.com/hot/2427641",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时43分]"
         }
       ]
     }
