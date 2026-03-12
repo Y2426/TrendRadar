@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T20:39:43.319146+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-03-12T21:58:44.692166+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,23 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时43分 ~ 21时58分]"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10,
+            12,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[14时43分 ~ 20时39分]"
+          "time_info": "[15时41分 ~ 21时58分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -77,8 +92,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时42分 ~ 20时39分]"
+          "appearance_count": 23,
+          "time_info": "[00时42分 ~ 21时58分]"
         },
         {
           "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
@@ -117,20 +132,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时07分 ~ 17时35分]"
-        },
-        {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时41分 ~ 20时39分]"
         },
         {
           "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
@@ -212,8 +213,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 20时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 21时58分]"
         },
         {
           "title": "AI龙虾安全风险真的那么可怕吗",
@@ -368,7 +369,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -407,7 +408,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -439,8 +440,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时41分 ~ 20时39分]"
+          "appearance_count": 9,
+          "time_info": "[15时41分 ~ 21时58分]"
         },
         {
           "title": "正式确诊为黏豆包型人格",
