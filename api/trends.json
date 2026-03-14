@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T21:40:43.539086+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-03-14T22:21:38.100308+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时04分 ~ 21时40分]"
+          "appearance_count": 13,
+          "time_info": "[12时04分 ~ 22时21分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -47,8 +47,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时40分 ~ 21时40分]"
+          "appearance_count": 12,
+          "time_info": "[13时40分 ~ 22时21分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -63,11 +63,12 @@
             18,
             20,
             19,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 21时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 22时21分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -184,6 +185,17 @@
           "time_info": "[16时26分 ~ 18时20分]"
         },
         {
+          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
+          "url": "https://wallstreetcn.com/articles/3767512",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时21分]"
+        },
+        {
           "title": "AI时代青少年该掌握哪些能力",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E9%9D%92%E5%B0%91%E5%B9%B4%E8%AF%A5%E6%8E%8C%E6%8F%A1%E5%93%AA%E4%BA%9B%E8%83%BD%E5%8A%9B%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -240,17 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时18分 ~ 20时32分]"
-        },
-        {
-          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
-          "url": "https://wallstreetcn.com/articles/3767512",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
         },
         {
           "title": "100元就能让三无机构登AI医美推荐榜",
@@ -385,11 +386,12 @@
             23,
             27,
             28,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 21时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 22时21分]"
         }
       ]
     }
