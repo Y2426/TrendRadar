@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T01:20:30.236504+08:00",
-  "total_titles_processed": 351,
+  "generated_at": "2026-03-15T02:27:14.887446+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时27分]"
         },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -27,20 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
-          "url": "https://flash.jin10.com/detail/20260315000241891800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时27分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -50,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时27分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -61,8 +49,21 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时27分]"
+        },
+        {
+          "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
+          "url": "https://flash.jin10.com/detail/20260315000241891800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "time_info": "[00时22分 ~ 02时27分]"
         }
       ]
     },
@@ -76,11 +77,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时27分]"
         },
         {
           "title": "豆包成导师,王者带8u轻松连胜",
@@ -90,8 +92,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时27分]"
         }
       ]
     }
