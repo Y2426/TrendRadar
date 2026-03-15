@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T16:28:39.072104+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-03-15T17:27:10.734034+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 16时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 17时27分]"
         },
         {
           "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
@@ -59,8 +59,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 16时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 17时27分]"
+        },
+        {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 17时27分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 03时22分]"
-        },
-        {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 16时28分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -193,8 +193,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时28分]"
+          "appearance_count": 7,
+          "time_info": "[12时26分 ~ 17时27分]"
         }
       ]
     }
