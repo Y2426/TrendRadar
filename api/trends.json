@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:53:46.402414+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-03-19T14:48:22.717650+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 13时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 14时48分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -85,11 +85,12 @@
             12,
             21,
             8,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时54分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[01时54分 ~ 14时48分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -125,11 +126,12 @@
             16,
             6,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时54分 ~ 13时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时54分 ~ 14时48分]"
         },
         {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
@@ -141,6 +143,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时48分]"
+        },
+        {
+          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
+          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时48分]"
         },
         {
           "title": "Coinbase为AI智能体支付酝酿基础设施。（The Information）",
@@ -167,29 +195,28 @@
           "time_info": "[03时44分 ~ 04时28分]"
         },
         {
-          "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
-          "url": "https://www.zhihu.com/question/2016065149123970133",
+          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
+          "url": "https://www.zhihu.com/question/2017645383652696499",
           "source": "知乎",
           "ranks": [
-            14,
-            10
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时48分]"
         },
         {
-          "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32712009",
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            13,
-            12
+            20,
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时48分]"
         },
         {
           "title": "短剧演员谈被AI替代",
@@ -226,29 +253,6 @@
           "time_info": "[12时15分 ~ 13时53分]"
         },
         {
-          "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
-          "url": "https://www.zhihu.com/question/2017645383652696499",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时53分]"
-        },
-        {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时53分]"
-        },
-        {
           "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
           "url": "https://wallstreetcn.com/livenews/3072898",
           "source": "华尔街见闻-快讯",
@@ -258,6 +262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
+          "url": "https://wallstreetcn.com/livenews/3072987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "AI成家电标配，头部企业竞逐主动智能赛道",
@@ -277,9 +292,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "华为李鹏：到2030年，中国AI相关产业规模将突破10万亿元",
+          "url": "https://wallstreetcn.com/livenews/3072982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
+        },
+        {
+          "title": "AI演员 粉丝",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%20%E7%B2%89%E4%B8%9D&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时48分"
         },
         {
           "title": "美光科技：AI服务器需求继续表现强劲。",
@@ -310,7 +358,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -431,11 +479,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时02分 ~ 13时53分]"
+          "appearance_count": 17,
+          "time_info": "[00时02分 ~ 14时48分]"
         }
       ]
     },
