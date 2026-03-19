@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:04:37.151195+08:00",
-  "total_titles_processed": 2082,
+  "generated_at": "2026-03-19T23:45:21.994688+08:00",
+  "total_titles_processed": 2207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时02分 ~ 22时04分]"
+          "appearance_count": 26,
+          "time_info": "[00时02分 ~ 23时45分]"
         },
         {
           "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
@@ -155,6 +155,22 @@
           "time_info": "[01时54分 ~ 20时42分]"
         },
         {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19,
+            17,
+            16,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时48分 ~ 23时45分]"
+        },
+        {
           "title": "AI味太冲,英伟达DLSS5翻车",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
           "source": "贴吧",
@@ -181,21 +197,6 @@
           "time_info": "[00时02分 ~ 07时25分]"
         },
         {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            15,
-            19,
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时48分 ~ 22时04分]"
-        },
-        {
           "title": "AI龙虾大战我的世界",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
           "source": "bilibili 热搜",
@@ -206,8 +207,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时42分 ~ 22时04分]"
+          "appearance_count": 9,
+          "time_info": "[15时42分 ~ 23时45分]"
         },
         {
           "title": "多名配音演员发函要求停止 AI 侵权，这反映出 AI 时代版权保护面临哪些新挑战？",
@@ -250,6 +251,17 @@
           "time_info": "[17时35分 ~ 20时42分]"
         },
         {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
           "url": "https://wallstreetcn.com/livenews/3072731",
           "source": "华尔街见闻-快讯",
@@ -267,7 +279,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -324,6 +336,19 @@
           "time_info": "[03时44分 ~ 04时28分]"
         },
         {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 23时45分]"
+        },
+        {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
           "url": "https://www.zhihu.com/question/2017645383652696499",
           "source": "知乎",
@@ -333,6 +358,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 14时48分]"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 23时45分]"
         },
         {
           "title": "短剧演员谈被AI替代",
@@ -369,18 +407,6 @@
           "time_info": "[12时15分 ~ 13时53分]"
         },
         {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 22时04分]"
-        },
-        {
           "title": "AI盛行 周杰伦坚持手搓",
           "url": "https://s.weibo.com/weibo?q=AI%E7%9B%9B%E8%A1%8C%20%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9D%9A%E6%8C%81%E6%89%8B%E6%90%93&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -393,18 +419,6 @@
           "time_info": "[18时34分 ~ 19时32分]"
         },
         {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 22时04分]"
-        },
-        {
           "title": "XR研究院：千问AI眼镜开售首周线上份额超70%",
           "url": "https://wallstreetcn.com/livenews/3072898",
           "source": "华尔街见闻-快讯",
@@ -414,6 +428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。",
+          "url": "https://wallstreetcn.com/livenews/3073450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
@@ -554,7 +579,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -722,11 +747,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 23时45分]"
         }
       ]
     },
