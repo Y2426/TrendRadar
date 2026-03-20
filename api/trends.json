@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-20T07:37:11.245935+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-03-20T09:19:04.465594+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时19分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -27,11 +28,12 @@
             17,
             14,
             12,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时19分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -39,11 +41,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时19分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
+          "url": "https://www.zhihu.com/question/2017676791603553270",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
@@ -56,6 +81,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时20分]"
+        },
+        {
+          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
+          "url": "https://wallstreetcn.com/articles/3767932",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 09时19分]"
+        },
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 09时19分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -82,26 +131,48 @@
           "time_info": "[00时49分 ~ 01时49分]"
         },
         {
-          "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
-          "url": "https://wallstreetcn.com/articles/3767932",
-          "source": "华尔街见闻",
+          "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
+          "url": "https://www.cls.cn/detail/2318679",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
+          "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
+          "url": "https://www.zhihu.com/question/2017606912024207686",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "AI龙抬头赐我新发型",
+          "url": "https://www.douyin.com/hot/2436323",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
+        },
+        {
+          "title": "去世演员通过AI重返银幕",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%BB%E4%B8%96%E6%BC%94%E5%91%98%E9%80%9A%E8%BF%87AI%E9%87%8D%E8%BF%94%E9%93%B6%E5%B9%95%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时18分 ~ 09时19分]"
         },
         {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
@@ -159,13 +230,24 @@
           "time_info": "04时31分"
         },
         {
+          "title": "豆包开启AI购物内测，电商平台加码“一句话购",
+          "url": "https://wallstreetcn.com/livenews/3073635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "白宫拟于周五向国会提交AI监管框架",
           "url": "https://flash.jin10.com/detail/20260320060446066800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         }
@@ -223,7 +305,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -234,7 +316,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -245,7 +327,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         }
@@ -262,11 +344,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时49分 ~ 07时37分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 09时19分]"
         }
       ]
     }
