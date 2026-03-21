@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:22:53.880062+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-03-21T17:25:09.062150+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -29,27 +29,12 @@
             8,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 16时22分]"
-        },
-        {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9,
-            13,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 16时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 17时25分]"
         },
         {
           "title": "未来十年AI拼的是什么",
@@ -69,6 +54,23 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 14时33分]"
+        },
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            13,
+            14,
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 17时25分]"
         },
         {
           "title": "AI演员林汐颜、秦凌岳为何引众怒",
@@ -116,17 +118,6 @@
           "time_info": "[02时36分 ~ 07时22分]"
         },
         {
-          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
-          "url": "https://flash.jin10.com/detail/20260321155755350800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "如何评价耀客推出 AI 演员秦凌岳、林汐颜，被指撞脸翟子路、赵今麦张子枫？AI 艺人仿真人版权边界如何界定？",
           "url": "https://www.zhihu.com/question/2017644548151616976",
           "source": "知乎",
@@ -166,6 +157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时33分 ~ 16时22分]"
+        },
+        {
+          "title": "伊朗媒体：巴斯基民兵组织副指挥官“阿齐姆·埃斯梅伊利”（Azim Esmaili）遇害。",
+          "url": "https://flash.jin10.com/detail/20260321155755350800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时25分]"
         },
         {
           "title": "亚马逊旗下AWS与Cerebras Systems Inc.合作，将共同开发AI推理解决方案。",
