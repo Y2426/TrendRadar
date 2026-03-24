@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T05:44:45.074302+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-03-25T06:23:36.519001+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时23分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -36,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时23分]"
         },
         {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
@@ -268,7 +270,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "官方定调！AI时代“词元经济”崛起",
@@ -279,8 +281,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时23分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -290,8 +292,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时23分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -301,8 +303,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时23分]"
         },
         {
           "title": "知名编剧打假:AI是庞氏骗局",
@@ -312,8 +314,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时23分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -324,8 +326,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时23分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -335,11 +337,12 @@
             24,
             20,
             26,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时23分]"
         },
         {
           "title": "据华尔街日报：Meta首席技术官安德鲁·博斯沃思将负责监管公司的“面向工作的AI”计划，公司重心正从元宇宙转移。",
@@ -373,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "如何看待 Ai 音乐创作这个趋势？",
+          "url": "https://www.zhihu.com/question/1937236067859306429",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         },
         {
           "title": "京东开源基础大模型JoyAI-LLM Flash的Instruct版本，适配近期火爆的“龙虾”",
@@ -450,8 +464,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时23分]"
         }
       ]
     }
