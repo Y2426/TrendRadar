@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:36:28.825633+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2026-03-25T20:48:06.521967+08:00",
+  "total_titles_processed": 1904,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,19 @@
           "time_info": "[00时59分 ~ 06时23分]"
         },
         {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时22分 ~ 20时48分]"
+        },
+        {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
@@ -30,11 +43,12 @@
             7,
             17,
             21,
-            22
+            22,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时12分 ~ 20时48分]"
         },
         {
           "title": "马上评｜“去人化”的AI影视，你还会看吗？",
@@ -133,19 +147,6 @@
           "time_info": "[13时56分 ~ 19时36分]"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 19时36分]"
-        },
-        {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
           "url": "https://www.zhihu.com/question/2019437515753398973",
           "source": "知乎",
@@ -154,8 +155,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[14时53分 ~ 20时48分]"
+        },
+        {
+          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
+          "url": "https://www.zhihu.com/question/2010673619001419372",
+          "source": "知乎",
+          "ranks": [
+            20,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 20时48分]"
         },
         {
           "title": "快手(01024.HK)：2025年第四季度，由AIGC营销素材带来的线上营销服务消耗金额达到人民币40亿元。",
@@ -189,18 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "我是来自德国的游戏制作人 Kai ，想问问中国玩家如何评价我们做的游戏《困兽之国》？",
-          "url": "https://www.zhihu.com/question/2010673619001419372",
-          "source": "知乎",
-          "ranks": [
-            20,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 19时36分]"
         },
         {
           "title": "这就是中国AI产业链的硬核实力",
@@ -449,11 +451,12 @@
             22,
             20,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 19时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时12分 ~ 20时48分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
