@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:54:18.745983+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2026-03-25T15:49:25.432641+08:00",
+  "total_titles_processed": 1380,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时49分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
@@ -38,11 +38,25 @@
           "ranks": [
             5,
             19,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时49分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时49分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -56,18 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时23分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时54分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -364,11 +366,12 @@
             17,
             14,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 15时49分]"
         },
         {
           "title": "AI骗老美,虚拟女兵狂捞金",
@@ -378,11 +381,12 @@
             11,
             12,
             21,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 15时49分]"
         },
         {
           "title": "报告称AI将全面取代这六大岗位",
@@ -404,11 +408,12 @@
             15,
             16,
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 15时49分]"
         },
         {
           "title": "给AI龙虾装上双手打游戏",
@@ -450,6 +455,19 @@
           "time_info": "07时25分"
         },
         {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时49分]"
+        },
+        {
           "title": "这就是中国AI产业链的硬核实力",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E7%9A%84%E7%A1%AC%E6%A0%B8%E5%AE%9E%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -462,16 +480,28 @@
           "time_info": "[12时12分 ~ 13时56分]"
         },
         {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
+          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
+          "url": "https://www.cls.cn/detail/2323916",
+          "source": "财联社热门",
           "ranks": [
             12,
+            11,
             9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时54分]"
+          "time_info": "[13时56分 ~ 15时49分]"
+        },
+        {
+          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
+          "url": "https://wallstreetcn.com/articles/3768269",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时22分 ~ 15时49分]"
         },
         {
           "title": "“七巨头”集体熄火！华尔街惊呼：AI最大赢家已换人",
@@ -486,27 +516,16 @@
           "time_info": "[09时22分 ~ 13时56分]"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
+          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
+          "url": "https://www.zhihu.com/question/2019437515753398973",
+          "source": "知乎",
           "ranks": [
-            10
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时22分 ~ 14时54分]"
-        },
-        {
-          "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
-          "url": "https://www.cls.cn/detail/2323916",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 14时54分]"
+          "time_info": "[14时53分 ~ 15时49分]"
         },
         {
           "title": "如何看待 Ai 音乐创作这个趋势？",
@@ -542,17 +561,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 12时12分]"
-        },
-        {
-          "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
-          "url": "https://www.zhihu.com/question/2019437515753398973",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 14时54分]"
         },
         {
           "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
