@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T02:45:28.361677+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-03-26T03:41:35.534617+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,21 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时41分]"
+        },
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            19,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时45分]"
+          "time_info": "[02时19分 ~ 03时41分]"
         },
         {
           "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
@@ -26,18 +39,6 @@
           "ranks": [
             15,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时45分]"
-        },
-        {
-          "title": "短剧演员成AI技术第一批“牺牲品”",
-          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -99,11 +100,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 03时41分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -112,7 +114,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         }
@@ -128,11 +130,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时41分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -140,11 +143,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 03时41分]"
         }
       ]
     }
