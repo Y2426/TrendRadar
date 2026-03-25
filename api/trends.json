@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T06:28:39.982767+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-03-26T07:28:04.018413+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Token AI时代的新KPI",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -28,11 +29,12 @@
             19,
             18,
             14,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时19分 ~ 06时28分]"
+          "appearance_count": 8,
+          "time_info": "[02时19分 ~ 07时28分]"
         },
         {
           "title": "美联储理事米兰：我预计，AI和去监管将让通胀失速。",
@@ -117,6 +119,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
+          "url": "https://wallstreetcn.com/livenews/3076931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "瑞士央行：瑞士境内的人工智能（AI）应用尚未“绞杀”那么多的就业岗位。",
           "url": "https://wallstreetcn.com/livenews/3076768",
           "source": "华尔街见闻-快讯",
@@ -131,7 +144,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -145,6 +158,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 03时41分]"
+        },
+        {
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -186,8 +210,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时28分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
