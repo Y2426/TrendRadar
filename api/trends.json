@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T16:49:18.644503+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-03-26T17:55:20.098747+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 16时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时55分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -45,7 +45,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -238,7 +238,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -276,11 +276,25 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 16时49分]"
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 17时55分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 17时55分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -294,18 +308,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 03时41分]"
-        },
-        {
-          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
-          "url": "https://www.cls.cn/detail/2325322",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 16时49分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -344,11 +346,12 @@
             16,
             15,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 16时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 17时55分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -386,11 +389,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 16时49分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 17时55分]"
         }
       ]
     },
@@ -403,11 +407,12 @@
           "url": "https://www.toutiao.com/trending/7621467486256664073/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时49分 ~ 17时55分]"
         }
       ]
     }
