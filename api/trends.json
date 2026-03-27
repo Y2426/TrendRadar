@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T19:37:26.966241+08:00",
-  "total_titles_processed": 1743,
+  "generated_at": "2026-03-27T20:44:33.049201+08:00",
+  "total_titles_processed": 1851,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[12时27分 ~ 19时37分]"
         },
         {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时08分 ~ 20时44分]"
+        },
+        {
           "title": "Token AI时代的新KPI",
           "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
           "source": "bilibili 热搜",
@@ -47,18 +61,16 @@
           "time_info": "[00时05分 ~ 09时27分]"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
           "ranks": [
-            19,
-            10,
-            5,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时08分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时44分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -76,18 +88,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时27分 ~ 19时37分]"
-        },
-        {
-          "title": "假赛挨重拳,naiyou终身禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时37分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -145,7 +145,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -161,6 +161,18 @@
           "time_info": "[16时42分 ~ 19时37分]"
         },
         {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 20时44分]"
+        },
+        {
           "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
           "url": "https://wallstreetcn.com/livenews/3077656",
           "source": "华尔街见闻-快讯",
@@ -171,18 +183,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时52分 ~ 04时29分]"
-        },
-        {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时46分 ~ 19时37分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
@@ -277,11 +277,12 @@
             5,
             2,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 19时37分]"
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 20时44分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -293,11 +294,12 @@
             20,
             13,
             17,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 20时44分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -321,8 +323,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时55分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时55分 ~ 20时44分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
