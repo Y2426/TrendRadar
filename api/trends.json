@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T02:45:21.737101+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-03-28T03:37:45.112671+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -15,21 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
-        },
-        {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -39,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -50,8 +37,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -70,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "LPL宣布naiyou假赛被终身禁赛",
@@ -82,11 +84,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -94,11 +97,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         }
       ]
     },
@@ -127,8 +131,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -140,8 +144,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
+        },
+        {
+          "title": "UP主实测谷歌压缩算法",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -150,23 +167,12 @@
           "ranks": [
             16,
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
-        },
-        {
-          "title": "UP主实测谷歌压缩算法",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时44分 ~ 02时45分]"
+          "appearance_count": 5,
+          "time_info": "[00时44分 ~ 03时37分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -175,7 +181,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
         }
