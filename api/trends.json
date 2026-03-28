@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T22:26:03.448183+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-03-28T23:25:21.255643+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中国AI模型调用量爆发式增长",
@@ -33,8 +33,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时44分 ~ 22时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 23时25分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -52,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时44分 ~ 22时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 23时25分]"
         },
         {
           "title": "半导体设备接过存储“泼天富贵”？AI叠加工艺升级红利 行业订单能见度提升",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时52分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[13时52分 ~ 23时25分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -92,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时39分 ~ 22时26分]"
+          "appearance_count": 12,
+          "time_info": "[15时39分 ~ 23时25分]"
         },
         {
           "title": "湘女多情AI陶喆版",
@@ -142,6 +142,17 @@
           "time_info": "[00时44分 ~ 03时37分]"
         },
         {
+          "title": "一个视频了解AI常识",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E4%B8%AA%E8%A7%86%E9%A2%91%E4%BA%86%E8%A7%A3AI%E5%B8%B8%E8%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时25分]"
+        },
+        {
           "title": "Naiyou终身禁赛",
           "url": "https://www.douyin.com/hot/2446027",
           "source": "抖音",
@@ -160,11 +171,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时26分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时25分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -251,8 +263,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时44分 ~ 22时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 23时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -269,11 +281,12 @@
             20,
             24,
             27,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时44分 ~ 22时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 23时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -292,8 +305,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时44分 ~ 22时26分]"
+          "appearance_count": 27,
+          "time_info": "[00时44分 ~ 23时25分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
