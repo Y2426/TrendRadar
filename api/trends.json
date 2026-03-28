@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:31:43.988065+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-03-28T18:25:27.444184+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 18时25分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -46,8 +46,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 18时25分]"
         },
         {
           "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
@@ -112,11 +112,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时52分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[13时52分 ~ 18时25分]"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -140,8 +141,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 18时25分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
@@ -212,11 +213,12 @@
             19,
             12,
             14,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 18时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -234,8 +236,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 18时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -252,8 +254,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时44分 ~ 17时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时44分 ~ 18时25分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -271,11 +273,12 @@
           "url": "https://www.zhihu.com/question/2020455049218712383",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时25分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
