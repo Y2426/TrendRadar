@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T05:25:27.204792+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-03-30T06:22:24.239769+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -49,8 +50,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 05时25分]"
+          "appearance_count": 8,
+          "time_info": "[01时23分 ~ 06时22分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -58,11 +59,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 06时22分]"
         }
       ]
     },
@@ -80,8 +82,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -93,8 +95,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         }
       ]
     },
@@ -111,8 +113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -125,8 +127,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 05时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 06时22分]"
         }
       ]
     }
