@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T19:50:49.400907+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-03-30T20:59:02.704550+08:00",
+  "total_titles_processed": 1548,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             13,
             16,
             20,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时39分 ~ 19时50分]"
+          "appearance_count": 9,
+          "time_info": "[12时39分 ~ 20时59分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -206,8 +207,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 19时50分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 20时59分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -381,11 +382,12 @@
             19,
             22,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时26分 ~ 19时50分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 20时59分]"
         }
       ]
     }
