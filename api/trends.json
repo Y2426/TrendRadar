@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T05:31:53.877508+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-04-01T06:27:34.566595+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时27分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时27分]"
         },
         {
           "title": "如何看待前端排版库 Pretext，能否实现 AI 自动排版?",
