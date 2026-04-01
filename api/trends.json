@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T20:59:41.039262+08:00",
-  "total_titles_processed": 1762,
+  "generated_at": "2026-04-01T22:29:21.218702+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             20,
             24,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时01分 ~ 20时59分]"
+          "appearance_count": 20,
+          "time_info": "[00时01分 ~ 22时29分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -106,11 +107,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 20时59分]"
+          "appearance_count": 3,
+          "time_info": "[19时03分 ~ 22时29分]"
         },
         {
           "title": "甲骨文启动新一轮大规模裁员，AI数据中心投入持续加码",
