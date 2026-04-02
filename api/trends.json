@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T07:31:16.914203+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-04-02T09:25:51.241255+08:00",
+  "total_titles_processed": 864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -28,8 +28,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 07时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 09时25分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -69,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 09时25分]"
         },
         {
           "title": "如何把 AI 训练成自己的「第二大脑」？",
@@ -95,6 +95,17 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
+          "title": "央视AI奇谈 流金谷恩仇录",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%AE%E8%A7%86AI%E5%A5%87%E8%B0%88%20%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
           "url": "https://flash.jin10.com/detail/20260402012346170800",
           "source": "金十数据",
@@ -112,7 +123,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
