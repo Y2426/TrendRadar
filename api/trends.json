@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T04:27:49.748167+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-04-03T05:31:13.191605+08:00",
+  "total_titles_processed": 567,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 05时31分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 05时31分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -48,7 +48,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         }
@@ -151,8 +151,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 04时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 05时31分]"
         }
       ]
     }
