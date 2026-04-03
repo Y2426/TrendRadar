@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T14:08:21.938362+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-04-03T15:58:08.894131+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 14时08分]"
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 15时58分]"
         },
         {
           "title": "标普道琼斯指数公司：将Atmus Filtration纳入标普小盘股600指数，从中剔除Air Lease。",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时28分]"
+        },
+        {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -104,18 +116,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
           "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 14时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时24分 ~ 15时58分]"
         },
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -139,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时43分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -222,8 +246,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时48分 ~ 14时08分]"
+          "appearance_count": 18,
+          "time_info": "[00时48分 ~ 15时58分]"
         }
       ]
     }
