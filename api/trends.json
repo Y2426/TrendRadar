@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T17:46:47.937092+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-04-03T18:36:28.585951+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             11,
             16,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 17时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时48分 ~ 18时36分]"
         },
         {
           "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
@@ -45,8 +46,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 18时36分]"
         },
         {
           "title": "标普道琼斯指数公司：将Atmus Filtration纳入标普小盘股600指数，从中剔除Air Lease。",
@@ -135,6 +136,19 @@
           "time_info": "[12时24分 ~ 15时58分]"
         },
         {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时57分 ~ 18时36分]"
+        },
+        {
           "title": "谷歌最新模型Gemma4发布",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -156,18 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 01时43分]"
-        },
-        {
-          "title": "谷歌官方发布最新模型Gemma4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 17时46分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -248,11 +250,12 @@
             16,
             18,
             15,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 17时46分]"
+          "appearance_count": 21,
+          "time_info": "[00时48分 ~ 18时36分]"
         }
       ]
     }
