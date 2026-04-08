@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T06:32:05.626861+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-04-09T07:32:06.118685+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -26,8 +26,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -58,7 +58,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
@@ -112,8 +112,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 07时32分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -134,7 +134,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
