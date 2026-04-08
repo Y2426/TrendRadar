@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T03:36:38.514007+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-04-09T05:18:03.696266+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -15,8 +15,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时18分]"
+        },
+        {
+          "title": "AI染指鬼灭,日网友气急跳脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时18分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -30,15 +41,15 @@
           "time_info": "[00时53分 ~ 03时36分]"
         },
         {
-          "title": "AI染指鬼灭,日网友气急跳脚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
-          "source": "贴吧",
+          "title": "万斯称十点提案有多个版本 有些像是AI写的",
+          "url": "https://flash.jin10.com/detail/20260409042844092800",
+          "source": "金十数据",
           "ranks": [
-            30
+            18
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时18分"
         }
       ]
     },
@@ -81,11 +92,12 @@
           "ranks": [
             22,
             18,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 03时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时18分]"
         }
       ]
     }
