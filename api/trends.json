@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T00:53:29.120223+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-09T02:49:13.671415+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时49分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -26,8 +26,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时49分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -37,8 +37,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时49分]"
         }
       ]
     },
@@ -79,11 +79,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 02时49分]"
         }
       ]
     }
