@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T21:03:58.810414+08:00",
-  "total_titles_processed": 1669,
+  "generated_at": "2026-04-09T23:15:11.860379+08:00",
+  "total_titles_processed": 1825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -18,11 +18,12 @@
             15,
             17,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时53分 ~ 21时03分]"
+          "appearance_count": 22,
+          "time_info": "[00时53分 ~ 23时15分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -44,11 +45,12 @@
             14,
             12,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 21时03分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 23时15分]"
         },
         {
           "title": "如何看待 Faker 称「非常期待与 AI 对战，我认为人类所拥有的直觉力是 AI 无法完全追赶的」？",
@@ -72,11 +74,26 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 23时15分]"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            22,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时48分 ~ 23时15分]"
         },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
@@ -101,16 +118,15 @@
           "time_info": "[09时22分 ~ 14时16分]"
         },
         {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            22
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时48分 ~ 21时03分]"
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "万斯称十点提案有多个版本 有些像是AI写的",
@@ -124,6 +140,17 @@
           "time_info": "[05时18分 ~ 05时36分]"
         },
         {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
           "title": "当AI镜头和实拍混在一起",
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%95%9C%E5%A4%B4%E5%92%8C%E5%AE%9E%E6%8B%8D%E6%B7%B7%E5%9C%A8%E4%B8%80%E8%B5%B7",
           "source": "bilibili 热搜",
@@ -133,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
+        },
+        {
+          "title": "IMF总裁：IMF分析显示，AI可能会帮助生产力提高至多0.8%，但也可能会在发达经济体殃及60%的就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/3085187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "AI21 Labs曾在2025年讨论出售给英伟达。 Nebius洽谈收购AI初创公司AI21。（The Information）",
@@ -185,7 +223,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -254,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        },
+        {
+          "title": "日产汽车将在4-5月份向美国市场发送1400辆SUV，原来打算发货给中东市场，这种贸易方式可能会持续至6月甚至更晚。 这批车辆由日本福冈县的子公司——日产车体九州（Nissan Shatai Kyushu）生产。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3085170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "AI经济是泡沫吗",
@@ -388,7 +437,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
