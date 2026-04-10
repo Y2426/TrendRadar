@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T20:51:18.752907+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2026-04-10T22:13:50.543815+08:00",
+  "total_titles_processed": 1850,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时58分 ~ 16时18分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时41分 ~ 22时13分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -80,20 +94,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时58分 ~ 10时03分]"
-        },
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时41分 ~ 20时51分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -223,6 +223,18 @@
           "time_info": "[12时41分 ~ 14时28分]"
         },
         {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时13分]"
+        },
+        {
           "title": "最高涨价463% 你的AI员工变贵了",
           "url": "https://www.baidu.com/s?wd=%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B7463%25+%E4%BD%A0%E7%9A%84AI%E5%91%98%E5%B7%A5%E5%8F%98%E8%B4%B5%E4%BA%86",
           "source": "百度热搜",
@@ -233,17 +245,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 14时28分]"
-        },
-        {
-          "title": "王自如聊中美AI模型上新",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "夫妻称用AI写公众号年赚200万被封号",
