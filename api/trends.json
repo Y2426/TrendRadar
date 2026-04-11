@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T18:26:30.633759+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-04-11T19:24:13.790865+08:00",
+  "total_titles_processed": 1291,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -60,6 +60,20 @@
           "time_info": "[02时34分 ~ 03时38分]"
         },
         {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            19,
+            22,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时45分 ~ 19时24分]"
+        },
+        {
           "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
           "url": "https://flash.jin10.com/detail/20260411142532640800",
           "source": "金十数据",
@@ -99,18 +113,16 @@
           "time_info": "[03时38分 ~ 07时28分]"
         },
         {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            22,
-            16,
-            17
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时26分 ~ 19时24分]"
         },
         {
           "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
@@ -151,6 +163,17 @@
           "time_info": "[04时39分 ~ 05时31分]"
         },
         {
+          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
+        },
+        {
           "title": "AI被投毒引发宝妈湿巾焦虑",
           "url": "https://s.weibo.com/weibo?q=%23AI%E8%A2%AB%E6%8A%95%E6%AF%92%E5%BC%95%E5%8F%91%E5%AE%9D%E5%A6%88%E6%B9%BF%E5%B7%BE%E7%84%A6%E8%99%91%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -172,17 +195,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 17时33分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
@@ -212,19 +224,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时55分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[13时55分 ~ 19时24分]"
         },
         {
           "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/2026136705757902456",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时26分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 19时24分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
