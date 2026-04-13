@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T03:04:05.303993+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-04-14T04:44:55.750906+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时44分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时44分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -39,19 +39,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时55分 ~ 03时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时55分 ~ 04时44分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
           "url": "https://www.cls.cn/detail/2342373",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 03时04分]"
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 04时44分]"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
@@ -71,7 +72,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
         },
@@ -110,11 +111,12 @@
           "ranks": [
             8,
             7,
-            14
+            14,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时44分]"
         }
       ]
     }
