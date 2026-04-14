@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T05:44:03.922895+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-04-15T06:39:18.967703+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时39分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时39分]"
         },
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -41,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时39分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -52,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时39分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -63,8 +64,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时39分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -74,8 +75,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时39分]"
         },
         {
           "title": "报道：Anthropic准备Opus 4.7模型和AI设计工具。",
@@ -119,30 +120,54 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时44分 ~ 05时44分]"
+          "appearance_count": 4,
+          "time_info": "[04时44分 ~ 06时39分]"
         },
         {
           "title": "Meta与博通就定制款AI芯片签署协议",
           "url": "https://wallstreetcn.com/livenews/3087983",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时39分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时39分]"
+        },
+        {
+          "title": "美国财长贝森特：Anthropic的AI模型Mythos是能力方面的“一个功能变化”。",
+          "url": "https://wallstreetcn.com/livenews/3087996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时44分"
+          "time_info": "06时39分"
+        },
+        {
+          "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
+          "url": "https://flash.jin10.com/detail/20260415052923283800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
         },
         {
           "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
@@ -210,22 +235,24 @@
           "url": "https://wallstreetcn.com/livenews/3087988",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时39分]"
         },
         {
           "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
           "url": "https://flash.jin10.com/detail/20260415045655489800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时39分]"
         },
         {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
@@ -256,7 +283,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         },
@@ -295,7 +322,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
         }
@@ -314,8 +341,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时44分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时39分]"
         }
       ]
     }
