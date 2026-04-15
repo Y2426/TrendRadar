@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T03:23:45.469045+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-04-16T04:40:44.034763+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时40分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -28,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时40分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
@@ -77,11 +78,12 @@
           "ranks": [
             8,
             19,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时40分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -107,7 +109,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -118,7 +120,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
