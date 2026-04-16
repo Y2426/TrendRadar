@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T16:24:19.634222+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-04-16T18:10:04.509063+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,38 @@
             7,
             13,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时09分 ~ 16时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时09分 ~ 18时10分]"
+        },
+        {
+          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
+          "url": "https://wallstreetcn.com/articles/3770049",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 18时10分]"
+        },
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时24分 ~ 18时10分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -48,41 +75,18 @@
           "time_info": "14时38分"
         },
         {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "特斯拉AI芯片里程碑！马斯克官宣AI5成功流片，双芯性能对标Blackwell",
-          "url": "https://wallstreetcn.com/articles/3770049",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 16时24分]"
-        },
-        {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
           "source": "贴吧",
           "ranks": [
             15,
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 16时24分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 18时10分]"
         },
         {
           "title": "周三（4月15日），美股存储芯片与硬件供应链指数跌2.30%，报135.73点，呈现出V形走势。 成分股全线收跌，Sandisk跌5.58%，拉姆研究、希捷科技、美光科技跌2.66%-2.03%，Rambus跌1.40%，应用材料、西部数据、泰瑞达TER至多跌0.35%。 信息科技指数涨1.32%，报313.74点，北京时间00:56以来持续反弹。 人工智能（AI）赢家指数涨0.24%，报333.04点，00:56以来持续反弹。 AI软件先驱指数涨5.29%，报95.29点，美股盘初涨势陡峭、21:43以来持续平缓地走高。",
@@ -344,11 +348,12 @@
             9,
             22,
             27,
-            14
+            14,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时09分 ~ 16时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时09分 ~ 18时10分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -378,6 +383,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "豆包帮挑的西瓜",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%B8%AE%E6%8C%91%E7%9A%84%E8%A5%BF%E7%93%9C&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 18时10分]"
         }
       ]
     }
