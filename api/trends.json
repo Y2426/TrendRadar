@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T06:33:04.486341+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-04-17T07:34:03.669347+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时34分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时34分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -39,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时34分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -50,8 +50,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时34分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -61,8 +61,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时33分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 07时34分]"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 06时33分]"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时33分 ~ 07时34分]"
         },
         {
           "title": "据伊朗Press TV：伊朗伊斯兰革命卫队圣城旅司令smail Qaani就黎以停火发表声明。Qaani表示，黎巴嫩及地区人民应当知晓，这场战斗的胜利者是真主党。如果达成停火，那将是黎巴嫩“抵抗力量”的坚定立场以及伊朗支持的结果。",
