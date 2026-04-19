@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T16:03:27.194927+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-04-19T17:40:14.093655+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -31,8 +31,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 16时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 17时40分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -61,8 +61,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 16时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 17时40分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -75,8 +75,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 16时03分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 17时40分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
+          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     },
@@ -164,8 +175,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 16时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 17时40分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -177,20 +188,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 16时03分]"
-        },
-        {
-          "title": "DeepSeek被曝启动融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时45分 ~ 16时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时45分 ~ 17时40分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -199,11 +198,25 @@
           "ranks": [
             14,
             12,
-            11
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时52分 ~ 17时40分]"
+        },
+        {
+          "title": "DeepSeek被曝启动融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时52分 ~ 16时03分]"
+          "time_info": "[12时45分 ~ 17时40分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -222,11 +235,12 @@
           "url": "https://www.toutiao.com/trending/7630341053001829938/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 17时40分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
