@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T03:37:13.841856+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-04-20T04:28:53.737498+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -40,8 +40,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
+        },
+        {
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时36分 ~ 04时28分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时29分]"
-        },
-        {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 03时37分]"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
@@ -94,8 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -104,11 +104,12 @@
           "ranks": [
             14,
             15,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -119,8 +120,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     },
@@ -151,11 +152,12 @@
           "source": "微博",
           "ranks": [
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 04时28分]"
         }
       ]
     }
