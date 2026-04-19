@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T01:29:57.145010+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-04-20T02:37:34.239611+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -16,20 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
-        },
-        {
-          "title": "怎样能够一眼分辨出是 AI 生成的文章？",
-          "url": "https://www.zhihu.com/question/3022969383",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -40,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -50,6 +38,18 @@
           "ranks": [
             28,
             29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
+        },
+        {
+          "title": "怎样能够一眼分辨出是 AI 生成的文章？",
+          "url": "https://www.zhihu.com/question/3022969383",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -78,11 +78,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -93,8 +94,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -105,8 +106,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         }
       ]
     },
@@ -122,8 +123,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         }
       ]
     },
@@ -140,8 +141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时29分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时37分]"
         }
       ]
     }
