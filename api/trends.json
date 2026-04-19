@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T07:27:55.339349+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-04-19T09:53:01.075827+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球市场“已经打完仗了”，高盛交易台：AI主题将持续跑赢，尤其是液冷、光学网络和推理算力",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -38,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -49,8 +50,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时53分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -60,11 +61,12 @@
             13,
             8,
             10,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 09时53分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -76,12 +78,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 03时35分]"
+        },
+        {
+          "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
+          "url": "https://wallstreetcn.com/articles/3770323",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -89,11 +102,23 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 09时53分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -120,11 +145,12 @@
             23,
             17,
             22,
-            20
+            20,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时31分 ~ 09时53分]"
         }
       ]
     }
