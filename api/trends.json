@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T12:46:10.792756+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2026-04-19T14:26:19.325890+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 14时26分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -45,8 +46,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时31分 ~ 12时46分]"
+          "appearance_count": 12,
+          "time_info": "[01时31分 ~ 14时26分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -54,11 +55,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 14时26分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -66,11 +68,12 @@
           "source": "贴吧",
           "ranks": [
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 12时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 14时26分]"
         },
         {
           "title": "CPO量产引爆AI算力底层革命，硅光与互连成最大赢家？",
@@ -81,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 14时26分]"
         },
         {
           "title": "特朗普对伊博格碱（Ibogaine）研究发表评论：政府正在投入资金用于对伊博格碱的研究。",
@@ -103,8 +106,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时26分]"
+        },
+        {
+          "title": "AI让人越来越累",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%B4%AF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时26分]"
         },
         {
           "title": "AI烧钱无底洞？高盛给出回本路径：自动驾驶将引爆万亿利润池",
@@ -112,17 +127,6 @@
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "AI让人越来越累",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%B4%AF&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -152,22 +156,12 @@
           "url": "https://www.douyin.com/hot/2470868",
           "source": "抖音",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
-        },
-        {
-          "title": "DeepSeek被曝启动融资",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
-          "source": "bilibili 热搜",
-          "ranks": [
+            1,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时26分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -177,8 +171,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时26分]"
+        },
+        {
+          "title": "DeepSeek被曝启动融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E5%90%AF%E5%8A%A8%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时26分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -189,19 +195,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 12时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 14时26分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%8420%E4%BA%BF",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 12时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时26分]"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -218,7 +225,7 @@
     },
     {
       "keyword_group": "豆包",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "自制“长腿豆包”参加机器人半马",
@@ -235,6 +242,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时31分 ~ 12时46分]"
+        },
+        {
+          "title": "机器人马拉松 豆包变豆脚了",
+          "url": "https://s.weibo.com/weibo?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A9%AC%E6%8B%89%E6%9D%BE%20%E8%B1%86%E5%8C%85%E5%8F%98%E8%B1%86%E8%84%9A%E4%BA%86&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     }
