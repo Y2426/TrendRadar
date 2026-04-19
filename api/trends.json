@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T04:28:53.737498+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-04-20T05:28:09.108239+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时28分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时28分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -40,8 +40,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时28分]"
         },
         {
           "title": "我们要不要向AI说谢谢？",
@@ -51,8 +51,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时36分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时36分 ~ 05时28分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -94,8 +94,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时28分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -108,8 +108,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时28分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -120,8 +120,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时28分]"
         }
       ]
     },
@@ -153,11 +153,12 @@
           "ranks": [
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时28分]"
         }
       ]
     }
