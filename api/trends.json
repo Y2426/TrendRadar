@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T05:29:56.577888+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-04-26T06:28:56.260495+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时28分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -40,8 +40,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -81,8 +81,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -92,8 +92,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -104,8 +104,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -115,8 +115,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时28分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -144,8 +144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 05时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 06时28分]"
         }
       ]
     },
