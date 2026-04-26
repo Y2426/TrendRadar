@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:39:08.347373+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2026-04-26T19:35:21.372531+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 18时39分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 19时35分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时57分 ~ 18时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时57分 ~ 19时35分]"
         },
         {
           "title": "沉默的DeepSeek，和不被定义的中国大模型",
@@ -82,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 18时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 19时35分]"
         },
         {
           "title": "DeepSeekV4脱离英伟达了吗",
@@ -94,11 +94,12 @@
             6,
             7,
             8,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 18时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 19时35分]"
         },
         {
           "title": "DeepSeek V4成OpenClaw默认模型",
@@ -109,11 +110,12 @@
             5,
             7,
             12,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 18时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 19时35分]"
         },
         {
           "title": "DeepSeek V4发布意味着什么",
@@ -123,8 +125,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时35分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -135,22 +137,24 @@
             11,
             13,
             18,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 18时39分]"
+          "appearance_count": 6,
+          "time_info": "[12时54分 ~ 19时35分]"
         },
         {
           "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 19时35分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -234,11 +238,12 @@
             14,
             19,
             20,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 18时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 19时35分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -264,6 +269,19 @@
           "time_info": "[00时32分 ~ 09时55分]"
         },
         {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时45分 ~ 19时35分]"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
@@ -275,18 +293,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时54分 ~ 16时14分]"
-        },
-        {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时45分 ~ 18时39分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
