@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T20:45:40.768633+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-04-26T22:02:22.963413+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
@@ -30,21 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 20时45分]"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 20时45分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 22时02分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -57,8 +44,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时57分 ~ 20时45分]"
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 22时02分]"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时54分 ~ 22时02分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -126,11 +126,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 20时45分]"
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 22时02分]"
+        },
+        {
+          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 22时02分]"
         },
         {
           "title": "国家超算互联网推出DeepSeek-V4限时免费对话服务",
@@ -147,18 +160,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时54分 ~ 19时35分]"
-        },
-        {
-          "title": "涨价浪潮下，DeepSeek推动AI“价格战”：百万Token输入0.25元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056587",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 19时35分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -200,7 +201,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -258,8 +259,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 20时45分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 22时02分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -291,11 +292,12 @@
           "ranks": [
             17,
             21,
-            22
+            22,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时45分 ~ 20时45分]"
+          "appearance_count": 8,
+          "time_info": "[17时45分 ~ 22时02分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
@@ -323,6 +325,17 @@
           "time_info": "[00时32分 ~ 07时31分]"
         },
         {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时02分]"
+        },
+        {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
           "url": "https://flash.jin10.com/detail/20260426150306413800",
           "source": "金十数据",
@@ -333,17 +346,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时14分 ~ 17时46分]"
-        },
-        {
-          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "AI对广告行业有何冲击",
@@ -364,6 +366,20 @@
       "titles": [
         {
           "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
+          "url": "https://www.cls.cn/detail/2355714",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时31分 ~ 22时02分]"
+        },
+        {
+          "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33050625",
           "source": "澎湃新闻",
           "ranks": [
@@ -374,19 +390,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 09时55分]"
-        },
-        {
-          "title": "“豆包提前查到2026山东事业编成绩”？最新回应",
-          "url": "https://www.cls.cn/detail/2355714",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时31分 ~ 20时45分]"
         }
       ]
     },
