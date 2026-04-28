@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:10:15.071228+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-04-28T18:57:14.172970+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -16,11 +16,12 @@
             4,
             6,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 16时10分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 18时57分]"
         },
         {
           "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
@@ -46,6 +47,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 10时05分]"
+        },
+        {
+          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
+          "url": "https://www.zhihu.com/question/2032163714355263384",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时51分 ~ 18时57分]"
         },
         {
           "title": "广东发布十五五规划纲要，事关AI、商业航天、光伏等",
@@ -84,18 +98,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时42分]"
-        },
-        {
-          "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
-          "url": "https://www.zhihu.com/question/2032163714355263384",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时51分 ~ 16时10分]"
         },
         {
           "title": "美依礼芽回应歌手AI海报",
@@ -148,6 +150,17 @@
           "time_info": "[00时27分 ~ 02时02分]"
         },
         {
+          "title": "大摩：中国AI芯片供应商，谁将胜出？",
+          "url": "https://wallstreetcn.com/articles/3771031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
           "title": "Bobby Jain的对冲基金将返还外部资金，独家为前雇主Millennium管理",
           "url": "https://wallstreetcn.com/livenews/3095251",
           "source": "华尔街见闻-快讯",
@@ -158,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "市值突破800亿港元！全球AI硅光芯片第一股，何以落在上海？|聚焦",
@@ -391,7 +415,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -460,6 +484,18 @@
           "time_info": "13时52分"
         },
         {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时57分]"
+        },
+        {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
           "url": "https://www.zhihu.com/question/2031729357580919027",
           "source": "知乎",
@@ -471,15 +507,15 @@
           "time_info": "[13时51分 ~ 13时52分]"
         },
         {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
+          "title": "DeepSeek还是最强国产AI吗",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%BF%98%E6%98%AF%E6%9C%80%E5%BC%BA%E5%9B%BD%E4%BA%A7AI%E5%90%97%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "DeepSeek注册资本提高50%",
@@ -507,7 +543,7 @@
     },
     {
       "keyword_group": "manus",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家发改委：禁止外资收购Manus项目，要求撤销交易",
@@ -520,6 +556,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时27分 ~ 16时10分]"
+        },
+        {
+          "title": "外资收购Manus项目被禁止，外交部：中国政府依法依规审查并作出决定",
+          "url": "https://www.cls.cn/detail/2358019",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
         },
         {
           "title": "如何看待中方叫停Manus并购案",
@@ -561,7 +608,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         }
@@ -569,7 +616,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
@@ -586,6 +633,17 @@
           "time_info": "[00时27分 ~ 07时44分]"
         },
         {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 18时57分]"
+        },
+        {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
           "url": "https://flash.jin10.com/detail/20260428054512315800",
           "source": "金十数据",
@@ -596,6 +654,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "报道称OpenAI未达销售目标 相关股票下跌",
+          "url": "https://wallstreetcn.com/livenews/3095675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
