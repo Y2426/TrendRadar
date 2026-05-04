@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T18:58:50.455758+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-05-04T20:21:24.399916+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -162,8 +162,33 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 18时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 20时21分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 20时21分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 20时21分]"
         },
         {
           "title": "博主：美军早就开始用AI进行实战了",
@@ -178,19 +203,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时39分 ~ 05时34分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 18时58分]"
         },
         {
           "title": "央视披露公司用AI替岗35岁主管详情",
@@ -209,16 +221,28 @@
           "time_info": "[00时39分 ~ 07时36分]"
         },
         {
-          "title": "AI主播上电视,虚拟人抢饭碗?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
-          "source": "贴吧",
+          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
+          "url": "https://www.zhihu.com/question/2032522089656230991",
+          "source": "知乎",
           "ranks": [
-            5,
-            3
+            10,
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 18时58分]"
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 20时21分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时33分 ~ 20时21分]"
         },
         {
           "title": "AI狂潮继续！亚太股市创盘中纪录新高，韩股暴涨5%，SK海力士市值首破1000万亿韩元，恒科指大涨近3%",
@@ -243,28 +267,17 @@
           "time_info": "13时56分"
         },
         {
-          "title": "孩子抱着 AI 聊三小时，问「十一楼飞出窗会摔到吗」，AI 竟称会慢慢飘起，为啥会这样？家长该怎么做？",
-          "url": "https://www.zhihu.com/question/2032522089656230991",
-          "source": "知乎",
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            14,
-            8
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 18时58分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时33分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 20时21分]"
         },
         {
           "title": "公司引进AI后将员工降薪裁员",
@@ -279,16 +292,16 @@
           "time_info": "[10时02分 ~ 13时56分]"
         },
         {
-          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
-          "url": "https://wallstreetcn.com/articles/3771530",
-          "source": "华尔街见闻",
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
           "ranks": [
-            10,
-            6
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 20时21分]"
         },
         {
           "title": "内存对AI CPU至关重要？韩媒：DRAM短缺将再持续一年",
@@ -302,16 +315,28 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            11
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时20分 ~ 18时58分]"
+          "time_info": "[18时58分 ~ 20时21分]"
+        },
+        {
+          "title": "“房东”骗完租客转头问AI会被抓吗",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D%E9%AA%97%E5%AE%8C%E7%A7%9F%E5%AE%A2%E8%BD%AC%E5%A4%B4%E9%97%AEAI%E4%BC%9A%E8%A2%AB%E6%8A%93%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时21分]"
         },
         {
           "title": "马桶巨头进军AI芯片行业",
@@ -325,17 +350,6 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
-          "url": "https://wallstreetcn.com/articles/3771537",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
           "title": "据知情人士消息，AI芯片制造商Cerebras计划于周一启动IPO路演，IPO定价区间为每股115至125美元。（路透）",
           "url": "https://wallstreetcn.com/livenews/3098425",
           "source": "华尔街见闻-快讯",
@@ -345,17 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时20分"
-        },
-        {
-          "title": "“房东”骗完租客转头问AI会被抓吗",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%88%BF%E4%B8%9C%E2%80%9D%E9%AA%97%E5%AE%8C%E7%A7%9F%E5%AE%A2%E8%BD%AC%E5%A4%B4%E9%97%AEAI%E4%BC%9A%E8%A2%AB%E6%8A%93%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
         },
         {
           "title": "如果 AI 演员真的可以普及，你最想看哪个老戏骨被 AI 化，又想看他们出演哪些影片呢？",
@@ -383,20 +386,8 @@
     },
     {
       "keyword_group": "豆包",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "豆包将上线付费服务",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E5%B0%86%E4%B8%8A%E7%BA%BF%E4%BB%98%E8%B4%B9%E6%9C%8D%E5%8A%A1",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 18时58分]"
-        },
         {
           "title": "豆包 付费",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E4%BB%98%E8%B4%B9&t=31&band_rank=1&Refer=top",
@@ -406,8 +397,21 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 20时21分]"
+        },
+        {
+          "title": "豆包将上线付费服务",
+          "url": "https://www.baidu.com/s?wd=%E8%B1%86%E5%8C%85%E5%B0%86%E4%B8%8A%E7%BA%BF%E4%BB%98%E8%B4%B9%E6%9C%8D%E5%8A%A1",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 20时21分]"
         },
         {
           "title": "豆包 笨还收费",
@@ -415,11 +419,12 @@
           "source": "微博",
           "ranks": [
             2,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 20时21分]"
         },
         {
           "title": "豆包把付费说的如此清新脱俗",
@@ -440,9 +445,20 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时21分]"
+        },
+        {
+          "title": "豆包回应推出付费订阅",
+          "url": "https://www.douyin.com/hot/2488412",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "20时21分"
         },
         {
           "title": "豆包错误率",
@@ -451,7 +467,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -477,11 +493,29 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 16时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 20时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国政府正在寻求方法，以帮助加快对谷歌TPU的类似审批流程。",
+          "url": "https://flash.jin10.com/detail/20260504200225855800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     }
