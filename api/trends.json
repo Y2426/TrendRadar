@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T04:59:36.363426+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-08T05:58:43.138904+08:00",
+  "total_titles_processed": 576,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时27分 ~ 05时58分]"
         },
         {
           "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
@@ -87,11 +87,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[03时27分 ~ 05时58分]"
         },
         {
           "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
