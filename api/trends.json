@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T06:55:46.075747+08:00",
-  "total_titles_processed": 590,
+  "generated_at": "2026-05-12T07:50:57.581577+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 06时55分]"
-        },
-        {
-          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2367918",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 00时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时50分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -39,11 +29,12 @@
             30,
             28,
             27,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时50分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -54,11 +45,12 @@
             18,
             25,
             17,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时50分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -72,8 +64,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时50分]"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 00时26分]"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -169,7 +172,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -192,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
+          "url": "https://flash.jin10.com/detail/20260512065650611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "英国审慎监管局（PRA）的伍兹表示，有理由预期 ChatGPT 和 Mythos 将给英国金融服务行业带来“相当严重的 disruption（冲击/扰乱）”。 英国金融行为监管局（FCA）的拉蒂表示，对私募市场中的诚信问题及金融犯罪风险感到“担忧”。",
@@ -247,11 +261,12 @@
             19,
             14,
             25,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 06时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时50分]"
         }
       ]
     }
