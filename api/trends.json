@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T19:15:22.338510+08:00",
-  "total_titles_processed": 1315,
+  "generated_at": "2026-05-12T22:08:48.001462+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,19 @@
           "time_info": "[00时25分 ~ 19时15分]"
         },
         {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时10分 ~ 22时08分]"
+        },
+        {
           "title": "AI原创短片国产爱死机",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
           "source": "bilibili 热搜",
@@ -35,11 +48,12 @@
             24,
             15,
             12,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 19时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 22时08分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -52,11 +66,12 @@
             27,
             22,
             21,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 22时08分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -77,19 +92,6 @@
           "time_info": "[00时25分 ~ 19时15分]"
         },
         {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时10分 ~ 19时15分]"
-        },
-        {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2367918",
           "source": "财联社热门",
@@ -99,6 +101,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 22时08分]"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -118,19 +134,6 @@
           "ranks": [
             10,
             6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 19时15分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
             5
           ],
           "is_new": false,
