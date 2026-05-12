@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T14:00:09.994619+08:00",
-  "total_titles_processed": 991,
+  "generated_at": "2026-05-12T16:55:19.283106+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "把AI用到了最有意义的场合",
@@ -16,11 +16,12 @@
             7,
             2,
             1,
-            6
+            6,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 14时00分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 16时55分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -35,8 +36,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 14时00分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 16时55分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -52,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 14时00分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 16时55分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -65,11 +66,12 @@
             16,
             24,
             15,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 10时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 16时55分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -77,11 +79,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时00分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时55分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -106,6 +109,30 @@
           "time_info": "02时52分"
         },
         {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 16时55分]"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 16时55分]"
+        },
+        {
           "title": "CORTIS新歌ACAI的MV来了",
           "url": "https://www.douyin.com/hot/2495749",
           "source": "抖音",
@@ -118,26 +145,16 @@
           "time_info": "[00时25分 ~ 04时28分]"
         },
         {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
+          "title": "国产AI爱死机到底怎么做出来的",
+          "url": "https://www.douyin.com/hot/2495617",
+          "source": "抖音",
           "ranks": [
-            10
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 16时55分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -174,17 +191,6 @@
           "time_info": "[00时25分 ~ 00时26分]"
         },
         {
-          "title": "国产AI爱死机到底怎么做出来的",
-          "url": "https://www.douyin.com/hot/2495617",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
           "title": "差点死掉的玻璃厂凭什么成AI的神经",
           "url": "https://www.toutiao.com/trending/7638646924790205990/",
           "source": "今日头条",
@@ -194,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "报道：特斯拉AI6.5芯片或转移至英特尔",
+          "url": "https://wallstreetcn.com/livenews/3102164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         },
         {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
@@ -213,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
@@ -235,7 +252,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
         },
