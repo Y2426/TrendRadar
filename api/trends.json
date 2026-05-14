@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T14:32:11.269424+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2026-05-14T17:46:34.991630+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 17时46分]"
         },
         {
           "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
@@ -31,8 +32,37 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 17时46分]"
+        },
+        {
+          "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
+          "url": "https://wallstreetcn.com/articles/3772184",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 17时46分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 17时46分]"
         },
         {
           "title": "马化腾回应AI掉队",
@@ -49,32 +79,16 @@
           "time_info": "[01时14分 ~ 07时56分]"
         },
         {
-          "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
-          "url": "https://wallstreetcn.com/articles/3772184",
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9,
-            8,
-            6,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 14时32分]"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[05时19分 ~ 17时46分]"
         },
         {
           "title": "日本批量生成AI视频抹黑中国",
@@ -99,17 +113,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 10时27分]"
-        },
-        {
-          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3772181",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时19分 ~ 14时32分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -144,7 +147,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -154,11 +157,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时27分 ~ 17时46分]"
         },
         {
           "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
@@ -188,11 +192,24 @@
           "url": "https://www.cls.cn/detail/2370802",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 17时46分]"
+        },
+        {
+          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 17时46分]"
         },
         {
           "title": "思科盘后涨幅扩大至15%。该公司预计，2026财年，超大规模云服务商（Hyperscalers）AI基础设施订单将高达90亿美元。所给业绩指引超过市场预期，宣布裁员不到4000人。",
@@ -243,17 +260,6 @@
           "time_info": "[06时58分 ~ 07时56分]"
         },
         {
-          "title": "马化腾谈AI：一年前以为上了船后来发现船漏水，现在站上去了还坐不下去",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33174800",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 14时32分]"
-        },
-        {
           "title": "【社论】中国AI企业背后的创新密码",
           "url": "https://m.thepaper.cn/newsDetail_forward_33172507",
           "source": "澎湃新闻",
@@ -271,7 +277,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -282,7 +288,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -296,6 +302,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
+          "url": "https://www.zhihu.com/question/2037926535315677917",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "AI引爆全球芯片市场？台积电重磅预测：2030年市场规模将达1.5万亿美元！",
+          "url": "https://www.cls.cn/detail/2370937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "如何看待前阿里通义千问（Qwen）负责人林俊旸新成立 AI 实验室融资，预计估值 20 亿美元？",
@@ -366,7 +394,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -416,11 +444,12 @@
           "ranks": [
             3,
             4,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[01时14分 ~ 17时46分]"
         },
         {
           "title": "豆包输入法上新，可在电脑上语音打字",
@@ -429,7 +458,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
