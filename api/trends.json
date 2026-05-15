@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T21:46:18.786822+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-05-15T23:58:30.932458+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -22,6 +22,18 @@
           "time_info": "[00时07分 ~ 10时16分]"
         },
         {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时42分 ~ 23时58分]"
+        },
+        {
           "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
           "url": "https://www.zhihu.com/question/2018783635805860978",
           "source": "知乎",
@@ -36,6 +48,19 @@
           "time_info": "[10时15分 ~ 19时50分]"
         },
         {
+          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
+          "url": "https://wallstreetcn.com/articles/3772300",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 23时58分]"
+        },
+        {
           "title": "高校硬查AI率,复旦教授怒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
           "source": "贴吧",
@@ -46,31 +71,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 10时16分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 21时46分]"
-        },
-        {
-          "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
-          "url": "https://wallstreetcn.com/articles/3772300",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 21时46分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -196,6 +196,18 @@
           "time_info": "[00时07分 ~ 07时48分]"
         },
         {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 23时58分]"
+        },
+        {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
           "url": "https://wallstreetcn.com/articles/3772269",
           "source": "华尔街见闻",
@@ -240,17 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 21时46分]"
         },
         {
           "title": "AI续写轻音少女第三季",
@@ -320,6 +321,17 @@
           "time_info": "10时16分"
         },
         {
+          "title": "英国政府：企业应采取措施限制前沿AI模型的风险",
+          "url": "https://wallstreetcn.com/livenews/3104522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "法拉第未来(FFIE.O)公布2026年第一季度财务业绩。公司升级为一家“实体人工智能公司”，其EAI机器人已实现生态系统收入及毛利转正；公司将2026年机器人出货目标上调至1500台，并计划于6月初推出新款机器人。",
           "url": "https://flash.jin10.com/detail/20260515041632296800",
           "source": "金十数据",
@@ -329,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "报道：腾讯AI再出招，推出探索型vibe coding产品“吐司”",
+          "url": "https://wallstreetcn.com/livenews/3104518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "xAI发布Grok Build的一个早期测试版。",
@@ -373,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "有消息人士称，委内瑞拉马拉开波湖（Lake Maracaibo）由委内瑞拉国家石油公司（PDVSA）运营的一处天然气设施发生火灾。 消息人士及相关视频显示，工人们正试图扑灭PDVSA天然气设施的火灾。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3104512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     },
@@ -428,8 +462,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
+          "url": "https://flash.jin10.com/detail/20260515233342413800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
         {
           "title": "Gemini Space Station Inc.（GEMI）获得1亿美元投资。 公司一季度营收5030万美元，分析师预期4870万美元。",
           "url": "https://wallstreetcn.com/livenews/3103894",
