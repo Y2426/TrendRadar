@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-16T10:08:17.442126+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-05-16T13:47:26.980521+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时47分]"
+        },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
           "url": "https://www.zhihu.com/question/2035685308566610183",
@@ -24,18 +37,6 @@
           "time_info": "[01时25分 ~ 10时08分]"
         },
         {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时08分]"
-        },
-        {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
@@ -44,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 10时08分]"
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 13时47分]"
         },
         {
           "title": "周五（5月15日），美股人工智能（AI）赢家指数跌3.07%，报389.89点，本周累跌0.81%，整体呈现出M形走势。 AI软件先驱指数涨1.94%，报105.57点，本周累跌0.45%，整体呈现出V形走势。",
@@ -100,9 +101,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         },
         {
           "title": "如何评价米哈游 AI 技术分享大会「未来 3 年 AI 研发投入 1000 亿」？",
@@ -122,7 +134,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -174,7 +186,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -212,6 +224,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时51分]"
+        },
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
@@ -226,7 +249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -271,6 +294,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时19分 ~ 07时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价上海交通大学智慧能源创新学院某学生试图使用豆包伪造证据，私吞奖金？",
+          "url": "https://www.zhihu.com/question/2038608367330014135",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     }
