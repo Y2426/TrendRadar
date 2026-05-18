@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-18T14:48:05.918551+08:00",
-  "total_titles_processed": 947,
-  "failed_sources": [],
+  "generated_at": "2026-05-18T19:01:46.562169+08:00",
+  "total_titles_processed": 1148,
+  "failed_sources": [
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -56,6 +58,18 @@
           "time_info": "[00时48分 ~ 14时48分]"
         },
         {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 19时01分]"
+        },
+        {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
           "url": "https://wallstreetcn.com/livenews/3104897",
           "source": "华尔街见闻-快讯",
@@ -83,15 +97,15 @@
           "time_info": "[00时48分 ~ 05时46分]"
         },
         {
-          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
-          "url": "https://www.cls.cn/detail/2373700",
-          "source": "财联社热门",
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
+          "source": "贴吧",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
+          "time_info": "[18时59分 ~ 19时01分]"
         },
         {
           "title": "中信建投：重点关注AI、光模块、电网设备、人形机器人等",
@@ -108,15 +122,70 @@
           "time_info": "[00时48分 ~ 06时46分]"
         },
         {
+          "title": "【伊朗主要原油出口枢纽哈尔克岛油轮积压 创美军实施封锁以来的峰值】据报道，大约23艘油轮目前聚集在伊朗主要原油出口枢纽附近，这是自一个月前美国海军开始封锁伊朗港口、拦截并扣押船只以来，哈尔克岛周边出现的最大规模油轮集结。5月16日卫星图像显示，这些运输船停泊在哈尔克岛附近锚地，或靠泊于液化石油气装载码头。相关情况也得到专注于伊朗问题的美国非营利政策咨询机构United Against Nuclear Iran (简称UANI)的分析确认。相比之下，4月13日，也就是美国军舰开始在阿曼湾集结、对船只进行检查和拦截之前，当地仅有4艘油轮。“越来越多船只聚集在该岛周边锚地，显示伊朗原油和石油出口体系中的延误与瓶颈正在加剧，”UANI顾问Charlie Brown表示。",
+          "url": "https://wallstreetcn.com/livenews/3105359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
+          "url": "https://www.cls.cn/detail/2374303",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时01分]"
+        },
+        {
+          "title": "索辰科技：公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争格局发生不利变化，物理AI业务收入及盈利贡献存在不及预期风险。",
+          "url": "https://wallstreetcn.com/livenews/3105355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
+        },
+        {
           "title": "诺贝尔经济学奖得主迈克尔・斯宾塞：AI有望提升劳动生产率，给全球经济带来积极影响",
           "url": "https://wallstreetcn.com/livenews/3105159",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "AI一天 地上一年",
+          "url": "https://s.weibo.com/weibo?q=AI%E4%B8%80%E5%A4%A9%20%E5%9C%B0%E4%B8%8A%E4%B8%80%E5%B9%B4&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "中国人民银行原副行长朱民：需要形成适当的政策来引领AI使用",
@@ -125,7 +194,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -147,7 +216,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -180,9 +249,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "美媒：特朗普盟友敦促其在AI模型发布前进行测试和审查",
+          "url": "https://flash.jin10.com/detail/20260518182739773800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时01分"
         }
       ]
     },
@@ -209,8 +289,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 19时01分]"
         }
       ]
     },
@@ -238,11 +318,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354369&amp;topic_name=%E8%B1%86%E5%8C%85%E9%A2%84%E7%BA%A6%E9%A5%AD%E5%BA%97%E9%81%AD%E5%BA%97%E5%91%98%E9%98%B4%E9%98%B3",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时47分 ~ 19时01分]"
         }
       ]
     },
