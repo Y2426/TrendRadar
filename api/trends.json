@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:47:36.304007+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-05-22T06:13:54.437090+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
@@ -72,8 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -85,8 +85,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "为什么搞AI的赚不过卖存储的",
@@ -128,7 +128,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -139,7 +139,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -194,7 +194,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         }
@@ -212,8 +212,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -259,11 +259,12 @@
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%82%92%E8%82%A1%E5%BB%BA%E8%AE%AE&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[02时54分 ~ 06时13分]"
         },
         {
           "title": "闲鱼遇神人,用豆包鉴内存真伪",
@@ -273,8 +274,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时13分]"
         }
       ]
     },
