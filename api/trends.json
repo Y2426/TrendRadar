@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-31T07:55:44.330744+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-05-31T10:39:06.340022+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "全国首个绿色算力全栈AI平台上线",
+          "url": "https://www.cls.cn/detail/2386167",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时39分]"
+        },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
@@ -21,29 +33,30 @@
           "time_info": "[00时06分 ~ 07时55分]"
         },
         {
-          "title": "全国首个绿色算力全栈AI平台上线",
-          "url": "https://www.cls.cn/detail/2386167",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 07时55分]"
-        },
-        {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
           "url": "https://wallstreetcn.com/articles/3773496",
           "source": "华尔街见闻",
           "ranks": [
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 07时55分]"
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时39分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时06分 ~ 10时39分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -53,17 +66,6 @@
             13,
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时06分 ~ 07时55分]"
-        },
-        {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -91,11 +93,45 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时46分 ~ 07时55分]"
+          "appearance_count": 5,
+          "time_info": "[04时46分 ~ 10时39分]"
+        },
+        {
+          "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
+          "url": "https://wallstreetcn.com/articles/3773499",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "AI绑架韩国经济",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%BB%91%E6%9E%B6%E9%9F%A9%E5%9B%BD%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
+        },
+        {
+          "title": "数学会被AI消灭吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E4%BC%9A%E8%A2%ABAI%E6%B6%88%E7%81%AD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 10时39分]"
         }
       ]
     },
