@@ -1,12 +1,47 @@
 {
-  "generated_at": "2026-06-05T10:37:04.468796+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-06-05T15:02:27.468585+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时46分 ~ 15时02分]"
+        },
+        {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 15时02分]"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 15时02分]"
+        },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
           "url": "https://www.zhihu.com/question/2045546609027408734",
@@ -21,40 +56,6 @@
           "time_info": "[00时46分 ~ 07时02分]"
         },
         {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 10时37分]"
-        },
-        {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
-        },
-        {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
-        },
-        {
           "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
           "url": "https://www.cls.cn/detail/2390870",
           "source": "财联社热门",
@@ -65,6 +66,42 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时46分 ~ 07时02分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 15时02分]"
+        },
+        {
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时25分 ~ 15时02分]"
+        },
+        {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "聪明钱提前布局AI上游环节，部分基础材料成新宠",
@@ -150,18 +187,6 @@
           "time_info": "[05时25分 ~ 07时02分]"
         },
         {
-          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
-          "url": "https://wallstreetcn.com/articles/3773858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时25分 ~ 10时37分]"
-        },
-        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://flash.jin10.com/detail/20260605050144173800",
           "source": "金十数据",
@@ -172,6 +197,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时02分]"
+        },
+        {
+          "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
+          "url": "https://www.cls.cn/detail/2391250",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时36分 ~ 15时02分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -222,26 +259,59 @@
           "time_info": "[05时25分 ~ 10时37分]"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
+          "title": "如何看待「Anthropic 呼吁全员停止 AI 研究」的行为？",
+          "url": "https://www.zhihu.com/question/2046150253192206018",
+          "source": "知乎",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
-          "title": "Anthropic呼吁全球放缓前沿AI研发 警告“自我改进”风险",
-          "url": "https://www.cls.cn/detail/2391250",
-          "source": "财联社热门",
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "英伟达推出全模态物理AI模型 物理AI规模化落地时代加速到来",
+          "url": "https://www.cls.cn/detail/2391303",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
+        },
+        {
+          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
+          "url": "https://www.zhihu.com/question/2045914979002315116",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "为何要谨慎看待AI代理炒股",
@@ -272,7 +342,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时37分"
         },
@@ -288,6 +358,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "港股AI应用板块持续下挫，MINIMAX跌超13%，智谱跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3114832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：随着时间的推移，AI可以压低通胀。 还没有看到AI大规模提升生产力。",
           "url": "https://wallstreetcn.com/livenews/3114567",
           "source": "华尔街见闻-快讯",
@@ -297,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "华为云发布Agentic AI系列新品",
+          "url": "https://wallstreetcn.com/livenews/3114825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "巴克莱调查：固定收益投资者中使用AI最多的是对冲基金",
@@ -319,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：AI建设正在加速。 我给韩国带来了大量业务。 计划与现代、三星、SK集团高管会面。 将与韩国合作伙伴讨论供应链协同相关事宜。 将尽可能聪明地分配和使用存储芯片供应。 将开始为韩国研发中心招聘员工。",
+          "url": "https://wallstreetcn.com/livenews/3114813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -386,7 +489,7 @@
     },
     {
       "keyword_group": "豆包",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "网友称豆包误导老人断指泡生理盐水致终生残疾，这种情况下豆包要担责吗？手指受伤正确处理方法应该是怎样？",
@@ -400,6 +503,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时46分 ~ 07时02分]"
+        },
+        {
+          "title": "豆包首次付费后月活减少610万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%A6%96%E6%AC%A1%E4%BB%98%E8%B4%B9%E5%90%8E%E6%9C%88%E6%B4%BB%E5%87%8F%E5%B0%91610%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "豆包发布声明，称日常功能保持免费，将针对专业人群需求推出专业版，如何评价这一商业策略？会带来哪些影响？",
@@ -425,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时36分 ~ 10时37分]"
+        },
+        {
+          "title": "曝豆包推付费计划后月活减少610万",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E8%B1%86%E5%8C%85%E6%8E%A8%E4%BB%98%E8%B4%B9%E8%AE%A1%E5%88%92%E5%90%8E%E6%9C%88%E6%B4%BB%E5%87%8F%E5%B0%91610%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
