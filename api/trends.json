@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-06T21:11:38.232142+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-06-06T23:08:00.328097+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时01分 ~ 21时11分]"
+          "appearance_count": 9,
+          "time_info": "[08时01分 ~ 23时08分]"
         },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -29,6 +30,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 08时01分]"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时48分 ~ 23时08分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -69,23 +82,12 @@
             19,
             20,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 21时11分]"
-        },
-        {
-          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
-          "url": "https://wallstreetcn.com/articles/3774007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 21时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 23时08分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
@@ -111,6 +113,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时48分]"
+        },
+        {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 23时08分]"
         },
         {
           "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
@@ -146,19 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
-        },
-        {
-          "title": "AI文风太好认",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 21时11分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
@@ -243,6 +246,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
+          "url": "https://www.zhihu.com/question/2044941270087463980",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
+        },
+        {
+          "title": "ai广告",
+          "url": "https://s.weibo.com/weibo?q=ai%E5%B9%BF%E5%91%8A&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时07分 ~ 23时08分]"
         },
         {
           "title": "印度高温背后的AI问题",
@@ -546,11 +571,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时11分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时08分]"
         },
         {
           "title": "李荣浩跟豆包说啥了",
@@ -603,6 +629,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时51分 ~ 23时08分]"
+        },
+        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -613,19 +653,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 08时01分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 21时11分]"
         }
       ]
     }
