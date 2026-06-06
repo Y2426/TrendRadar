@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-06T19:19:15.553749+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2026-06-06T21:11:38.232142+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 32,
       "titles": [
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 21时11分]"
+        },
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
           "url": "https://wallstreetcn.com/articles/3773915",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 08时01分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 19时19分]"
         },
         {
           "title": "马上评｜该对AI外呼骚扰电话出手了",
@@ -68,11 +68,12 @@
             17,
             19,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时27分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 21时11分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -83,8 +84,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 19时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时48分 ~ 21时11分]"
         },
         {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
@@ -152,11 +153,12 @@
           "source": "微博",
           "ranks": [
             17,
-            5
+            5,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时19分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 21时11分]"
         },
         {
           "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
@@ -316,7 +318,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -543,11 +545,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时11分]"
         },
         {
           "title": "李荣浩跟豆包说啥了",
@@ -621,8 +624,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 21时11分]"
         }
       ]
     }
