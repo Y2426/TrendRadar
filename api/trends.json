@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T03:22:21.014884+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-06-08T05:02:34.789202+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时02分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时02分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -40,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时02分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -100,11 +100,12 @@
           "ranks": [
             8,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时02分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -114,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时02分]"
         }
       ]
     },
@@ -132,8 +133,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时02分]"
         }
       ]
     },
@@ -149,8 +150,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时02分]"
         }
       ]
     }
