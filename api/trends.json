@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T01:59:21.802247+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-06-08T03:22:21.014884+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时22分]"
         },
         {
           "title": "债券巨头买入债券，为AI泡沫破裂做准备",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时22分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -39,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时22分]"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -93,6 +94,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时22分]"
+        },
+        {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
@@ -100,20 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时59分]"
-        },
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时22分]"
         }
       ]
     },
@@ -130,8 +132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时22分]"
         }
       ]
     },
@@ -147,8 +149,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时59分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 03时22分]"
         }
       ]
     }
