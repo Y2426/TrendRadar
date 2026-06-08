@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T12:23:05.541229+08:00",
-  "total_titles_processed": 902,
+  "generated_at": "2026-06-08T17:19:25.208187+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -34,17 +34,51 @@
           "time_info": "[00时08分 ~ 08时01分]"
         },
         {
+          "title": "软通动力与腾讯云签署AI战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3116031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "北京高考英语作文：帮李华写信谈AI",
+          "url": "https://www.baidu.com/s?wd=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87%EF%BC%9A%E5%B8%AE%E6%9D%8E%E5%8D%8E%E5%86%99%E4%BF%A1%E8%B0%88AI",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+          "url": "https://www.cls.cn/detail/2393263",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
           "url": "https://www.zhihu.com/question/1969653840065332479",
           "source": "知乎",
           "ranks": [
             14,
             11,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时56分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[06时56分 ~ 17时19分]"
         },
         {
           "title": "AI Agent从“能聊天”到“会干活” 整机厂商订单爆发 ｜深度",
@@ -58,22 +92,23 @@
           "time_info": "[00时08分 ~ 05时02分]"
         },
         {
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 17时19分]"
+        },
+        {
           "title": "让AI做高考数学题",
           "url": "https://s.weibo.com/weibo?q=%E8%AE%A9AI%E5%81%9A%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%A2%98&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
-        },
-        {
-          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -90,6 +125,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 08时01分]"
+        },
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "SpaceX“世纪IPO”估值再引质疑！专家：实际低得多 AI业务离盈利还很远",
+          "url": "https://www.cls.cn/detail/2393282",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "黄仁勋访韩第三日：首尔网吧会晤游戏巨头负责人，聚焦实体AI合作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329627",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "Anthropic警告AI失控",
@@ -136,6 +204,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "AMD：未来五年将在英国投资20亿英镑，以支持AI创新。",
+          "url": "https://wallstreetcn.com/livenews/3116007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
           "url": "https://wallstreetcn.com/livenews/3115665",
           "source": "华尔街见闻-快讯",
@@ -167,6 +246,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "微信宣布面向开发者提供接入微信AI生态的能力",
+          "url": "https://wallstreetcn.com/livenews/3115998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "豆包认错蘑菇,高管:仅供参考",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 12时23分]"
+        },
+        {
+          "title": "追妹不开口,豆包化身代聊侠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354960&amp;topic_name=%E8%BF%BD%E5%A6%B9%E4%B8%8D%E5%BC%80%E5%8F%A3%2C%E8%B1%86%E5%8C%85%E5%8C%96%E8%BA%AB%E4%BB%A3%E8%81%8A%E4%BE%A0",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 17时19分]"
+        },
+        {
+          "title": "Doinb用豆包玩英雄联盟",
+          "url": "https://s.weibo.com/weibo?q=%23Doinb%E7%94%A8%E8%B1%86%E5%8C%85%E7%8E%A9%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "豆包凌晨吓醒我",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%87%8C%E6%99%A8%E5%90%93%E9%86%92%E6%88%91&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         }
       ]
     },
@@ -206,35 +348,6 @@
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 12时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "豆包",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "豆包认错蘑菇,高管:仅供参考",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 12时23分]"
-        },
-        {
-          "title": "追妹不开口,豆包化身代聊侠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354960&amp;topic_name=%E8%BF%BD%E5%A6%B9%E4%B8%8D%E5%BC%80%E5%8F%A3%2C%E8%B1%86%E5%8C%85%E5%8C%96%E8%BA%AB%E4%BB%A3%E8%81%8A%E4%BE%A0",
-          "source": "贴吧",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
