@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T07:59:08.974580+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-06-09T10:57:56.998244+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 10时57分]"
+        },
         {
           "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
           "url": "https://www.cls.cn/detail/2393919",
@@ -19,16 +31,18 @@
           "time_info": "[01时25分 ~ 07时59分]"
         },
         {
-          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
-          "url": "https://wallstreetcn.com/articles/3774087",
-          "source": "华尔街见闻",
+          "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
+            10,
+            8,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 10时57分]"
         },
         {
           "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
@@ -52,19 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 04时03分]"
-        },
-        {
-          "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时59分]"
         },
         {
           "title": "当我把今年高考语文作文题喂给AI",
@@ -108,6 +109,17 @@
           "time_info": "[04时03分 ~ 07时59分]"
         },
         {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "苹果软件主管克雷格·费德里吉：苹果(AAPL.O)不会根据新版Siri AI系统的屏幕感知功能来投放广告。",
           "url": "https://flash.jin10.com/detail/20260609034950828800",
           "source": "金十数据",
@@ -117,6 +129,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时57分]"
         },
         {
           "title": "Siri AI",
@@ -142,17 +166,6 @@
           "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 07时59分]"
-        },
-        {
           "title": "库克最后一场WWDC：AI Siri登场",
           "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BAWWDC%EF%BC%9AAI+Siri%E7%99%BB%E5%9C%BA",
           "source": "百度热搜",
@@ -164,15 +177,48 @@
           "time_info": "[07时58分 ~ 07时59分]"
         },
         {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "马斯克的xAI从星链“借调”高管，负责Grok训练团队",
+          "url": "https://flash.jin10.com/detail/20260609101332951800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "苹果：中国大陆暂不提供最新Siri AI",
           "url": "https://wallstreetcn.com/livenews/3116381",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "大摩点评英伟达“存储减半”传闻：这是真实的短缺，供应约束已成AI最大拦路虎",
+          "url": "https://wallstreetcn.com/articles/3774121",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
@@ -192,7 +238,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -233,7 +279,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
@@ -271,6 +317,17 @@
           "time_info": "[06时20分 ~ 07时59分]"
         },
         {
+          "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
+          "url": "https://www.cls.cn/detail/2394212",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "OpenAI自曝已秘密提交IPO申请",
           "url": "https://flash.jin10.com/detail/20260609052258365800",
           "source": "金十数据",
@@ -280,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2394236",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "OpenAI：IPO可能需要一段时间，因为我们想做的一些事情，作为一家私营公司可能会更容易。",
@@ -324,13 +392,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
         {
           "title": "苹果公司Federighi：我们并没有采用谷歌公司向用户部署的那些模型。",
           "url": "https://wallstreetcn.com/livenews/3116327",
@@ -342,6 +432,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 06时20分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "苹果(AAPL.O)：无论基础设施托管在何处，苹果始终保持对Private Cloud Compute软件的完全控制权。苹果设备仅信任经由苹果加密认证的Private Cloud Compute软件。在Google Cloud上运行的Private Cloud Compute服务，将在整个夏季预览期间逐步落实全套保护措施。",
@@ -401,6 +502,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+          "url": "https://wallstreetcn.com/livenews/3116486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "豆包",
       "match_count": 1,
       "titles": [
@@ -409,11 +527,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354960&amp;topic_name=%E8%BF%BD%E5%A6%B9%E4%B8%8D%E5%BC%80%E5%8F%A3%2C%E8%B1%86%E5%8C%85%E5%8C%96%E8%BA%AB%E4%BB%A3%E8%81%8A%E4%BE%A0",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时25分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[01时25分 ~ 10时57分]"
         }
       ]
     }
