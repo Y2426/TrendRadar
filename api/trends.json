@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T14:52:13.614528+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-06-13T17:52:43.572790+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,24 @@
           "url": "https://www.cls.cn/detail/2398996",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
+        },
+        {
+          "title": "世界杯AI视频绿茵恩仇录火了",
+          "url": "https://www.douyin.com/hot/2531568",
+          "source": "抖音",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 17时52分]"
         },
         {
           "title": "抖音AI反网暴行动来了",
@@ -90,17 +103,6 @@
           "time_info": "[10时35分 ~ 14时52分]"
         },
         {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
-        },
-        {
           "title": "作家自曝用AI写作",
           "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -129,7 +131,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -192,11 +194,12 @@
           "ranks": [
             13,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 14时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时32分 ~ 17时52分]"
         }
       ]
     }
