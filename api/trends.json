@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:15:49.558483+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-06-15T14:16:58.395586+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 08时15分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 14时16分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -100,6 +101,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时15分]"
+        },
+        {
+          "title": "80年前就有的AI，为什么现在才爆发？半导体老兵：算力便宜了！",
+          "url": "https://finance.ifeng.com/c/8tyVXqs6ntv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "郝景芳承认用AI写作",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -112,11 +135,12 @@
           "url": "https://wallstreetcn.com/articles/3774610",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 08时15分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 14时16分]"
         }
       ]
     },
