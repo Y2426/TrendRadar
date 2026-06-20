@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T03:12:04.438681+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2026-06-21T05:06:36.023761+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时06分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
           "url": "https://wallstreetcn.com/articles/3775111",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时06分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时06分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -48,8 +49,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时06分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -57,11 +58,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时06分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -72,8 +74,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 03时12分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 05时06分]"
         },
         {
           "title": "谐音歌词版WAIYA",
