@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T19:40:25.408312+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-06-24T22:10:05.567993+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
@@ -69,11 +69,12 @@
             16,
             20,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 19时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 22时10分]"
         },
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -127,6 +128,18 @@
           "time_info": "[00时22分 ~ 08时04分]"
         },
         {
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时10分]"
+        },
+        {
           "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
           "url": "https://www.cls.cn/detail/2406846",
           "source": "财联社热门",
@@ -137,6 +150,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 08时04分]"
+        },
+        {
+          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
+          "url": "https://www.cls.cn/detail/2407855",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 22时10分]"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 22时10分]"
         },
         {
           "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
@@ -152,16 +191,16 @@
           "time_info": "[03时04分 ~ 08时04分]"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
           "ranks": [
-            5,
-            6
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时59分 ~ 22时10分]"
         },
         {
           "title": "报告：88%的受访企业表示已将代理式AI融入系统之中",
@@ -170,18 +209,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -223,28 +251,40 @@
           "time_info": "[07时02分 ~ 08时04分]"
         },
         {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
+          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
+          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时40分]"
-        },
-        {
-          "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
-          "url": "https://www.cls.cn/detail/2407855",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时40分]"
+          "time_info": "[19时40分 ~ 22时10分]"
+        },
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时10分]"
+        },
+        {
+          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
+          "url": "https://www.zhihu.com/question/2035742574737143093",
+          "source": "知乎",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时10分]"
         },
         {
           "title": "AI时代计算机专业还能学吗",
@@ -258,6 +298,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时02分]"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
         },
         {
           "title": "AI算力需求传导，“纤维之王”对位芳纶步入高景气周期",
@@ -295,6 +346,17 @@
           "time_info": "[07时02分 ~ 08时04分]"
         },
         {
+          "title": "如何应对AI时代的岗位变迁",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%B2%97%E4%BD%8D%E5%8F%98%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时09分 ~ 22时10分]"
+        },
+        {
           "title": "医生会被AI轻易取代吗",
           "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E4%BC%9A%E8%A2%ABAI%E8%BD%BB%E6%98%93%E5%8F%96%E4%BB%A3%E5%90%97&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -304,28 +366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 08时04分]"
-        },
-        {
-          "title": "为什么豆包 AI 老是会被调侃成糖包？取这个名字，是不是从一开始就没打算走专业 AI 路线？",
-          "url": "https://www.zhihu.com/question/2035742574737143093",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
-          "title": "美财长大放厥词：AI的最大风险是中国超越美国",
-          "url": "https://news.ifeng.com/c/8uDioiTwhfp",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "美国亚特兰大联储董事会主席Gregory Haile：我们的委员会正在为下一任亚特兰大联储主席进行全面且审慎的遴选。 我们将继续专注于为第六区挑选最优秀的人才，同时维护遴选程序的公正性。 我们将在适当时候提供有关这一重要领导职务的相关最新进展。",
@@ -348,17 +388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2408036",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "美国总统特朗普被问及AI对卡车司机们构成的风险，却鼓吹就业数据。",
@@ -444,7 +473,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -493,11 +522,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时21分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[16时21分 ~ 22时10分]"
         },
         {
           "title": "如何评价字节发布的豆包 Seed 2.1 Pro Preview？",
@@ -550,7 +580,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
@@ -558,8 +588,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌(GOOG.O)上涨1.3%；公司将取代Verizon Communications成为道琼斯工业平均指数成分股。",
+          "url": "https://flash.jin10.com/detail/20260624213729325800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
         {
           "title": "谷歌：为某些金融服务广告主引入新的验证要求。",
           "url": "https://flash.jin10.com/detail/20260624000741229800",
@@ -607,6 +648,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
+          "url": "https://flash.jin10.com/detail/20260624022839964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时04分"
+        },
+        {
+          "title": "美股开盘，道指平开、标普500指数涨0.1%、纳指涨0.15%。博通(AVGO.O)开涨1%，公司宣布与OpenAI发布AI芯片，旨在更快、更经济地运行模型；美光科技(MU.O)开涨0.5%，公司即将公布三季度财报，SpaceX(SPCX.O)开跌0.98%。",
+          "url": "https://flash.jin10.com/detail/20260624213116594800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        },
+        {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -633,23 +713,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 03时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI： 2026年DevDay（开发者大会）申请现已开放。",
-          "url": "https://flash.jin10.com/detail/20260624022839964800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
         }
       ]
     }
