@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T15:36:22.812153+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-06-25T18:36:18.196494+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -33,6 +33,33 @@
           "time_info": "[01时01分 ~ 08时02分]"
         },
         {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 18时36分]"
+        },
+        {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时53分 ~ 18时36分]"
+        },
+        {
           "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
           "url": "https://www.cls.cn/detail/2408036",
           "source": "财联社热门",
@@ -54,11 +81,12 @@
             8,
             10,
             15,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 15时36分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 18时36分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -86,30 +114,17 @@
           "time_info": "[06时09分 ~ 15时36分]"
         },
         {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            2
+            10,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时36分]"
-        },
-        {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时53分 ~ 15时36分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 18时36分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -122,6 +137,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 08时02分]"
+        },
+        {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时36分]"
+        },
+        {
+          "title": "链博会把AI全产业链搬来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%93%BE%E5%8D%9A%E4%BC%9A%E6%8A%8AAI%E5%85%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%90%AC%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "低估了AI全球泡沫，宁泉杨东发声“不敢再参与”，私募圈AI分歧推到前台",
@@ -158,16 +196,15 @@
           "time_info": "[08时01分 ~ 15时36分]"
         },
         {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
+          "title": "建议大家不要和AI太好了",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%92%8CAI%E5%A4%AA%E5%A5%BD%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 15时36分]"
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "机构：AI产业正从基础设施建设转向企业级应用爆发",
@@ -176,18 +213,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -219,6 +245,17 @@
           "time_info": "[04时29分 ~ 11时52分]"
         },
         {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 18时36分]"
+        },
+        {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
@@ -245,15 +282,49 @@
           "time_info": "[02时53分 ~ 06时09分]"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
+          "title": "AI时代计算机专业怎么选",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时36分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时36分 ~ 18时36分]"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时52分 ~ 15时36分]"
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
@@ -311,17 +382,6 @@
           "time_info": "04时29分"
         },
         {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
           "url": "https://flash.jin10.com/detail/20260625071208706800",
           "source": "金十数据",
@@ -331,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
-        },
-        {
-          "title": "AI时代计算机专业怎么选",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         },
         {
           "title": "高通(QCOM.O)：公司目标是在2029财年实现Personal AI 与计算业务收入约60亿美元。",
@@ -482,7 +531,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -504,7 +553,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -576,7 +625,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
