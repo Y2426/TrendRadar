@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-06-28T01:01:29.472445+08:00",
-  "total_titles_processed": 311,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-06-28T02:04:49.697151+08:00",
+  "total_titles_processed": 352,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -17,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -28,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -39,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         }
       ]
     },
@@ -56,19 +54,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
           "url": "https://wallstreetcn.com/articles/3775658",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
@@ -78,8 +77,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         }
       ]
     },
@@ -95,8 +94,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -106,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时59分 ~ 02时04分]"
         }
       ]
     }
