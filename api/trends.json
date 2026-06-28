@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T19:44:18.129458+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-28T21:20:30.400206+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 19时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 21时20分]"
+        },
+        {
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 21时20分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -44,19 +55,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 19时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 21时20分]"
         },
         {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 19时44分]"
+          "appearance_count": 6,
+          "time_info": "[14时57分 ~ 21时20分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -69,18 +81,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 06时57分]"
-        },
-        {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时57分 ~ 19时44分]"
         },
         {
           "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
@@ -104,8 +104,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 19时44分]"
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 21时20分]"
+        },
+        {
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "中信建投：AI算力虽景气逻辑不变但波动加剧 建议谨慎追高",
+          "url": "https://flash.jin10.com/detail/20260628193536578800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
         },
         {
           "title": "央视曝光高考志愿填报咨询陷阱，资质造假、照着 AI 念，高考志愿咨询服务是智商税吗？",
@@ -163,6 +185,18 @@
           "time_info": "[00时59分 ~ 06时57分]"
         },
         {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时43分 ~ 21时20分]"
+        },
+        {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
@@ -171,19 +205,47 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时54分 ~ 19时44分]"
-        },
+          "appearance_count": 5,
+          "time_info": "[17时54分 ~ 21时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时20分"
+        },
+        {
+          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
+          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时43分 ~ 19时44分]"
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
@@ -229,34 +291,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 14时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
-          "url": "https://flash.jin10.com/detail/20260628133655032800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
-          "url": "https://flash.jin10.com/detail/20260628120732763800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
         }
       ]
     }
