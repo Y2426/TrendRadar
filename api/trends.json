@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T13:25:08.322281+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-06-29T18:25:17.366253+08:00",
+  "total_titles_processed": 1036,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -92,13 +92,49 @@
           "time_info": "[02时07分 ~ 08时03分]"
         },
         {
+          "title": "清华姚班UP主详解AI专业就业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 18时25分]"
+        },
+        {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时02分 ~ 18时25分]"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 18时25分]"
+        },
+        {
           "title": "韩国公布芯片、物理AI及AI数据中心领域的大型项目计划。",
           "url": "https://wallstreetcn.com/livenews/3125876",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -128,18 +164,6 @@
           "time_info": "[06时56分 ~ 08时03分]"
         },
         {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 13时25分]"
-        },
-        {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
           "url": "https://www.zhihu.com/question/2054005413406946147",
           "source": "知乎",
@@ -153,15 +177,15 @@
           "time_info": "[01时00分 ~ 04时08分]"
         },
         {
-          "title": "清华姚班UP主详解AI专业就业",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
-          "source": "bilibili 热搜",
+          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
+          "url": "https://www.zhihu.com/roundtable/opc",
+          "source": "知乎",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "time_info": "[18时24分 ~ 18时25分]"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
