@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:57:50.031645+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-07-05T03:03:30.017142+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时03分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时03分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 03时03分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时03分]"
         },
         {
           "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
@@ -66,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时03分]"
         },
         {
           "title": "豆包、千问将于7月15日下线智能体功能：建议用户提前备份数据",
@@ -75,11 +75,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时55分 ~ 01时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时55分 ~ 03时03分]"
         }
       ]
     },
