@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T16:12:06.774118+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-07-06T20:38:30.772212+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
@@ -45,11 +45,12 @@
             10,
             11,
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 16时12分]"
+          "appearance_count": 14,
+          "time_info": "[00时58分 ~ 20时38分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -91,6 +92,18 @@
           "time_info": "[11时23分 ~ 16时12分]"
         },
         {
+          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776245",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 20时38分]"
+        },
+        {
           "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
           "url": "https://flash.jin10.com/detail/20260706053240940800",
           "source": "金十数据",
@@ -104,17 +117,6 @@
           "time_info": "[05时54分 ~ 07时59分]"
         },
         {
-          "title": "WorkBuddy爆了，微信AI也来了——腾讯AI找到“新船票”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776245",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
           "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
           "url": "https://www.cls.cn/detail/2417331",
           "source": "财联社热门",
@@ -124,6 +126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "南向资金追踪｜单日净买超205亿港元创近一个半月新高 AI硬件概念股反被抛售",
+          "url": "https://www.cls.cn/detail/2418217",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "韩国财政部：将加速推动AI重塑服务业",
@@ -137,13 +150,24 @@
           "time_info": "11时23分"
         },
         {
+          "title": "Reddit利用AI打击网站上的AI营销垃圾信息。",
+          "url": "https://wallstreetcn.com/livenews/3129376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
           "title": "AI超级周期驱动业绩爆发，三星芯片部门员工获100%绩效奖金",
           "url": "https://flash.jin10.com/detail/20260706152107633800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -154,9 +178,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "德福科技：拟定增募资不超过28亿元，用于5万吨人工智能高端电子电路AI铜箔项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3129358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         }
       ]
     },
