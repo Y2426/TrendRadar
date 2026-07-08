@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T20:15:32.104564+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-07-08T23:58:53.802562+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -34,6 +34,21 @@
           "time_info": "[09时52分 ~ 13时14分]"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            10,
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时14分 ~ 23时58分]"
+        },
+        {
           "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
           "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
@@ -45,20 +60,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时49分 ~ 13时14分]"
-        },
-        {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时14分 ~ 20时15分]"
         },
         {
           "title": "算力硬件、AI服务器概念盘初拉升，浪潮信息、威尔高、紫光股份涨停，锐捷网络、长盈通、星网锐捷、华丰科技涨幅居前。",
@@ -89,11 +90,24 @@
           "ranks": [
             6,
             12,
-            14
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时11分 ~ 23时58分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时11分 ~ 20时15分]"
+          "time_info": "[18时55分 ~ 23时58分]"
         },
         {
           "title": "Papi酱AI单曲《生气了》爆火",
@@ -108,15 +122,15 @@
           "time_info": "[07时49分 ~ 09时53分]"
         },
         {
-          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2420504",
-          "source": "财联社热门",
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时55分 ~ 20时15分]"
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 23时58分]"
         },
         {
           "title": "英伟达回应新一代AI服务器系统延期发布传闻：产品路线图未变",
@@ -152,15 +166,15 @@
           "time_info": "13时14分"
         },
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
+          "title": "替代HBM4？英特尔公布AI内存新专利 采用定制化封装方案",
+          "url": "https://www.cls.cn/detail/2420295",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时15分"
+          "time_info": "23时58分"
         },
         {
           "title": "AI沉浸式亲历四渡赤水",
@@ -268,7 +282,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时15分"
         },
@@ -391,9 +405,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 23时58分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -410,7 +424,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "再挖OpenAI！腾讯宣布OpenAI前研究员田永龙入职，参与VLM研发",
@@ -422,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
+          "url": "https://www.zhihu.com/question/2058166406420460573",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "OpenAI：GPT-5.6 SOL、TERRA和LUNA版本将于周四公开发布。",
