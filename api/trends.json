@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T18:16:58.009339+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-07-10T21:05:32.435418+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -31,6 +31,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时13分 ~ 05时14分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 21时05分]"
         },
         {
           "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
@@ -97,23 +110,12 @@
           "url": "https://www.cls.cn/detail/2422609",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 18时16分]"
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 21时05分]"
         },
         {
           "title": "韩股跌入熊市，高盛建议客户“转投中国AI产业链”",
@@ -128,6 +130,19 @@
           "time_info": "[01时13分 ~ 07时04分]"
         },
         {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 21时05分]"
+        },
+        {
           "title": "日本高中生携AI爆破被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
@@ -138,18 +153,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 07时04分]"
-        },
-        {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 18时16分]"
         },
         {
           "title": "一条AI短片演绎杨戬劈山",
@@ -163,6 +166,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 10时04分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2422921",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 21时05分]"
+        },
+        {
+          "title": "听障人士用AI做了款反诈应用",
+          "url": "https://www.toutiao.com/trending/7660363750279086121/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 21时05分]"
         },
         {
           "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
@@ -204,7 +230,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -215,7 +241,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -226,18 +252,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -264,17 +279,6 @@
           "time_info": "15时02分"
         },
         {
-          "title": "听障人士用AI做了款反诈应用",
-          "url": "https://www.toutiao.com/trending/7660363750279086121/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
           "title": "国内首个十万卡AI超集群“曙光8000”落成投用",
           "url": "https://wallstreetcn.com/livenews/3131789",
           "source": "华尔街见闻-快讯",
@@ -284,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "瑞银：AI热潮料将提振股市长期收益",
+          "url": "https://flash.jin10.com/detail/20260710204626461800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
@@ -303,9 +318,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
+        },
+        {
+          "title": "五大AI预测世界杯4强名单",
+          "url": "https://www.toutiao.com/trending/7659706463520997419/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时05分"
         },
         {
           "title": "富兰克林·邓普顿：AI基础设施看涨逻辑将延续至2027年",
@@ -358,7 +384,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }
@@ -375,11 +401,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 18时16分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 21时05分]"
         },
         {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
