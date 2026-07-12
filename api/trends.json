@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T22:26:55.357772+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-07-12T23:52:26.707246+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 23时52分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时44分 ~ 22时26分]"
+          "appearance_count": 17,
+          "time_info": "[00时44分 ~ 23时52分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -78,8 +78,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 22时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 23时52分]"
+        },
+        {
+          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时52分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -105,17 +116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时53分 ~ 18时19分]"
-        },
-        {
-          "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "百度AI将亮相WAIC 2026，集中展示多款智能体应用",
@@ -216,8 +216,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 22时26分]"
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 23时52分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
