@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-12T07:45:46.457182+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-07-12T09:53:44.144595+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
           "url": "https://www.cls.cn/detail/2423546",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时53分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时53分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -53,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时53分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时01分 ~ 05时41分]"
+        },
+        {
+          "title": "成也 Seedance 2.0，败也 Seedance 2.0！AI漫剧行业已经没有了？",
+          "url": "https://wallstreetcn.com/articles/3776704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     },
@@ -105,11 +117,12 @@
             10,
             8,
             7,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时47分 ~ 07时45分]"
+          "appearance_count": 8,
+          "time_info": "[02时47分 ~ 09时53分]"
         }
       ]
     },
@@ -147,8 +160,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 07时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 09时53分]"
         }
       ]
     }
