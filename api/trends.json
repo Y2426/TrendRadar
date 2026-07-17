@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:52:54.887893+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-07-17T09:53:11.361146+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时02分]"
+        },
+        {
+          "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
+          "url": "https://www.cls.cn/detail/2428944",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
@@ -191,7 +202,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -201,19 +212,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 09时53分]"
         },
         {
           "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
           "url": "https://www.cls.cn/detail/2428746",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 09时53分]"
         },
         {
           "title": "超300款全球首发AI产品即将亮相",
@@ -225,6 +237,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时05分 ~ 05时02分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 09时53分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
@@ -252,16 +277,30 @@
           "time_info": "[01时05分 ~ 07时52分]"
         },
         {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
           "ranks": [
-            24,
-            25
+            21,
+            20,
+            22,
+            26,
+            27
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时52分]"
+          "time_info": "[02时57分 ~ 09时53分]"
+        },
+        {
+          "title": "财联社、科创板日报记者探营WAIC 2026：从超节点算力到进厂机器人 AI与物理世界开启“无界融合”",
+          "url": "https://www.cls.cn/detail/2428882",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
         },
         {
           "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
@@ -275,20 +314,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            21,
-            20,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 07时52分]"
-        },
-        {
           "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3777092",
           "source": "华尔街见闻",
@@ -297,8 +322,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[05时02分 ~ 09时53分]"
+        },
+        {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 09时53分]"
         },
         {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
@@ -323,24 +360,13 @@
           "time_info": "01时06分"
         },
         {
-          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
           "title": "据CNBC：微软(MSFT.O)首席执行官告诉员工，Anthropic对Fable AI模型用户的请求限制毫无意义。",
           "url": "https://flash.jin10.com/detail/20260717070018376800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -357,11 +383,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 09时53分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
