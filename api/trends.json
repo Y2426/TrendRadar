@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T02:13:43.035393+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-25T04:13:46.714022+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
         },
         {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -59,8 +59,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
+        },
+        {
+          "title": "AI重现狼牙山五壮士英雄壮举",
+          "url": "https://www.toutiao.com/trending/7666058970050183209/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
+        },
+        {
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
         },
         {
           "title": "Anthropic推出更具成本效益的日常任务AI模型",
@@ -68,17 +92,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
-          "title": "AI重现狼牙山五壮士英雄壮举",
-          "url": "https://www.toutiao.com/trending/7666058970050183209/",
-          "source": "今日头条",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,15 +131,15 @@
           "time_info": "02时13分"
         },
         {
-          "title": "大厂挤爆AI宠物赛道",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
-          "source": "百度热搜",
+          "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
+          "url": "https://wallstreetcn.com/livenews/3139600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "04时13分"
         }
       ]
     },
@@ -135,22 +148,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
-          "url": "https://wallstreetcn.com/livenews/3139592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
-        },
-        {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -170,6 +183,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌公司回应美国总统发出301调查威胁，称：曾努力设法符合欧盟数字市场法案（DMA）的要求。 就近期欧盟委员会（反垄断）决定的影响表达诸多关切。 感谢美国政府的介入。",
+          "url": "https://wallstreetcn.com/livenews/3139614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://wallstreetcn.com/livenews/3139604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "豆包",
       "match_count": 2,
       "titles": [
@@ -181,19 +222,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
         },
         {
           "title": "把豆包逼出来幸福者退让了",
           "url": "https://s.weibo.com/weibo?q=%E6%8A%8A%E8%B1%86%E5%8C%85%E9%80%BC%E5%87%BA%E6%9D%A5%E5%B9%B8%E7%A6%8F%E8%80%85%E9%80%80%E8%AE%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "appearance_count": 2,
+          "time_info": "[02时13分 ~ 04时13分]"
         }
       ]
     }
