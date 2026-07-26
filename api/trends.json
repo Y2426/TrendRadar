@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:59:07.235031+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-07-27T04:08:37.461239+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -28,8 +28,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -45,17 +56,6 @@
           "time_info": "[00时52分 ~ 02时59分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时59分]"
-        },
-        {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
           "url": "https://www.baidu.com/s?wd=AI%E5%86%B2%E5%87%BB%E7%9F%AD%E5%89%A7%E8%A1%8C%E4%B8%9A+%E2%80%9C%E6%88%8F%E7%8E%8B%E2%80%9D%E4%B9%9F%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
           "source": "百度热搜",
@@ -65,8 +65,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -77,8 +77,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -89,8 +89,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 02时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时08分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -100,19 +100,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 04时08分]"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
           "url": "https://www.toutiao.com/trending/7665929964277006363/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 04时08分]"
         },
         {
           "title": "观众为何不能容忍长剧片头用AI",
