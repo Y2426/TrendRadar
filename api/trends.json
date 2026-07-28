@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T06:06:35.431314+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-07-29T07:53:53.720960+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
@@ -15,8 +15,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 07时53分]"
+        },
+        {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 07时53分]"
         },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -31,19 +45,6 @@
           "time_info": "[00时01分 ~ 06时06分]"
         },
         {
-          "title": "AI泡沫的金丝雀，刚刚死去.....",
-          "url": "https://wallstreetcn.com/articles/3778131",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 06时06分]"
-        },
-        {
           "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
           "url": "https://wallstreetcn.com/articles/3778088",
           "source": "华尔街见闻",
@@ -52,19 +53,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 07时53分]"
         },
         {
           "title": "印度成首个被AI做空的国家",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E6%88%90%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E5%81%9A%E7%A9%BA%E7%9A%84%E5%9B%BD%E5%AE%B6&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时06分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 07时53分]"
+        },
+        {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 07时53分]"
         },
         {
           "title": "美国千名AI公司员工发联名信 寻求建立协同放缓前沿AI发展的机制",
@@ -73,7 +88,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -89,16 +104,64 @@
           "time_info": "00时01分"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
+          "url": "https://www.cls.cn/detail/2439531",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美股收盘：AI概念延续“血色一夜”",
+          "url": "https://www.toutiao.com/trending/7667714133717945882/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "AI短剧半年规模超220亿元，产业爆发重塑内容生产逻辑",
+          "url": "https://wallstreetcn.com/livenews/3141243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "AI公司 原版书籍销毁",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
             7,
-            8
+            11,
+            16,
+            27
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时01分 ~ 06时06分]"
+          "time_info": "[03时10分 ~ 07时53分]"
+        },
+        {
+          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
+          "url": "https://www.cls.cn/detail/2439413",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 07时53分]"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -113,19 +176,6 @@
           "time_info": "[00时01分 ~ 06时06分]"
         },
         {
-          "title": "AI公司 原版书籍销毁",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 06时06分]"
-        },
-        {
           "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
           "source": "百度热搜",
@@ -133,18 +183,6 @@
             23,
             12,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 06时06分]"
-        },
-        {
-          "title": "康宁三季度业绩指引略逊预期 AI光通信业务增速放缓 股价盘中跌近20%",
-          "url": "https://www.cls.cn/detail/2439413",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -192,9 +230,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
+          "url": "https://wallstreetcn.com/articles/3778137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "“大空头”继续追杀AI，2000年崩盘暗线回来了？",
@@ -208,15 +257,59 @@
           "time_info": "00时01分"
         },
         {
+          "title": "SK海力士ADR美股盘后跌幅扩大至5.7%，该公司二季度运营利润逊色于分析师预期；韩国股市即将在北京时间08:00开盘。 纳斯达克100指数股指期货在亚太盘初下跌0.5%，AI顾虑和美国-伊朗紧张关系牵动投资者神经。",
+          "url": "https://wallstreetcn.com/livenews/3141236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "SK海力士：利润得到应用于AI服务器和ESSD销售的HBM、DRAM的支撑。",
+          "url": "https://wallstreetcn.com/livenews/3141234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "周二（7月28日），美股存储芯片与硬件供应链指数跌9.11%，连续三个交易日下跌（累跌20.20%），报172.37点，较6月22日所创收盘历史最高位累计回撤将近37.31%。 美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。此外，SK海力士ADR跌8.98%。 科技股七巨头（Magnificent 7）指数涨0.75%，报210.21点。 “超大”市值科技股指数跌0.40%，报411.70点。 美股超大规模云服务商（Hyperscalers）涨0.78%，报87.55点。 信息科技指数跌3.75%，报367.08点。 人工智能（AI）赢家指数跌5.22%，报350.07点。 AI软件先驱指数涨1.11%，报109.59点。",
           "url": "https://wallstreetcn.com/livenews/3141190",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "AI算力需求催热上半年业绩，行业人士称MLCC产业链高景气度下半年将延续",
+          "url": "https://wallstreetcn.com/livenews/3141230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "SK海力士利润创纪录，但未能满足投资者对AI的极高预期",
+          "url": "https://wallstreetcn.com/livenews/3141227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "华尔街大行被视为“AI周边板块”，分析师：股价料因多重利好而跑赢大盘",
@@ -250,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
@@ -264,7 +368,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -275,7 +379,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -343,8 +447,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 07时53分]"
         }
       ]
     }
