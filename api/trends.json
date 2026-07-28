@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-07-28T10:23:13.932304+08:00",
-  "total_titles_processed": 850,
+  "generated_at": "2026-07-28T13:39:45.046236+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
-        {
-          "title": "侵权零成本!电竞选手遭AI换脸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 10时23分]"
-        },
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
@@ -28,8 +15,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 10时23分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 13时39分]"
+        },
+        {
+          "title": "侵权零成本!电竞选手遭AI换脸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356525&amp;topic_name=%E4%BE%B5%E6%9D%83%E9%9B%B6%E6%88%90%E6%9C%AC%21%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%E9%81%ADAI%E6%8D%A2%E8%84%B8",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            20,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 13时39分]"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -134,6 +135,17 @@
           "time_info": "[02时19分 ~ 07时59分]"
         },
         {
+          "title": "AI烧钱疑虑重燃，韩股重挫10%再熔断，日股跌4%、铠侠大跌18%，芯片股全线承压",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "翻唱老歌火爆全网 神秘歌手是AI吗",
           "url": "https://www.baidu.com/s?wd=%E7%BF%BB%E5%94%B1%E8%80%81%E6%AD%8C%E7%81%AB%E7%88%86%E5%85%A8%E7%BD%91+%E7%A5%9E%E7%A7%98%E6%AD%8C%E6%89%8B%E6%98%AFAI%E5%90%97",
           "source": "百度热搜",
@@ -159,6 +171,18 @@
           "time_info": "[06时58分 ~ 07时59分]"
         },
         {
+          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
+          "url": "https://www.cls.cn/detail/2438458",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时39分]"
+        },
+        {
           "title": "花40亿token做出AI督学官",
           "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
           "source": "bilibili 热搜",
@@ -170,6 +194,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时09分 ~ 05时58分]"
+        },
+        {
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时39分]"
         },
         {
           "title": "真有人把AI的照片当成自己",
@@ -196,17 +231,6 @@
           "time_info": "[00时09分 ~ 02时19分]"
         },
         {
-          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
-          "url": "https://www.cls.cn/detail/2438458",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
           "title": "佛得角门将泪流满面图片为AI生成",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2%E5%9B%BE%E7%89%87%E4%B8%BAAI%E7%94%9F%E6%88%90%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -228,17 +252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时58分]"
-        },
-        {
-          "title": "佛得角门将签约泪洒现场？图是AI的",
-          "url": "https://www.toutiao.com/trending/7666819334011584518/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
@@ -327,7 +340,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -376,6 +389,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "芯片和存储的价格走势，说明AI基础设施需求结构正发生变化",
+          "url": "https://flash.jin10.com/detail/20260728131254100800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "虞书欣疑似被AI融脸和声音",
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%96%91%E4%BC%BC%E8%A2%ABAI%E8%9E%8D%E8%84%B8%E5%92%8C%E5%A3%B0%E9%9F%B3%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -407,6 +431,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "鹏华基金王子建：当前AI产业仍处于发展初期 每一轮深度调整或都是优质的布局窗口",
+          "url": "https://flash.jin10.com/detail/20260728130510280800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "AI漫剧就是一场巨大的侵权事件",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%BE%B5%E6%9D%83%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
@@ -448,7 +494,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -470,7 +516,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         },
@@ -498,11 +544,12 @@
           "ranks": [
             12,
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时09分 ~ 10时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时09分 ~ 13时39分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -549,11 +596,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356554&amp;topic_name=%E7%9C%9F%E9%80%97%2CDeepSeek%E8%AF%B4%E8%A6%81%E5%8E%BB%E5%90%83%E9%A5%AD",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时19分 ~ 10时23分]"
+          "appearance_count": 10,
+          "time_info": "[02时19分 ~ 13时39分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
