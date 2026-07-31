@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T07:55:28.149999+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-07-31T09:58:55.383990+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "微软上季云+AI强劲答卷：Azure收入增超40%，资本支出低于预期，新增数据中心租约超1300亿｜财报见闻",
@@ -38,8 +38,36 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 09时58分]"
+        },
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            9,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 09时58分]"
+        },
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 09时58分]"
         },
         {
           "title": "一份备忘录显示，高盛资产管理已经推出人工智能（AI）投资平台AlphaAI，Lou D’Ambrosio将负责领导AlphaAI。（路透）",
@@ -53,30 +81,16 @@
           "time_info": "03时12分"
         },
         {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时55分]"
-        },
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
+          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
+          "url": "https://www.cls.cn/detail/2441965",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时55分]"
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时58分]"
         },
         {
           "title": "微软电话会：2026年资本开支“变相”下降，Azure需求持续超越可用容量，AI变现进入加速轨道",
@@ -103,37 +117,50 @@
           "time_info": "[01时17分 ~ 04时58分]"
         },
         {
-          "title": "华尔街“AI股神”据传卷入强平风暴 老牌资本笑纳“带血筹码”",
-          "url": "https://www.cls.cn/detail/2441965",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
           "title": "三星Q2创史上最强盈利季：净利润暴涨1299.9%超预期，AI芯片狂揽99%利润",
           "url": "https://wallstreetcn.com/articles/3778272",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时58分]"
         },
         {
           "title": "媒体曝因 AI 裁员企业超半数承认决策失误，是真的吗？为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？",
           "url": "https://www.zhihu.com/question/2065915199089894895",
           "source": "知乎",
           "ranks": [
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 09时58分]"
+        },
+        {
+          "title": "日本、韩国据传于昨夜干预汇市 美国再现“AI暴走”事件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2442063",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
+          "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时58分"
         },
         {
           "title": "媒体曝因 AI 裁员企业超半数承认决策失误，为啥这些企业光速反悔了？AI 裁员浪潮结束了吗？暴露出哪些问题？",
@@ -156,6 +183,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时55分]"
+        },
+        {
+          "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
+          "url": "https://www.zhihu.com/question/2066333638568972760",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "降幅高达80%！OpenAI大砍两款AI模型价格 “Token价格战”升温",
+          "url": "https://www.cls.cn/detail/2442077",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
+          "url": "https://wallstreetcn.com/livenews/3142590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
+          "url": "https://wallstreetcn.com/livenews/3142559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "OpenAI大砍两款AI模型价格",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%A4%A7%E7%A0%8D%E4%B8%A4%E6%AC%BEAI%E6%A8%A1%E5%9E%8B%E4%BB%B7%E6%A0%BC",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -192,7 +292,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -210,46 +310,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时55分]"
-        },
-        {
-          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-          "url": "https://wallstreetcn.com/livenews/3142590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
-          "url": "https://wallstreetcn.com/livenews/3142559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "豆包",
       "match_count": 2,
       "titles": [
@@ -259,11 +319,12 @@
           "source": "微博",
           "ranks": [
             1,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时17分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时17分 ~ 09时58分]"
         },
         {
           "title": "豆包飞书团队合并",
