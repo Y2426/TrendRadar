@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T18:29:36.199864+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-08-04T20:54:29.627576+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
@@ -51,6 +51,33 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 20时54分]"
+        },
+        {
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 20时54分]"
+        },
+        {
           "title": "中金：AI之外还有什么值得买",
           "url": "https://wallstreetcn.com/articles/3778538",
           "source": "华尔街见闻",
@@ -74,32 +101,6 @@
           "time_info": "[12时56分 ~ 15时32分]"
         },
         {
-          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
-          "url": "https://www.cls.cn/detail/2444881",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 18时29分]"
-        },
-        {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 18时29分]"
-        },
-        {
           "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
           "url": "https://wallstreetcn.com/articles/3778565",
           "source": "华尔街见闻",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时03分 ~ 15时32分]"
+        },
+        {
+          "title": "UP主用AI证伪经典数学猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
@@ -131,11 +143,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 20时54分]"
         },
         {
           "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
@@ -144,11 +157,12 @@
           "ranks": [
             17,
             14,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 20时54分]"
         },
         {
           "title": "谁来管管AI漫剧女主的穿搭",
@@ -161,6 +175,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时32分 ~ 18时29分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时54分]"
         },
         {
           "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
@@ -197,15 +223,15 @@
           "time_info": "07时03分"
         },
         {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "20时54分"
         },
         {
           "title": "2人用AI造谣小米车祸视频被罚",
@@ -241,6 +267,17 @@
           "time_info": "12时56分"
         },
         {
+          "title": "AI云计算公司Corvex盘前一度大涨约100%，公司宣布已签署一项多年期协议，将向一家领先的人工智能公司提供搭载英伟达Blackwell GPU及英伟达Quantum-2 InfiniBand网络的集群。",
+          "url": "https://wallstreetcn.com/livenews/3144751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "AI存储热潮提振业绩，穆迪首次给予SK海力士A类评级",
           "url": "https://flash.jin10.com/detail/20260804120200259800",
           "source": "金十数据",
@@ -258,7 +295,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -269,7 +306,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -296,6 +333,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "美国财长贝森特：观察到利率已经上升，而AI投资热潮并未减弱。",
+          "url": "https://wallstreetcn.com/livenews/3144738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "AI交易剧烈震荡波及对冲基金，千禧年基金上月亏损2%",
           "url": "https://wallstreetcn.com/livenews/3144298",
           "source": "华尔街见闻-快讯",
@@ -310,7 +358,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -409,6 +457,20 @@
           "time_info": "[01时48分 ~ 07时03分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时56分 ~ 20时54分]"
+        },
+        {
           "title": "DeepSeek V4 Flash后训练揭秘",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash%E5%90%8E%E8%AE%AD%E7%BB%83",
           "source": "bilibili 热搜",
@@ -418,19 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时56分 ~ 18时29分]"
         },
         {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
@@ -443,6 +492,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时44分 ~ 12时56分]"
+        },
+        {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 20时54分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -462,9 +522,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "DeepSeek API出现性能下降情况，现已恢复",
@@ -476,17 +547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         }
       ]
     },
@@ -503,11 +563,12 @@
             10,
             13,
             17,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时48分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时48分 ~ 20时54分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -617,6 +678,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "豆包",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "人不在工位一定要把豆包关了",
+          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%8D%E5%9C%A8%E5%B7%A5%E4%BD%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8A%8A%E8%B1%86%E5%8C%85%E5%85%B3%E4%BA%86&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     }
