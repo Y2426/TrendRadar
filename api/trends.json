@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T03:45:50.059092+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-08-08T04:32:14.474026+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             17,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -40,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -49,11 +50,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -63,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -76,8 +78,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
+        },
+        {
+          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 04时32分]"
         },
         {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
@@ -98,7 +111,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
         },
@@ -125,17 +138,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
-        },
-        {
           "title": "AI大模型迈向分时定价",
           "url": "https://flash.jin10.com/detail/20260807231850535800",
           "source": "金十数据",
@@ -159,11 +161,12 @@
           "ranks": [
             10,
             18,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -173,8 +176,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -183,9 +186,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 04时32分]"
         }
       ]
     },
@@ -202,8 +205,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时43分 ~ 03时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 04时32分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
