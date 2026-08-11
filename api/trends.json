@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T12:59:56.166211+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-08-11T13:54:00.085481+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 12时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 13时54分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 12时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 13时54分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -42,8 +42,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 12时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 13时54分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -51,11 +51,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时54分]"
+        },
+        {
+          "title": "TaiLung被永久禁赛有何内幕",
+          "url": "https://search.bilibili.com/all?keyword=TaiLung%E8%A2%AB%E6%B0%B8%E4%B9%85%E7%A6%81%E8%B5%9B%E6%9C%89%E4%BD%95%E5%86%85%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时59分]"
+          "time_info": "[13时53分 ~ 13时54分]"
         },
         {
           "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
@@ -69,6 +81,18 @@
           "time_info": "11时27分"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时54分]"
+        },
+        {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
           "url": "https://www.cls.cn/detail/2450137",
           "source": "财联社热门",
@@ -80,28 +104,29 @@
           "time_info": "[00时44分 ~ 06时28分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时59分]"
-        },
-        {
           "title": "用AI重返那年相遇的青涩夏天",
           "url": "https://www.douyin.com/hot/2605104",
           "source": "抖音",
           "ranks": [
             9,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 13时54分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时54分]"
         },
         {
           "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
@@ -116,16 +141,15 @@
           "time_info": "[00时44分 ~ 01时44分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时59分]"
+          "time_info": "[13时53分 ~ 13时54分]"
         },
         {
           "title": "Meta发布可单卡运行轻量AI模型，扎克伯格描绘“个人赋能新时代”",
@@ -138,6 +162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时44分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 13时54分]"
         },
         {
           "title": "ai漫剧顶流已经出了8季了",
@@ -425,8 +460,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 12时59分]"
+          "appearance_count": 10,
+          "time_info": "[00时44分 ~ 13时54分]"
         },
         {
           "title": "豆包回应“推荐酒店抽取12%佣金”",
@@ -449,8 +484,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 13时54分]"
         }
       ]
     },
