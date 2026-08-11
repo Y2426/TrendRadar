@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T11:27:46.357008+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-08-11T12:59:56.166211+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 11时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 12时59分]"
         },
         {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 11时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 12时59分]"
         },
         {
           "title": "AI挤占短剧业,真人演员遭偷家",
@@ -37,22 +38,24 @@
           "source": "贴吧",
           "ranks": [
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 11时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 12时59分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8A%E5%81%9A%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时59分]"
         },
         {
           "title": "千问开放AI眼镜生态 支持自建导游、教练、巡检等多种skill",
@@ -61,7 +64,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -77,6 +80,30 @@
           "time_info": "[00时44分 ~ 06时28分]"
         },
         {
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时59分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时59分]"
+        },
+        {
           "title": "JeffDean 称「AI agent 编写代码，品味成稀缺技能」，你如何理解「品味」？",
           "url": "https://www.zhihu.com/question/2066610730116421630",
           "source": "知乎",
@@ -89,28 +116,16 @@
           "time_info": "[00时44分 ~ 01时44分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时27分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
             9,
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时27分]"
+          "time_info": "[11时27分 ~ 12时59分]"
         },
         {
           "title": "Meta发布可单卡运行轻量AI模型，扎克伯格描绘“个人赋能新时代”",
@@ -142,18 +157,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -421,8 +425,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 11时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 12时59分]"
         },
         {
           "title": "豆包回应“推荐酒店抽取12%佣金”",
@@ -441,11 +445,12 @@
           "url": "https://www.zhihu.com/question/2070274629227083477",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时59分]"
         }
       ]
     },
