@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T07:33:29.208851+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-08-14T09:11:40.760216+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -52,8 +52,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -67,6 +67,34 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 05时37分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            3,
+            8,
+            12,
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
+        },
+        {
+          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
+          "url": "https://wallstreetcn.com/articles/3779332",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -83,33 +111,6 @@
           "time_info": "[00时46分 ~ 07时33分]"
         },
         {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            3,
-            8,
-            12,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
-        },
-        {
-          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
-          "url": "https://wallstreetcn.com/articles/3779332",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
-        },
-        {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -120,8 +121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -137,6 +138,30 @@
           "time_info": "[00时46分 ~ 05时37分]"
         },
         {
+          "title": "为什么DeepSeek越涨价越是价格屠夫",
+          "url": "https://www.toutiao.com/trending/7673637537293798953/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 09时11分]"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -148,18 +173,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时50分 ~ 05时37分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 02时51分]"
         },
         {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
@@ -182,12 +195,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 00时47分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
+          "url": "https://www.zhihu.com/question/2071225352072999482",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "DeepSeek官网撤公告疑似回滚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -197,8 +243,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -211,33 +271,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
-        },
-        {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -247,11 +282,12 @@
             19,
             24,
             23,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -261,11 +297,12 @@
             23,
             22,
             17,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -274,6 +311,18 @@
           "ranks": [
             25,
             26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 09时11分]"
+        },
+        {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -319,7 +368,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -330,7 +379,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -344,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "华泰证券：算力升级下AI电源或呈现四大趋势",
+          "url": "https://flash.jin10.com/detail/20260814081717011800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
@@ -360,8 +420,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
+          "url": "https://wallstreetcn.com/livenews/3149391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
         {
           "title": "OpenAI在不到一年内任命新首席营收官",
           "url": "https://wallstreetcn.com/livenews/3149247",
@@ -391,7 +462,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
         },
@@ -526,11 +597,12 @@
             26,
             24,
             21,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时50分 ~ 07时33分]"
+          "appearance_count": 7,
+          "time_info": "[02时50分 ~ 09时11分]"
         }
       ]
     }
