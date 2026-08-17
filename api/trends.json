@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T22:20:37.561200+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2026-08-17T23:18:19.764852+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时33分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[12时33分 ~ 23时18分]"
         },
         {
           "title": "大批AI博主停更了",
@@ -30,8 +30,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[20时25分 ~ 23时18分]"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时17分 ~ 23时18分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -104,19 +117,6 @@
           "time_info": "[01时13分 ~ 10时16分]"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时17分 ~ 22时20分]"
-        },
-        {
           "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
           "url": "https://www.cls.cn/detail/2455490",
           "source": "财联社热门",
@@ -151,6 +151,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 10时16分]"
+        },
+        {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时25分 ~ 23时18分]"
+        },
+        {
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -201,18 +225,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时36分 ~ 19时18分]"
-        },
-        {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时25分 ~ 22时20分]"
         },
         {
           "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
@@ -288,6 +300,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 12时34分]"
+        },
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时17分 ~ 23时18分]"
         },
         {
           "title": "AI做的日剧太逼真了",
@@ -496,7 +519,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -504,7 +527,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -604,6 +627,17 @@
           "time_info": "[12时33分 ~ 12时34分]"
         },
         {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "英伟达：OpenAI承诺2030年前部署约12吉瓦英伟达AI算力",
           "url": "https://wallstreetcn.com/livenews/3150525",
           "source": "华尔街见闻-快讯",
@@ -643,7 +677,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -660,11 +694,12 @@
           "ranks": [
             12,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时36分 ~ 22时20分]"
+          "appearance_count": 10,
+          "time_info": "[14时36分 ~ 23时18分]"
         },
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
