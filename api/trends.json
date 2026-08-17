@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T14:36:44.681764+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-08-17T19:18:19.924488+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -49,6 +49,20 @@
           "time_info": "[01时13分 ~ 08时44分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时15分 ~ 19时18分]"
+        },
+        {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
           "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
           "source": "澎湃新闻",
@@ -89,20 +103,6 @@
           "time_info": "[01时13分 ~ 10时16分]"
         },
         {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时15分 ~ 14时36分]"
-        },
-        {
           "title": "南极冰川现“神秘生物”系AI生成",
           "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -112,6 +112,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 10时16分]"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 19时18分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -139,6 +152,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
+          "url": "https://www.cls.cn/detail/2455726",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 19时18分]"
         },
         {
           "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
@@ -192,18 +217,6 @@
           "time_info": "[01时13分 ~ 07时12分]"
         },
         {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时36分]"
-        },
-        {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
           "url": "https://www.cls.cn/detail/2455402",
           "source": "财联社热门",
@@ -226,6 +239,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时43分 ~ 12时34分]"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "AI如何能辅助办公",
@@ -262,26 +286,37 @@
           "time_info": "12时34分"
         },
         {
-          "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
-          "url": "https://www.cls.cn/detail/2455726",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
-        },
-        {
           "title": "什么信号？高盛辣评Q2财报：AI支出持续激增，但盈利仍遥遥无期！",
           "url": "https://www.cls.cn/detail/2455516",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "阿里推出AI音乐模型快乐虾米",
+          "url": "https://wallstreetcn.com/livenews/3150458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "百度AI漫剧季度分润增长88%，二线短剧平台看到新机会",
+          "url": "https://wallstreetcn.com/livenews/3150457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "AI前沿日报-8月17日",
@@ -290,7 +325,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -304,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        },
+        {
+          "title": "阿里推出AI音乐模型快乐虾米",
+          "url": "https://flash.jin10.com/detail/20260817182608402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "AI产业链的受益面正在变宽，模拟芯片也开始吃到AI红利",
@@ -323,7 +369,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         },
@@ -416,6 +462,18 @@
           "time_info": "[10时15分 ~ 12时34分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 19时18分]"
+        },
+        {
           "title": "博主：DeepSeek要当全球Agent的底座",
           "url": "https://www.toutiao.com/trending/7674830497876282921/",
           "source": "今日头条",
@@ -436,17 +494,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时36分"
         }
       ]
     },
@@ -535,7 +582,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
         }
@@ -568,8 +615,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时44分 ~ 14时36分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 19时18分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
