@@ -1,14 +1,27 @@
 {
-  "generated_at": "2026-08-17T20:26:29.610639+08:00",
-  "total_titles_processed": 1406,
-  "failed_sources": [
-    "tieba"
-  ],
+  "generated_at": "2026-08-17T21:35:14.770036+08:00",
+  "total_titles_processed": 1520,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时33分 ~ 21时35分]"
+        },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33792037",
@@ -65,18 +78,15 @@
           "time_info": "[10时15分 ~ 19时18分]"
         },
         {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
+          "title": "大批AI博主停更了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            9,
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 21时35分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -92,6 +102,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 10时16分]"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 21时35分]"
         },
         {
           "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
@@ -119,17 +141,6 @@
           "time_info": "[01时13分 ~ 10时16分]"
         },
         {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
           "title": "南极冰川现“神秘生物”系AI生成",
           "url": "https://www.baidu.com/s?wd=%E5%8D%97%E6%9E%81%E5%86%B0%E5%B7%9D%E7%8E%B0%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
@@ -139,18 +150,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 10时16分]"
-        },
-        {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 20时26分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -178,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时34分"
+        },
+        {
+          "title": "AI算力CPI",
+          "url": "https://flash.jin10.com/detail/20260817212730193800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
@@ -243,6 +253,17 @@
           "time_info": "[01时13分 ~ 07时12分]"
         },
         {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 21时35分]"
+        },
+        {
           "title": "一块玻璃的进阶之路 蓝思科技向AI全域智能终端延伸 |活力中国调研行",
           "url": "https://www.cls.cn/detail/2455402",
           "source": "财联社热门",
@@ -267,22 +288,22 @@
           "time_info": "[11时43分 ~ 12时34分]"
         },
         {
+          "title": "AI做的日剧太逼真了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E6%97%A5%E5%89%A7%E5%A4%AA%E9%80%BC%E7%9C%9F%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
+        {
           "title": "周鸿祎：马斯克要把整个公司装进AI",
           "url": "https://www.toutiao.com/trending/7674193139624165422/",
           "source": "今日头条",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
-          "url": "https://www.zhihu.com/question/2072607943191696624",
-          "source": "知乎",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -356,6 +377,17 @@
           "time_info": "19时18分"
         },
         {
+          "title": "美团启动2027届校园招聘，新增十余种AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3150521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "AI前沿日报-8月17日",
           "url": "https://flash.jin10.com/detail/20260817140201865800",
           "source": "金十数据",
@@ -384,7 +416,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
@@ -442,123 +474,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
-          "url": "https://www.zhihu.com/question/2072481373085028433",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 11时43分]"
         },
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
+          "title": "美国战争部（即国防部）：向NODA AI授予1亿美元合同，用于扩大联合部队自主力量的任务指挥能力。",
+          "url": "https://flash.jin10.com/detail/20260817210213960800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            7
+            27
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时36分]"
-        },
-        {
-          "title": "DeepSeek正式涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 12时34分]"
-        },
-        {
-          "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
-          "url": "https://www.zhihu.com/question/2072481373085028433",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 20时26分]"
-        },
-        {
-          "title": "DeepSeek调价生效 涨幅最高达1100%",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时15分 ~ 12时34分]"
-        },
-        {
-          "title": "博主：DeepSeek要当全球Agent的底座",
-          "url": "https://www.toutiao.com/trending/7674830497876282921/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
-        },
-        {
-          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
-          "url": "https://www.zhihu.com/question/2072487733474359004",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
-        },
-        {
-          "title": "DeepSeek Harness邪修攻略",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "21时35分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -612,6 +544,17 @@
           "time_info": "[01时13分 ~ 08时44分]"
         },
         {
+          "title": "英伟达(NVDA.O)上涨0.8%，OpenAI承诺将在2030年前大规模部署英伟达AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20260817213122179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "OpenAI内部动荡加剧：重组不断，员工疲惫，高管离职潮持续，上市计划悄然推迟",
           "url": "https://wallstreetcn.com/articles/3779533",
           "source": "华尔街见闻",
@@ -635,6 +578,39 @@
           "time_info": "[12时33分 ~ 12时34分]"
         },
         {
+          "title": "英伟达：OpenAI承诺2030年前部署约12吉瓦英伟达AI算力",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "OpenAI：Ports-Pike项目预计将在截至2032年的六年建设期内创造3.5万个建筑业就业岗位，并长期创造2500个运营岗位。",
+          "url": "https://flash.jin10.com/detail/20260817210940922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "OpenAI CEO：大学读两年就够了",
           "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
           "source": "百度热搜",
@@ -644,6 +620,119 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
+          "url": "https://www.zhihu.com/question/2072481373085028433",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 11时43分]"
+        },
+        {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 21时35分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 14时36分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 12时34分]"
+        },
+        {
+          "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
+          "url": "https://www.zhihu.com/question/2072481373085028433",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "DeepSeek调价生效 涨幅最高达1100%",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时15分 ~ 12时34分]"
+        },
+        {
+          "title": "Opencode Go 也涨价了，哪里还有便宜 DeepSeek ？",
+          "url": "https://www.zhihu.com/question/2072487733474359004",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时25分 ~ 21时35分]"
+        },
+        {
+          "title": "博主：DeepSeek要当全球Agent的底座",
+          "url": "https://www.toutiao.com/trending/7674830497876282921/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "DeepSeek Harness邪修攻略",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E9%82%AA%E4%BF%AE%E6%94%BB%E7%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
         }
       ]
     },
